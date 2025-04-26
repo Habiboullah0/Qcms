@@ -123,7 +123,7 @@
   }
 
   .timer {
-    @apply font-mono font-bold text-warning;
+    @apply font-mono font-bold text-yellow-500;
   }
 
   .correct {
