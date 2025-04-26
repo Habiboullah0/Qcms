@@ -1,0 +1,1010 @@
+[
+    {
+        "question": "Quelles sont les étapes clés mentionnées dans l'introduction qui caractérisent les quatre premières semaines du développement embryonnaire ?",
+        "options": [
+            "La segmentation",
+            "L'organogenèse finale",
+            "La gastrulation",
+            "La neurulation",
+            "La différenciation tissulaire avancée"
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "L'introduction cite la segmentation, la compaction, la blastulation, l'éclosion, l'implantation, la mise en place du disque embryonnaire didermique, la gastrulation, la neurulation et la délimitation comme étapes clés des quatre premières semaines. L'organogenèse finale et la différenciation tissulaire avancée surviennent plus tard."
+    },
+    {
+        "question": "Comment est définie la première semaine du développement embryonnaire ?",
+        "options": [
+            "Comme la période d'implantation active.",
+            "Comme la période pré-implantatoire.",
+            "Comme la phase où le zygote est déjà fixé à l'utérus.",
+            "Comme la période de migration du zygote le long de la trompe de Fallope.",
+            "Comme la phase de préparation de l'endomètre."
+        ],
+        "correct": [1, 3, 4],
+        "explanation": "La première semaine est définie comme la période pré-implantatoire, où le zygote n'a pas encore établi de connexion physique avec l'utérus. Durant cette phase, il migre le long de la trompe et l'endomètre se prépare."
+    },
+    {
+        "question": "Quel processus décrit la série de divisions mitotiques rapides sans augmentation de la taille globale de l'embryon après la fécondation ?",
+        "options": [
+            "La blastulation",
+            "La gastrulation",
+            "La segmentation (clivage)",
+            "La compaction",
+            "La neurulation"
+        ],
+        "correct": [2],
+        "explanation": "La segmentation, ou clivage, est la série de divisions mitotiques rapides que subit le zygote sans augmentation de sa taille globale, produisant des cellules plus petites appelées blastomères."
+    },
+     {
+        "question": "Quelles structures sont formées lors de la compaction au jour 4 ?",
+        "options": [
+            "Le blastocèle",
+            "La morula",
+            "Le bouton embryonnaire (MCI)",
+            "Le trophoblaste",
+            "Le disque embryonnaire didermique"
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "La compaction, vers le jour 4, voit les blastomères former une masse compacte, la morula. C'est le début de la différenciation où les cellules centrales forment le bouton embryonnaire (MCI) et les cellules périphériques forment le trophoblaste."
+    },
+    {
+        "question": "Quelle molécule d'adhérence joue un rôle principal dans la compaction en se localisant aux sites de contact cellule-cellule basolatéraux ?",
+        "options": [
+            "N-cadherine",
+            "Intégrine",
+            "Sélectine",
+            "E-cadherine",
+            "Occludine"
+        ],
+        "correct": [3],
+        "explanation": "La compaction est principalement médiée par la E-cadherine, qui se relocalise au niveau des sites de contact cellule-cellule basolatéraux pendant ce processus pour former des jonctions adhérentes."
+    },
+    {
+        "question": "Qu'est-ce que la blastulation et quelles structures principales la caractérisent ?",
+        "options": [
+            "La formation de la morula",
+            "La transformation de la morula en blastocyste",
+            "L'apparition du blastocèle (cavité liquide)",
+            "La différenciation claire entre la MCI et le trophoblaste",
+            "Le début de la segmentation"
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "La blastulation est la transformation de la morula en blastocyste. Elle est caractérisée par la formation du blastocèle (cavité liquide interne) et la distinction nette entre la masse cellulaire interne (MCI) et le trophoblaste externe."
+    },
+     {
+        "question": "Quels mécanismes contribuent à la formation du blastocèle ?",
+        "options": [
+            "Transport actif d'ions sodium par les pompes Na+/K+-ATPases du trophoblaste",
+            "Sortie passive d'eau hors de l'embryon",
+            "Afflux d'eau dans l'embryon dû à un gradient osmotique",
+            "Présence de canaux aquaporines",
+            "Rupture des jonctions serrées entre les cellules du trophoblaste"
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "La formation du blastocèle implique le transport actif de sodium vers l'intérieur par les pompes Na+/K+-ATPases, créant un gradient osmotique qui attire l'eau via les aquaporines. Les jonctions serrées scellent la cavité."
+    },
+    {
+        "question": "Quand se produit typiquement l'éclosion du blastocyste et quel est son but principal ?",
+        "options": [
+            "Au jour 2-3, pour permettre la compaction.",
+            "Entre le jour 5 et 6, pour permettre l'implantation.",
+            "Au jour 4, pour former le blastocèle.",
+            "Se libérer de la zone pellucide.",
+            "Initier la gastrulation."
+        ],
+        "correct": [1, 3],
+        "explanation": "L'éclosion se produit généralement entre le 5ème et le 6ème jour. Son but est de libérer l'embryon de la zone pellucide, ce qui est essentiel pour permettre l'implantation dans la paroi utérine."
+    },
+    {
+        "question": "Quels facteurs facilitent la migration de l'embryon de la trompe de Fallope vers la cavité utérine ?",
+        "options": [
+            "Les contractions de la musculeuse tubaire",
+            "Le mouvement des cils de l'épithélium tubaire",
+            "Le courant liquidien tubaire",
+            "La sécrétion d'enzymes par l'embryon",
+            "La gravité"
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "La migration est facilitée par les contractions musculaires de la trompe, le courant liquidien et le mouvement des cils tapissant l'épithélium tubaire, dont l'activité est modulée hormonalement."
+    },
+    {
+        "question": "Quelle technique de diagnostic préimplantatoire (DPI) est considérée comme moins préjudiciable à l'embryon car elle échantillonne des cellules ne contribuant pas directement au fœtus ?",
+        "options": [
+            "Biopsie du globule polaire",
+            "Biopsie des blastomères au jour 3",
+            "Biopsie du trophoblaste au stade blastocyste",
+            "Analyse du liquide du blastocèle",
+            "Biopsie de la morula"
+        ],
+        "correct": [2],
+        "explanation": "La biopsie du trophoblaste, réalisée au stade blastocyste (J5-J6), prélève des cellules de la couche externe qui formera le placenta. Elle est considérée comme moins préjudiciable à l'embryon car ces cellules ne contribuent pas au fœtus lui-même."
+    },
+    {
+        "question": "Quelle est la 'loi du tout ou rien' concernant le développement embryonnaire avant le 14ème jour ?",
+        "options": [
+            "L'embryon forme soit un garçon soit une fille.",
+            "Toutes les anomalies entraînent des malformations graves.",
+            "L'embryon se développe normalement ou dégénère complètement en cas d'anomalie.",
+            "Seules les anomalies chromosomiques sont possibles.",
+            "L'embryon ne subit aucune influence extérieure."
+        ],
+        "correct": [2],
+        "explanation": "La 'loi du tout ou rien' stipule qu'avant le 14ème jour, une anomalie significative entraîne généralement la dégénérescence complète de l'embryon plutôt que la formation de malformations. Soit il se développe normalement, soit il ne survit pas."
+    },
+     {
+        "question": "Quels sont les deux événements majeurs de la deuxième semaine du développement embryonnaire ?",
+        "options": [
+            "La segmentation et la compaction",
+            "L'implantation dans la paroi utérine",
+            "La formation du disque embryonnaire didermique",
+            "La gastrulation",
+            "La neurulation"
+        ],
+        "correct": [1, 2],
+        "explanation": "La deuxième semaine est marquée par deux événements majeurs : l'implantation de l'embryon dans la paroi utérine et la formation du disque embryonnaire didermique (composé de l'épiblaste et de l'hypoblaste)."
+    },
+    {
+        "question": "Où se produit généralement l'implantation normale de l'embryon ?",
+        "options": [
+            "Dans la partie inférieure de l'utérus",
+            "Sur la paroi antérieure de l'endomètre",
+            "Dans la trompe de Fallope",
+            "Dans la paroi supérieure et postérieure de l'endomètre",
+            "Au niveau du col de l'utérus"
+        ],
+        "correct": [3],
+        "explanation": "L'implantation se produit normalement dans la paroi supérieure et postérieure de la couche fonctionnelle de l'endomètre."
+    },
+     {
+        "question": "Qu'est-ce que la 'fenêtre d'implantation' ?",
+        "options": [
+            "La période où l'embryon s'échappe de la zone pellucide.",
+            "Une période d'environ 4 jours où l'endomètre est réceptif.",
+            "Correspond aux jours 20-23 d'un cycle menstruel typique.",
+            "La période où la gastrulation commence.",
+            "Le moment où le corps jaune dégénère."
+        ],
+        "correct": [1, 2],
+        "explanation": "La fenêtre d'implantation est une période limitée d'environ 4 jours (J20-J23 du cycle) pendant laquelle l'endomètre est réceptif à l'adhésion et à l'invasion de l'embryon."
+    },
+    {
+        "question": "Quelles sont les étapes séquentielles de l'implantation ?",
+        "options": [
+            "Apposition",
+            "Adhésion",
+            "Compaction",
+            "Invasion et enfouissement",
+            "Blastulation"
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "L'implantation se déroule séquentiellement par l'apposition (contact initial), l'adhésion (fixation solide) et l'invasion/enfouissement (pénétration dans l'endomètre grâce au syncytiotrophoblaste)."
+    },
+    {
+        "question": "Quelles sont les conséquences de la nidation (implantation) ?",
+        "options": [
+            "La réaction déciduale de l'endomètre.",
+            "La formation du blastocyste.",
+            "L'isolement progressif de l'embryon.",
+            "La transformation et le maintien du corps jaune grâce à l'hCG.",
+            "L'éclosion de l'embryon."
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "La nidation entraîne la réaction déciduale de l'endomètre, l'isolement de l'embryon, et le maintien du corps jaune via la sécrétion d'hCG par le trophoblaste, assurant la production de progestérone."
+    },
+    {
+        "question": "Quelles sont les deux couches cellulaires qui composent le disque embryonnaire didermique formé durant la deuxième semaine ?",
+        "options": [
+            "Ectoderme et Mésoderme",
+            "Mésoderme et Endoderme",
+            "Épiblaste et Hypoblaste (endoderme primitif)",
+            "Cytotrophoblaste et Syncytiotrophoblaste",
+            "Amnioblastes et cellules du sac vitellin"
+        ],
+        "correct": [2],
+        "explanation": "Au cours de la deuxième semaine, la masse cellulaire interne se différencie pour former le disque embryonnaire didermique, constitué de l'épiblaste (couche supérieure/dorsale) et de l'hypoblaste ou endoderme primitif (couche inférieure/ventrale)."
+    },
+    {
+        "question": "Quelles structures se forment à partir du mésenchyme extra-embryonnaire pendant la deuxième semaine ?",
+        "options": [
+            "Le cœlome extra-embryonnaire (cavité choriale)",
+            "Le disque embryonnaire didermique",
+            "La lame choriale, la lame amniotique, la lame ombilicale",
+            "Le pédicule embryonnaire",
+            "La cavité amniotique"
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "Le mésenchyme extra-embryonnaire se développe et forme des lacunes qui fusionnent en cœlome extra-embryonnaire. Il s'organise ensuite en lames (choriale, amniotique, ombilicale) et contribue au pédicule embryonnaire."
+    },
+     {
+        "question": "Quelles sont les causes possibles d'une absence de nidation ?",
+        "options": [
+            "Anomalies chromosomiques de l'embryon",
+            "Qualité embryonnaire (morphologie, fragmentation)",
+            "Imprégnation hormonale inadéquate de l'endomètre",
+            "Fermeture précoce du tube neural",
+            "Malformations utérines"
+        ],
+        "correct": [0, 1, 2, 4],
+        "explanation": "L'absence de nidation peut résulter de problèmes liés à l'embryon (qualité, chromosomes ) ou à l'endomètre (hormones, récepteurs, structure utérine ). La fermeture du tube neural est un événement ultérieur."
+    },
+    {
+        "question": "Qu'est-ce qu'une implantation ectopique (GEU) et où peut-elle se produire le plus fréquemment ?",
+        "options": [
+            "Une implantation normale dans le fond utérin.",
+            "Une implantation en dehors de la cavité utérine.",
+            "Le plus souvent dans la trompe de Fallope.",
+            "Uniquement dans l'ovaire.",
+            "Une conséquence d'une zone pellucide trop épaisse."
+        ],
+        "correct": [1, 2],
+        "explanation": "Une implantation ectopique (Grossesse Extra-Utérine) est une implantation de l'embryon hors de la cavité utérine. La localisation la plus fréquente est la trompe de Fallope. Une disparition *précoce* de la zone pellucide peut favoriser les GEU tubaires."
+    },
+    {
+        "question": "Quel processus majeur de la troisième semaine implique la mise en place des trois feuillets embryonnaires (ectoderme, mésoderme, endoderme) ?",
+        "options": [
+            "Neurulation",
+            "Organogenèse",
+            "Gastrulation",
+            "Segmentation",
+            "Délimitation"
+        ],
+        "correct": [2],
+        "explanation": "La gastrulation, événement clé de la troisième semaine, est le processus par lequel les trois feuillets embryonnaires fondamentaux (ectoderme, mésoderme, endoderme) sont mis en place."
+    },
+    {
+        "question": "Comment débute la gastrulation ?",
+        "options": [
+            "Par la formation du tube neural.",
+            "Par la formation de la ligne primitive sur la face dorsale de l'épiblaste.",
+            "Par l'invagination des cellules de l'hypoblaste.",
+            "Par la délimitation de l'embryon.",
+            "Par la différenciation du trophoblaste."
+        ],
+        "correct": [1],
+        "explanation": "La gastrulation commence avec la formation de la ligne primitive, issue de la prolifération et de l'invagination des cellules épiblastiques sur la face dorsale de l'épiblaste, selon un axe céphalo-caudal."
+    },
+     {
+        "question": "Quel feuillet embryonnaire est formé par les cellules épiblastiques qui s'invaginent à travers la ligne primitive et se placent entre l'épiblaste restant et l'endoderme définitif ?",
+        "options": [
+            "Ectoderme",
+            "Endoderme",
+            "Mésoderme",
+            "Hypoblaste",
+            "Trophoblaste"
+        ],
+        "correct": [2],
+        "explanation": "Les cellules épiblastiques qui migrent et s'invaginent via la ligne primitive forment le mésoderme, le nouveau feuillet intermédiaire situé entre l'ectoderme (épiblaste restant) et l'endoderme (formé par remplacement de l'hypoblaste)."
+    },
+     {
+        "question": "Quelles structures ou régions dérivent du mésoblaste para-axial ?",
+        "options": [
+            "La chorde dorsale",
+            "Les somites",
+            "Les voies urogénitales",
+            "Le cœlome intra-embryonnaire",
+            "Les vertèbres et muscles squelettiques"
+        ],
+        "correct": [1, 4],
+        "explanation": "Le mésoblaste para-axial se segmente pour former les somites. Les somites sont les précurseurs des vertèbres, des muscles squelettiques et du derme."
+    },
+    {
+        "question": "Quel processus, débutant également la troisième semaine, conduit à la formation du tissu nerveux ?",
+        "options": [
+            "Gastrulation",
+            "Segmentation",
+            "Blastulation",
+            "Neurulation",
+            "Compaction"
+        ],
+        "correct": [3],
+        "explanation": "La neurulation est le processus de formation du tissu nerveux (plaque neurale, gouttière neurale, tube neural) qui commence pendant la troisième semaine, parallèlement à la gastrulation."
+    },
+    {
+        "question": "Quelle structure induit la formation de la plaque neurale à partir de l'ectoderme sus-jacent ?",
+        "options": [
+            "La ligne primitive",
+            "Le nœud de Hensen",
+            "La chorde dorsale",
+            "L'endoderme",
+            "Le mésoderme latéral"
+        ],
+        "correct": [2],
+        "explanation": "La chorde dorsale (formée par le mésoblaste axial) joue un rôle inducteur crucial en signalant à l'ectoderme situé au-dessus (neuroectoblaste) de se différencier en plaque neurale."
+    },
+    {
+        "question": "Quelles structures résultent de la migration des cellules des crêtes neurales ?",
+        "options": [
+            "Le cerveau et la moelle épinière",
+            "Les neurones du système nerveux périphérique",
+            "Les cellules de Schwann",
+            "Les mélanocytes (cellules pigmentaires)",
+            "Les muscles squelettiques"
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "Les cellules des crêtes neurales se détachent lors de la fermeture du tube neural et migrent pour former une grande diversité de cellules, incluant les neurones périphériques, les cellules de Schwann, les mélanocytes, et une partie du squelette facial. Le cerveau et la moelle épinière dérivent du tube neural lui-même."
+    },
+    {
+        "question": "Quelles anomalies peuvent résulter d'une fermeture incomplète du tube neural ?",
+        "options": [
+            "Tératome sacrococcygien",
+            "Jumeaux siamois",
+            "Anencéphalie",
+            "Spina bifida",
+            "Gestation extra-utérine"
+        ],
+        "correct": [2, 3],
+        "explanation": "Une fermeture incomplète du tube neural cause des malformations comme l'anencéphalie (défaut de fermeture antérieure ) et le spina bifida (défaut de fermeture postérieure ). Les tératomes sont liés à la ligne primitive et les jumeaux siamois à la séparation de l'épiblaste."
+    },
+    {
+        "question": "Quel processus majeur caractérise la quatrième semaine et transforme l'embryon d'une structure plane en une forme cylindrique ?",
+        "options": [
+            "Gastrulation",
+            "Neurulation",
+            "Délimitation (plicature)",
+            "Implantation",
+            "Segmentation"
+        ],
+        "correct": [2],
+        "explanation": "La quatrième semaine est marquée par la délimitation de l'embryon, un processus de plicature (repliement) qui transforme le disque embryonnaire tridermique plat en une structure cylindrique incurvée."
+    },
+    {
+        "question": "Quels types de plicatures simultanées contribuent à la délimitation de l'embryon ?",
+        "options": [
+            "Plicature dorso-ventrale (transversale)",
+            "Plicature antéro-postérieure",
+            "Plicature céphalo-caudale (longitudinale)",
+            "Plicature latérale",
+            "Plicature interne"
+        ],
+        "correct": [0, 2],
+        "explanation": "La délimitation résulte de deux types de plicatures simultanées : une plicature selon l'axe dorso-ventral (ou transversal/latéral) et une plicature selon l'axe céphalo-caudal (ou longitudinal)."
+    },
+    {
+        "question": "Quels facteurs mécaniques contribuent au processus de délimitation ?",
+        "options": [
+            "La croissance rapide de la cavité amniotique",
+            "Le volume fixe du sac vitellin",
+            "Une croissance différentielle (pôle céphalique plus rapide)",
+            "La formation de la chorde",
+            "L'activité du syncytiotrophoblaste"
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "La délimitation est favorisée par la croissance importante de la cavité amniotique qui enveloppe l'embryon, le volume relativement stable du sac vitellin, et la croissance plus rapide du pôle céphalique par rapport au pôle caudal."
+    },
+    {
+        "question": "Quelle est une conséquence anatomique majeure de la délimitation concernant la position de l'aire cardiaque ?",
+        "options": [
+            "Elle reste en position crâniale.",
+            "Elle se déplace en position dorsale.",
+            "Elle se retrouve en position ventrale.",
+            "Elle disparaît temporairement.",
+            "Elle fusionne avec l'intestin primitif."
+        ],
+        "correct": [2],
+        "explanation": "Suite à la plicature céphalo-caudale, l'aire cardiaque, qui était initialement en position crâniale par rapport au disque embryonnaire, se retrouve déplacée en position ventrale dans le thorax futur."
+    },
+    {
+        "question": "À partir de quel feuillet embryonnaire dérivent l'épiderme et le système nerveux ?",
+        "options": [
+            "Endoderme",
+            "Mésoderme",
+            "Ectoderme",
+            "Hypoblaste",
+            "Mésenchyme extra-embryonnaire"
+        ],
+        "correct": [2],
+        "explanation": "L'ectoderme est à l'origine de l'épiderme (couche externe de la peau) et du système nerveux central (cerveau, moelle épinière) et périphérique, ainsi que des organes des sens."
+    },
+    {
+        "question": "Quelles structures sont formées à partir du mésoderme lors de l'organogenèse initiale ?",
+        "options": [
+            "Revêtement du tube digestif",
+            "Muscles et os",
+            "Système circulatoire (cœur, vaisseaux)",
+            "Reins et gonades",
+            "Foie et pancréas"
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "Le mésoderme donne naissance à une grande variété de tissus, notamment les muscles, les os, le cartilage, le système circulatoire, les reins et les gonades. Le revêtement digestif, le foie et le pancréas dérivent de l'endoderme."
+    },
+    {
+        "question": "De quel feuillet embryonnaire provient le revêtement épithélial du système respiratoire et du tube digestif ?",
+        "options": [
+            "Ectoderme",
+            "Mésoderme para-axial",
+            "Mésoderme latéral",
+            "Crêtes neurales",
+            "Endoderme"
+        ],
+        "correct": [4],
+        "explanation": "L'endoderme forme le revêtement épithélial interne de nombreux organes, y compris le tube digestif et le système respiratoire, ainsi que des glandes associées comme le foie et le pancréas."
+    },
+    {
+        "question": "Quel est le devenir des cellules du bouton embryonnaire (MCI) après la compaction ?",
+        "options": [
+            "Elles forment le placenta.",
+            "Elles sont pluripotentes.",
+            "Elles donnent naissance à tous les types de cellules de l'embryon proprement dit.",
+            "Elles forment le trophoblaste.",
+            "Elles sont totipotentes."
+        ],
+        "correct": [1, 2],
+        "explanation": "Après la compaction, les cellules centrales de la morula forment le bouton embryonnaire ou Masse Cellulaire Interne (MCI). Ces cellules sont pluripotentes, capables de donner tous les types cellulaires de l'embryon, mais pas les annexes comme le placenta (qui dérive du trophoblaste)."
+    },
+    {
+        "question": "Quel est le rôle principal des cellules du trophoblaste formées lors de la compaction ?",
+        "options": [
+            "Donner naissance à l'embryon.",
+            "Former les structures extra-embryonnaires (enveloppes fœtales, placenta).",
+            "Contribuer à la formation du blastocèle.",
+            "Rester totipotentes indéfiniment.",
+            "Initier la gastrulation."
+        ],
+        "correct": [1, 2],
+        "explanation": "Les cellules périphériques de la morula forment le trophoblaste. Leur destin principal est de former les structures extra-embryonnaires, notamment les enveloppes fœtales et la partie fœtale du placenta. Elles jouent aussi un rôle dans la formation du blastocèle via les pompes ioniques."
+    },
+    {
+        "question": "Quel est le rôle des pompes Na+/K+-ATPases et des aquaporines dans la blastulation ?",
+        "options": [
+            "Maintenir la cohésion de la morula.",
+            "Expulser l'eau de l'embryon.",
+            "Créer un gradient osmotique en pompant du sodium vers l'intérieur.",
+            "Faciliter l'afflux d'eau pour former le blastocèle.",
+            "Dégrader la zone pellucide."
+        ],
+        "correct": [2, 3],
+        "explanation": "Les pompes Na+/K+-ATPases sur la face basolatérale des cellules du trophoblaste transportent activement du sodium dans la morula, créant un gradient osmotique. Ce gradient attire l'eau vers l'intérieur via les canaux aquaporines, formant ainsi la cavité liquide du blastocèle."
+    },
+    {
+        "question": "Qu'est-ce que la Transition du Milieu Blastula (MBT) mentionnée pendant la blastulation ?",
+        "options": [
+            "Le passage de la morula au blastocyste.",
+            "Le moment où l'embryon s'implante.",
+            "Le transfert du contrôle du développement de l'ARN maternel au génome de l'embryon.",
+            "La dégradation de l'ARN maternel.",
+            "L'activation du génome embryonnaire."
+        ],
+        "correct": [2, 3, 4],
+        "explanation": "La Transition du Milieu Blastula (MBT) est un changement crucial où le contrôle du développement passe des réserves d'ARN maternel au génome de l'embryon nouvellement activé. Cela implique la dégradation de l'ARN maternel et prépare l'embryon à des processus plus complexes."
+    },
+    {
+        "question": "Quels facteurs peuvent entraver l'éclosion du blastocyste ?",
+        "options": [
+            "Une zone pellucide (ZP) anormalement épaisse.",
+            "Une expansion insuffisante du blastocèle.",
+            "Une activité enzymatique excessive du trophoblaste.",
+            "Des contractions trop fortes des blastomères.",
+            "Une ZP trop fine."
+        ],
+        "correct": [0, 1],
+        "explanation": "Le succès de l'éclosion dépend d'un équilibre. Une ZP anormalement épaisse ou une expansion insuffisante du blastocèle (manque de pression interne) peuvent empêcher l'embryon de se libérer et conduire à l'infertilité."
+    },
+    {
+        "question": "Quelle technique de DPI implique le prélèvement de cellules d'un embryon au stade de clivage (J3-J5) ?",
+        "options": [
+            "Biopsie du globule polaire",
+            "Biopsie du trophoblaste",
+            "Biopsie des blastomères",
+            "Analyse de l'ADN acellulaire",
+            "Biopsie de la morula"
+        ],
+        "correct": [2],
+        "explanation": "La biopsie des blastomères consiste à prélever une ou plusieurs cellules (blastomères) d'un embryon au stade de clivage, typiquement entre les jours 3 et 5."
+    },
+    {
+        "question": "Quels sont les inconvénients potentiels de la biopsie des blastomères pour le DPI ?",
+        "options": [
+            "Nécessite d'attendre le stade blastocyste.",
+            "Prélèvement d'une proportion significative de cellules de l'embryon précoce.",
+            "Risque lié au mosaïsme embryonnaire (la cellule prélevée n'est pas représentative).",
+            "Ne fournit que l'information génétique maternelle.",
+            "Moins de matériel génétique pour l'analyse."
+        ],
+        "correct": [1, 2],
+        "explanation": "Les inconvénients de la biopsie des blastomères incluent le retrait d'une part non négligeable des cellules de l'embryon à un stade précoce et le risque que la ou les cellules analysées ne reflètent pas la composition génétique de l'ensemble de l'embryon en raison du mosaïsme."
+    },
+    {
+        "question": "Quelles couches forment le trophoblaste après le début de l'invasion lors de l'implantation ?",
+        "options": [
+            "Épiblaste",
+            "Hypoblaste",
+            "Syncytiotrophoblaste (ST)",
+            "Cytotrophoblaste (CT)",
+            "Mésoderme extra-embryonnaire"
+        ],
+        "correct": [2, 3],
+        "explanation": "Lors de l'invasion de l'endomètre, le trophoblaste se différencie en deux couches distinctes : le syncytiotrophoblaste (ST), une masse multinucléée externe invasive, et le cytotrophoblaste (CT), une couche interne de cellules individuelles."
+    },
+    {
+        "question": "Quel est le rôle du syncytiotrophoblaste (ST) pendant l'implantation ?",
+        "options": [
+            "Produire l'hormone hCG.",
+            "Développer des capacités enzymatiques lytiques.",
+            "Éroder les tissus endométriaux.",
+            "Former des lacunes remplies de sang maternel.",
+            "Donner naissance à l'épiblaste."
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "Le syncytiotrophoblaste (ST) est la couche invasive qui produit des enzymes pour éroder l'endomètre, permettant l'enfouissement. Des lacunes s'y forment et se remplissent de sang maternel, initiant la circulation utéro-placentaire primitive. L'hCG est également produite par le trophoblaste, maintenant le corps jaune."
+    },
+    {
+        "question": "Comment l'implantation influence-t-elle le corps jaune ovarien ?",
+        "options": [
+            "Elle provoque sa dégénérescence rapide.",
+            "Elle envoie un signal (hCG) pour maintenir son activité.",
+            "Elle assure la production continue de progestérone par le corps jaune.",
+            "Elle le transforme en corps albicans.",
+            "Elle stimule la production d'œstrogènes par le corps jaune pour supprimer les menstruations."
+        ],
+        "correct": [1, 2, 4],
+        "explanation": "L'implantation sauve le corps jaune de la dégénérescence. Le trophoblaste sécrète l'hCG, qui signale au corps jaune de survivre, grossir et continuer à produire de la progestérone et des œstrogènes, maintenant ainsi la grossesse et supprimant les menstruations."
+    },
+    {
+        "question": "Qu'est-ce que la réaction déciduale ?",
+        "options": [
+            "Une réaction allergique de la mère à l'embryon.",
+            "La transformation de l'endomètre pour soutenir la grossesse.",
+            "Des changements cellulaires et vasculaires dans l'endomètre.",
+            "La formation du placenta.",
+            "La production d'hCG."
+        ],
+        "correct": [1, 2],
+        "explanation": "La réaction déciduale est la transformation que subit l'endomètre après l'implantation, impliquant des changements cellulaires et vasculaires importants pour créer un environnement favorable au soutien de la grossesse."
+    },
+    {
+        "question": "Quelle cavité se forme au sein de l'épiblaste pendant la deuxième semaine ?",
+        "options": [
+            "Blastocèle",
+            "Cœlome extra-embryonnaire",
+            "Cavité amniotique",
+            "Sac vitellin primitif",
+            "Cavité choriale"
+        ],
+        "correct": [2],
+        "explanation": "Pendant la formation du disque didermique (deuxième semaine), une cavité apparaît au sein de l'épiblaste : c'est la cavité amniotique, bordée par des cellules appelées amnioblastes."
+    },
+    {
+        "question": "Quel rôle joue le système endocannabinoïde dans l'implantation ?",
+        "options": [
+            "Il empêche l'implantation.",
+            "Il participe à la synchronisation entre l'embryon et l'endomètre.",
+            "Il influence la réceptivité utérine.",
+            "Les niveaux d'anandamide (AEA) utérine doivent être précisément régulés.",
+            "Il est uniquement exprimé par l'endomètre."
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "Le système endocannabinoïde est crucial pour la fenêtre d'implantation. Il aide à synchroniser l'embryon (qui exprime des récepteurs) et l'endomètre réceptif. Les niveaux d'anandamide (AEA) dans l'utérus influencent cette réceptivité et doivent être adéquats (ni trop hauts, ni trop bas) pour une implantation réussie."
+    },
+     {
+        "question": "À partir de quelle structure la ligne primitive se forme-t-elle au début de la gastrulation ?",
+        "options": [
+            "Hypoblaste",
+            "Face ventrale de l'épiblaste",
+            "Face dorsale de l'épiblaste",
+            "Mésoderme extra-embryonnaire",
+            "Nœud de Hensen"
+        ],
+        "correct": [2],
+        "explanation": "La gastrulation commence par la formation de la ligne primitive sur la face dorsale de l'épiblaste. Elle résulte de la prolifération et de la migration des cellules épiblastiques."
+    },
+    {
+        "question": "Quel est le devenir des cellules de l'hypoblaste lors de la gastrulation ?",
+        "options": [
+            "Elles forment l'ectoderme.",
+            "Elles forment le mésoderme.",
+            "Elles sont remplacées par des cellules épiblastiques invaginées.",
+            "Elles forment l'endoderme définitif.",
+            "Elles persistent pour former le sac vitellin."
+        ],
+        "correct": [2, 3],
+        "explanation": "Au cours de la gastrulation, les cellules de l'hypoblaste (endoderme primitif) sont progressivement déplacées et remplacées par les premières cellules épiblastiques qui s'invaginent à travers la ligne primitive, formant ainsi l'endoderme définitif."
+    },
+     {
+        "question": "Quelles zones du disque embryonnaire sont épargnées par la migration des cellules mésodermiques issues de la ligne primitive ?",
+        "options": [
+            "La région du nœud de Hensen",
+            "La membrane pharyngienne (extrémité crâniale)",
+            "La ligne primitive elle-même",
+            "La membrane cloacale (extrémité caudale)",
+            "La chorde dorsale"
+        ],
+        "correct": [1, 3],
+        "explanation": "Les cellules mésodermiques migrent entre l'ectoderme et l'endoderme, mais deux zones restent dépourvues de mésoderme intermédiaire : la membrane pharyngienne à l'extrémité crâniale et la membrane cloacale à l'extrémité caudale. Dans ces zones, ectoderme et endoderme restent en contact direct."
+    },
+     {
+        "question": "Quelle structure transitoire importante pour l'induction neurale est formée par le mésoblaste axial ?",
+        "options": [
+            "Les somites",
+            "Le tube neural",
+            "La chorde dorsale",
+            "Le cœlome intra-embryonnaire",
+            "Les crêtes neurales"
+        ],
+        "correct": [2],
+        "explanation": "Le mésoblaste axial, situé dans l'axe médian de l'embryon, se différencie pour former la chorde dorsale (ou notochorde). C'est une structure squelettique transitoire essentielle qui induit la formation de la plaque neurale dans l'ectoderme sus-jacent."
+    },
+    {
+        "question": "Quelle structure donne naissance aux voies urogénitales ?",
+        "options": [
+            "Mésoblaste para-axial",
+            "Mésoblaste intermédiaire",
+            "Mésoblaste latéral",
+            "Chorde dorsale",
+            "Endoderme"
+        ],
+        "correct": [1],
+        "explanation": "Le mésoblaste intermédiaire, situé entre le mésoblaste para-axial (somites) et le mésoblaste latéral, est à l'origine des structures du système urogénital, c'est-à-dire les reins et les gonades."
+    },
+     {
+        "question": "Comment se forme le tube neural pendant la neurulation ?",
+        "options": [
+            "Par invagination de la ligne primitive.",
+            "Par repliement de la plaque neurale pour former une gouttière.",
+            "Par segmentation du mésoblaste para-axial.",
+            "Par fusion des bourrelets neuraux bordant la gouttière.",
+            "Par migration des cellules des crêtes neurales."
+        ],
+        "correct": [1, 3],
+        "explanation": "La neurulation commence par l'épaississement de l'ectoderme en plaque neurale. Celle-ci se creuse en gouttière neurale, dont les bords (bourrelets neuraux) s'élèvent et fusionnent dorsalement pour fermer le tube neural."
+    },
+     {
+        "question": "Quelles sont les dernières parties du tube neural à se fermer ?",
+        "options": [
+            "La partie médiane",
+            "Le neuropore céphalique (antérieur)",
+            "Les bourrelets neuraux",
+            "Le neuropore caudal (postérieur)",
+            "La plaque neurale"
+        ],
+        "correct": [1, 3],
+        "explanation": "La fermeture du tube neural progresse depuis la région cervicale vers les extrémités. Les ouvertures restantes aux extrémités crâniale et caudale sont les neuropores céphalique (antérieur) et caudal (postérieur), qui se ferment en dernier, vers le 26-28ème jour."
+    },
+    {
+        "question": "Quelle malformation est associée à une persistance de la ligne primitive ?",
+        "options": [
+            "Anencéphalie",
+            "Spina bifida",
+            "Tératome sacrococcygien",
+            "Jumeaux siamois",
+            "Grossesse extra-utérine"
+        ],
+        "correct": [2],
+        "explanation": "Des anomalies dans la régression de la ligne primitive, qui normalement disparaît après la gastrulation, peuvent conduire à la formation de tératomes sacrococcygiens, des tumeurs contenant divers types de tissus dérivés des trois feuillets."
+    },
+    {
+        "question": "Quel feuillet embryonnaire est à l'origine de la vessie ?",
+        "options": [
+            "Ectoderme",
+            "Mésoderme",
+            "Endoderme",
+            "Crêtes neurales",
+            "Mésoblaste intermédiaire"
+        ],
+        "correct": [2],
+        "explanation": "L'endoderme donne naissance au revêtement épithélial de la majeure partie du tube digestif et de ses dérivés (foie, pancréas), du système respiratoire et de la vessie."
+    },
+    {
+        "question": "Quelle est la principale conséquence de la plicature céphalo-caudale sur la position de la membrane cloacale ?",
+        "options": [
+            "Elle se déplace en position ventrale.",
+            "Elle reste à l'extrémité caudale mais devient plus ventrale.",
+            "Elle est incorporée dans la chorde.",
+            "Elle disparaît.",
+            "Elle fusionne avec la membrane pharyngienne."
+        ],
+        "correct": [1],
+        "explanation": "La plicature céphalo-caudale (longitudinale) replie les extrémités de l'embryon vers le bas (ventralement). La membrane cloacale, initialement à l'extrémité caudale du disque plat, se retrouve ainsi sur la face ventrale de la région caudale de l'embryon."
+    },
+    {
+        "question": "À la fin des quatre premières semaines, quelle est l'organisation générale de l'embryon ?",
+        "options": [
+            "Un disque plat tridermique.",
+            "Une sphère creuse (blastocyste).",
+            "Une structure cylindrique incurvée.",
+            "Les ébauches des principaux organes sont présentes.",
+            "L'embryon est délimité de ses annexes."
+        ],
+        "correct": [2, 3, 4],
+        "explanation": "Suite à la délimitation (plicature) durant la quatrième semaine, l'embryon passe d'un disque plat à une forme cylindrique incurvée. Il est séparé de ses annexes (comme le sac vitellin) et les trois feuillets ont commencé à former les ébauches des organes (organogenèse initiale)."
+    },
+    {
+        "question": "Quel est le stade de développement de l'embryon humain au jour 2 (J2) après la fécondation ?",
+        "options": [
+            "Zygote (1 cellule)",
+            "Stade 2PN (2 pronoyaux)",
+            "Stade 4 cellules",
+            "Morula",
+            "Blastocyste"
+        ],
+        "correct": [2],
+        "explanation": "Selon la chronologie de la segmentation, l'embryon atteint le stade 4 cellules au jour 2 (J2), résultant des deux premières divisions mitotiques après la fécondation."
+    },
+    {
+        "question": "Autour de quel jour la morula est-elle généralement formée ?",
+        "options": [
+            "Jour 1 (J1)",
+            "Jour 2 (J2)",
+            "Jour 3 (J3)",
+            "Jour 4 (J4)",
+            "Jour 5 (J5)"
+        ],
+        "correct": [3],
+        "explanation": "Les divisions de segmentation se poursuivent pour aboutir à la formation de la morula, un amas solide de 12 à 16 blastomères, autour du jour 4 (J4)."
+    },
+    {
+        "question": "Comment les premières divisions de clivage (segmentation) diffèrent-elles des cycles cellulaires standards ?",
+        "options": [
+            "Elles sont plus lentes.",
+            "Elles incluent des phases G1 et G2 prolongées.",
+            "Elles sont rapides et dépourvues des phases G1 et G2.",
+            "Elles entraînent une augmentation de la taille de l'embryon.",
+            "Elles sont contrôlées uniquement par le génome embryonnaire."
+        ],
+        "correct": [2],
+        "explanation": "Les premières divisions de clivage sont très rapides et se caractérisent par l'absence des phases G1 et G2 du cycle cellulaire standard, jusqu'à la transition du milieu blastula (MBT)."
+    },
+    {
+        "question": "Quelle est la signification de la totipotence des blastomères précoces, perdue lors de la compaction ?",
+        "options": [
+            "Capacité à former uniquement le placenta.",
+            "Capacité à se développer en n'importe quel type de cellule (embryon et placenta).",
+            "Capacité à former uniquement l'embryon.",
+            "Capacité à former uniquement le trophoblaste.",
+            "Capacité limitée à la segmentation."
+        ],
+        "correct": [1],
+        "explanation": "La totipotence signifie que chaque blastomère précoce a la capacité intrinsèque de se développer en n'importe quel type de cellule, que ce soit de l'embryon lui-même ou des structures extra-embryonnaires comme le placenta. Cette capacité est perdue lors de la compaction au profit de la pluripotence (MCI) ou d'un destin trophoblastique."
+    },
+    {
+        "question": "Quel est le rôle du cytosquelette d'actomyosine et de la myosine non musculaire 2B (MYH10) dans la compaction ?",
+        "options": [
+            "Augmenter l'adhérence via l'E-cadherine.",
+            "Assurer la contractilité cellulaire, notamment à l'interface cellule-milieu.",
+            "Former les jonctions serrées.",
+            "Pomper les ions sodium pour former le blastocèle.",
+            "Dégrader la zone pellucide."
+        ],
+        "correct": [1],
+        "explanation": "La contractilité cellulaire, assurée principalement par le cytosquelette d'actomyosine (impliquant MYH10 et MLCK), joue un rôle crucial dans la compaction en augmentant la tension à l'interface entre les cellules et le milieu extérieur."
+    },
+    {
+        "question": "Quelle est la différence principale observée dans le mécanisme de compaction entre l'embryon humain et celui de la souris ?",
+        "options": [
+            "La souris n'utilise pas l'E-cadherine.",
+            "Chez l'humain, la tension diminue aux contacts cellule-cellule.",
+            "Chez la souris, la tension superficielle diminue.",
+            "Chez l'humain, l'augmentation de tension à l'interface cellule-milieu est le moteur principal.",
+            "La compaction est plus tardive chez la souris."
+        ],
+        "correct": [3],
+        "explanation": "Alors que la compaction chez la souris implique à la fois une augmentation de la tension superficielle et une diminution de la tension aux contacts cellule-cellule, chez l'humain, le moteur principal semble être l'augmentation de la tension à l'interface cellule-milieu, sans relâchement notable des contacts intercellulaires."
+    },
+    {
+        "question": "À quel pôle du blastocyste se situe la Masse Cellulaire Interne (MCI) ?",
+        "options": [
+            "Pôle animal",
+            "Pôle végétatif",
+            "Pôle abembryonnaire",
+            "Pôle anti-embryonnaire",
+            "Pôle embryonnaire"
+        ],
+        "correct": [4],
+        "explanation": "La Masse Cellulaire Interne (MCI), ou bouton embryonnaire, est localisée à un pôle spécifique du blastocyste appelé le pôle embryonnaire."
+    },
+    {
+        "question": "Quel est le rôle des jonctions serrées formées entre les cellules du trophoblaste lors de la blastulation ?",
+        "options": [
+            "Permettre le passage facile de l'eau.",
+            "Faciliter l'adhésion à l'endomètre.",
+            "Maintenir l'adhérence entre les blastomères.",
+            "Sceller le blastocèle et maintenir son environnement liquide interne.",
+            "Participer à la compaction."
+        ],
+        "correct": [3],
+        "explanation": "Les jonctions serrées qui se forment entre les cellules du trophoblaste sont essentielles pour sceller hermétiquement la cavité du blastocèle, empêchant ainsi les fuites et maintenant l'environnement liquide interne nécessaire à l'expansion."
+    },
+    {
+        "question": "Au niveau de quel pôle du blastocyste l'éclosion (rupture de la zone pellucide) se produit-elle généralement ?",
+        "options": [
+            "Pôle embryonnaire (où se trouve la MCI)",
+            "Pôle abembryonnaire (opposé à la MCI)",
+            "De manière aléatoire sur toute la surface",
+            "Au niveau de l'équateur",
+            "Pôle animal"
+        ],
+        "correct": [1],
+        "explanation": "L'éclosion du blastocyste, permettant sa sortie de la zone pellucide, se produit généralement au pôle opposé à la masse cellulaire interne (MCI), connu sous le nom de pôle abembryonnaire."
+    },
+    {
+        "question": "Quelle est l'influence des hormones ovariennes (œstrogènes, progestérone) sur la migration embryonnaire dans la trompe ?",
+        "options": [
+            "Elles inhibent les contractions tubaires.",
+            "Elles arrêtent le mouvement des cils.",
+            "Elles modulent l'activité des cils de l'épithélium tubaire.",
+            "Elles augmentent l'épaisseur de la zone pellucide.",
+            "Elles n'ont aucun effet sur la migration."
+        ],
+        "correct": [2],
+        "explanation": "Les hormones ovariennes, œstrogènes et progestérone, modulent l'activité des cils qui tapissent l'épithélium de la trompe, influençant ainsi le courant créé par leur battement et favorisant le déplacement de l'embryon vers l'utérus."
+    },
+    {
+        "question": "Quel est l'avantage principal de la biopsie du trophoblaste par rapport à la biopsie des blastomères pour le DPI ?",
+        "options": [
+            "Peut être réalisée plus tôt (J3).",
+            "Ne nécessite pas de congélation de l'embryon.",
+            "Prélève des cellules ne contribuant pas au fœtus.",
+            "Fournit plus de matériel génétique pour l'analyse.",
+            "Est potentiellement plus précise pour le diagnostic."
+        ],
+        "correct": [2, 3, 4],
+        "explanation": "La biopsie du trophoblaste (J5-J6) est considérée comme avantageuse car elle prélève des cellules destinées au placenta (moins préjudiciable), fournit une plus grande quantité d'ADN pour l'analyse, et est potentiellement plus précise, notamment pour détecter le mosaïsme."
+    },
+    {
+        "question": "Quelle proportion approximative des zygotes dégénère naturellement au cours de la première semaine ?",
+        "options": [
+            "Environ 10%",
+            "Environ 30%",
+            "Environ 50%",
+            "Environ 70%",
+            "Environ 90%"
+        ],
+        "correct": [3],
+        "explanation": "Une proportion significative, environ 70%, des zygotes humains présentent des altérations et dégénèrent spontanément au cours de la première semaine, agissant comme une forme de sélection naturelle précoce."
+    },
+     {
+        "question": "Quelle phase du cycle menstruel favorise l'implantation en préparant l'endomètre ?",
+        "options": [
+            "Phase folliculaire",
+            "Phase ovulatoire",
+            "Phase progestative (sécrétoire)",
+            "Phase menstruelle",
+            "Phase ischémique"
+        ],
+        "correct": [2],
+        "explanation": "L'implantation est favorisée par la phase progestative (ou sécrétoire) du cycle menstruel, durant laquelle l'endomètre, sous l'influence de la progestérone, devient réceptif et est préparé de manière optimale pour accueillir l'embryon."
+    },
+    {
+        "question": "Quels types de cellules forment la paroi de la cavité amniotique ?",
+        "options": [
+            "Cellules de l'hypoblaste",
+            "Cellules de l'épiblaste",
+            "Amnioblastes",
+            "Cellules du cytotrophoblaste",
+            "Cellules du mésenchyme extra-embryonnaire"
+        ],
+        "correct": [2],
+        "explanation": "La cavité amniotique, qui se forme au sein de l'épiblaste, est bordée par une couche de cellules aplaties appelées amnioblastes, dérivées de l'épiblaste."
+    },
+    {
+        "question": "Quelle structure relie l'embryon à la paroi du sac chorial (formée par le trophoblaste et le mésoderme extra-embryonnaire) ?",
+        "options": [
+            "Le sac vitellin",
+            "La cavité amniotique",
+            "Le pédicule embryonnaire",
+            "La chorde dorsale",
+            "La ligne primitive"
+        ],
+        "correct": [2],
+        "explanation": "Le pédicule embryonnaire, formé à partir du mésoderme extra-embryonnaire (lame ombilicale), est la structure qui connecte l'embryon en développement à la paroi du sac chorial et deviendra le futur cordon ombilical."
+    },
+    {
+        "question": "Une disparition précoce de la zone pellucide peut favoriser quel type d'anomalie d'implantation ?",
+        "options": [
+            "Absence de nidation",
+            "Grossesse intra-utérine normale",
+            "Grossesse tubaire (ectopique)",
+            "Placenta praevia",
+            "Môle hydatiforme"
+        ],
+        "correct": [2],
+        "explanation": "Si la zone pellucide, qui empêche normalement une implantation prématurée, disparaît trop tôt pendant la migration dans la trompe, cela peut entraîner une implantation dans la trompe elle-même, conduisant à une grossesse tubaire (un type de GEU)."
+    },
+    {
+        "question": "Quelles cellules apparaissent également durant la troisième semaine, en plus des trois feuillets et du début du système nerveux ?",
+        "options": [
+            "Les cellules du trophoblaste",
+            "Les îlots vasculosanguins (précurseurs circulatoires)",
+            "Les gonocytes primordiaux (précurseurs germinaux)",
+            "Les amnioblastes",
+            "Les cellules déciduales"
+        ],
+        "correct": [1, 2],
+        "explanation": "Outre la gastrulation et la neurulation, la troisième semaine voit aussi l'apparition des îlots vasculosanguins, marquant le début du développement du système circulatoire, et des gonocytes primordiaux, les cellules souches qui migreront pour former les futurs gamètes."
+    },
+    {
+        "question": "Qu'est-ce que le nœud de Hensen (ou nœud primitif) ?",
+        "options": [
+            "L'extrémité caudale de la ligne primitive.",
+            "Une structure située à l'extrémité crâniale de la ligne primitive.",
+            "Le site d'origine des cellules endodermiques uniquement.",
+            "Le site d'où migrent certaines cellules mésodermiques.",
+            "Une structure formée par l'hypoblaste."
+        ],
+        "correct": [1, 3],
+        "explanation": "Le nœud de Hensen (ou nœud primitif) est une condensation cellulaire située à l'extrémité crâniale (avant) de la ligne primitive. C'est un centre organisateur important d'où migrent des cellules qui formeront notamment la chorde dorsale et une partie du mésoderme céphalique."
+    },
+     {
+        "question": "Quel mécanisme moléculaire est mentionné comme régissant la formation séquentielle des somites à partir du mésoblaste para-axial ?",
+        "options": [
+            "Signalisation Wnt",
+            "Induction par la chorde",
+            "Une horloge de segmentation moléculaire (impliquant Hes/Her, Notch, FGF)",
+            "Migration cellulaire aléatoire",
+            "Apoptose programmée"
+        ],
+        "correct": [2],
+        "explanation": "La formation rythmique et séquentielle des somites (segmentation du mésoblaste para-axial) est contrôlée par une horloge de segmentation moléculaire interne aux cellules présomitiques. Cette horloge implique l'oscillation de l'expression de gènes comme ceux de la famille Hes/Her, et est liée aux voies de signalisation Notch et FGF."
+    },
+     {
+        "question": "Que deviennent les deux lames formées par la division du mésoblaste latéral ?",
+        "options": [
+            "Elles forment les somites.",
+            "Elles délimitent le cœlome intra-embryonnaire.",
+            "Elles contribuent aux parois du corps.",
+            "Elles forment les membranes séreuses (plèvre, péritoine...).",
+            "Elles donnent les reins."
+        ],
+        "correct": [1, 2, 3],
+        "explanation": "Le mésoblaste latéral se clive en deux lames : la somatopleure (associée à l'ectoderme) et la splanchnopleure (associée à l'endoderme). L'espace entre ces deux lames est le cœlome intra-embryonnaire. Ces lames contribuent à la formation des parois latérales et ventrales du corps ainsi qu'aux membranes séreuses qui tapisseront les cavités corporelles."
+    },
+     {
+        "question": "Quelle structure anatomique est individualisée à l'intérieur de l'embryon suite au processus de délimitation ?",
+        "options": [
+            "Le cœlome extra-embryonnaire",
+            "La cavité amniotique",
+            "L'intestin primitif",
+            "Le tube neural",
+            "L'aire cardiaque"
+        ],
+        "correct": [2],
+        "explanation": "La plicature (délimitation) incorpore une partie du sac vitellin (dérivé de l'endoderme) à l'intérieur de l'embryon, formant ainsi l'intestin primitif, le précurseur du futur tube digestif."
+    },
+     {
+        "question": "Laquelle de ces structures NE dérive PAS de l'ectoderme ?",
+        "options": [
+            "Épiderme",
+            "Cerveau",
+            "Moelle épinière",
+            "Muscles squelettiques",
+            "Organes des sens (ex: œil, oreille interne)"
+        ],
+        "correct": [3],
+        "explanation": "L'ectoderme donne naissance à l'épiderme, au système nerveux central (cerveau, moelle épinière) et périphérique, et aux principaux organes des sens. Les muscles squelettiques dérivent du mésoderme (plus spécifiquement des somites issus du mésoblaste para-axial)."
+    },
+     {
+        "question": "Laquelle de ces structures NE dérive PAS du mésoderme ?",
+        "options": [
+            "Os et cartilage",
+            "Système circulatoire (cœur, vaisseaux)",
+            "Reins",
+            "Foie",
+            "Tissus conjonctifs"
+        ],
+        "correct": [3],
+        "explanation": "Le mésoderme est à l'origine des os, du cartilage, des muscles, du système circulatoire, des reins, des gonades et des tissus conjonctifs. Le foie, comme le pancréas et le revêtement digestif/respiratoire, dérive de l'endoderme."
+    },
+    {
+        "question": "Quel est l'un des messages clés souligné dans la conclusion concernant la compréhension de ces processus ?",
+        "options": [
+            "Ces processus sont trop complexes pour être compris.",
+            "Comprendre ces étapes est essentiel pour appréhender les origines de la vie et diagnostiquer/prévenir des anomalies.",
+            "Le développement est principalement aléatoire.",
+            "Le diagnostic préimplantatoire est la seule application clinique.",
+            "La recherche en embryologie n'a plus de progrès à faire."
+        ],
+        "correct": [1],
+        "explanation": "La conclusion souligne que la compréhension de ces processus fondamentaux des quatre premières semaines est cruciale non seulement pour saisir les bases de la vie humaine, mais aussi pour le diagnostic et potentiellement la prévention des anomalies du développement."
+    },
+     {
+        "question": "Quelle application clinique est mentionnée dans la conclusion comme bénéficiant des avancées en embryologie ?",
+        "options": [
+            "Thérapie génique somatique",
+            "Clonage thérapeutique",
+            "Diagnostic préimplantatoire (DPI)",
+            "Transplantation d'organes",
+            "Vaccination"
+        ],
+        "correct": [2],
+        "explanation": "La conclusion cite spécifiquement le diagnostic préimplantatoire (DPI) comme une application clinique bénéficiant des avancées continues dans la connaissance de ces étapes cruciales du développement embryonnaire."
+    }
+]

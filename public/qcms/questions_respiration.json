@@ -1,0 +1,957 @@
+[
+    {
+        "question": "Quel est le rôle principal du surfactant pulmonaire selon le texte ?",
+        "options": [
+            "Augmenter la tension superficielle alvéolaire",
+            "Stabiliser les alvéoles de tailles différentes",
+            "Inhiber les muscles respiratoires",
+            "Augmenter la résistance des voies aériennes",
+            "Maintenir les alvéoles sèches en réduisant l'attraction capillaire"
+        ],
+        "correct": [1, 4],
+        "explanation": "Le surfactant réduit la tension superficielle (option 0 fausse), stabilise les alvéoles (1) et empêche l'œdème en limitant le transfert de liquide des capillaires (4). Les options 2 et 3 ne sont pas des fonctions décrites."
+    },
+    {
+        "question": "Quelle est la capacité vitale (CV) d'un sujet sain selon le document ?",
+        "options": ["Volume résiduel + espace mort anatomique", "3 à 4 litres", "Volume courant + résiduel fonctionnel", "4 à 5 litres", "Volume expiratoire maximal en 1 seconde"],
+        "correct": [1],
+        "explanation": "La CV est définie comme la somme du volume courant, de la réserve inspiratoire et de la réserve expiratoire (p. 67), soit 3-4 L. La CT (capacité totale) atteint 4-5 L (option 3 fausse)."
+    },
+    {
+        "question": "Quel facteur déplace la courbe de dissociation de l'hémoglobine vers la droite ?",
+        "options": ["Diminution de la température", "Augmentation de la PCO2", "Baisse du pH sanguin", "Augmentation du 2,3-DPG", "Tous les éléments ci-dessus sauf la première option"],
+        "correct": [1, 2, 3, 4],
+        "explanation": "La dissociation vers la droite est induite par l'hypercapnie (1), l'acidose (2), la température élevée et le 2,3-DPG (3 et 4). La première option (diminution de température) déplace la courbe vers la gauche."
+    },
+    {
+        "question": "Quelle est la principale cause d'hypoventilation alvéolaire globale selon le texte ?",
+        "options": ["Épaississement de la membrane alvéolo-capillaire", "Obstruction des petites bronches", "Mauvais équilibre VA/Q", "Affection neuromusculaire", "Shunt anatomique"],
+        "correct": [3],
+        "explanation": "L'hypoventilation globale est due à des troubles de commande neurologique, neuromusculaires (ex: myasthénie) ou à un effort excessif (p. 87). Les autres options concernent des mécanismes locaux."
+    },
+    {
+        "question": "Quel est le volume non mobilisable par la spirométrie ?",
+        "options": ["Volume courant", "Volume résiduel", "Capacité inspiratoire", "Volume expiratoire réservé", "Capacité vitale"],
+        "correct": [1],
+        "explanation": "Le volume résiduel (VR) reste dans les poumons après expiration maximale et ne peut être mesuré par spirométrie (p. 66). Les autres volumes font partie des capacités mobilisables."
+    },
+    {
+        "question": "Quelle est la fonction du centre pneumotaxique ?",
+        "options": ["Initier l'inspiration", "Inhiber l'expiration", "Réguler le rythme et l'amplitude", "Commander les muscles scalènes", "Générer le débit expiratoire"],
+        "correct": [2],
+        "explanation": "Le centre pneumotaxique contrôle le rythme et la profondeur de la respiration (p. 81). Les autres fonctions sont attribuées aux centres bulbaires (inspiration) et aux motoneurones (contrôle musculaire)."
+    },
+    {
+        "question": "Quel est le siège principal des résistances des voies aériennes ?",
+        "options": ["Bronches de petite dimension", "Trachée et grosses bronches", "Bronchioles terminales", "Épiglotte et voies supérieures", "Alvéoles"],
+        "correct": [0],
+        "explanation": "Les résistances sont surtout localisées dans les bronches de diamètre moyen (option 0), contrairement aux idées reçues sur les bronchioles (p. 69)."
+    },
+    {
+        "question": "Quel est le principal mécanisme de diffusion du CO₂ par rapport à l'O₂ ?",
+        "options": ["Diffusion passive par gradient de pression", "Transport actif via la hémoglobine", "Plus grande solubilité dans le plasma", "Dépendance de la pression intrapleurale", "Tous les éléments sauf la 2e option"],
+        "correct": [0, 2],
+        "explanation": "Le CO₂ diffuse plus facilement grâce à sa solubilité (2) et par diffusion passive (0). Il n'y a pas de transport actif (option 1 fausse)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction excessive ?",
+        "options": [
+            "Diminution de la résistance des voies aériennes",
+            "Augmentation du débit ventilatoire maximal",
+            "Diminution du volume expiratoire maximal en 1 seconde (VEMS)",
+            "Amélioration de la diffusion alvéolo-capillaire",
+            "Augmentation de la compliance pulmonaire"
+        ],
+        "correct": [2],
+        "explanation": "La bronchoconstriction augmente les résistances (option 0 fausse), réduisant le VEMS (2). Cela ne favorise pas la diffusion (3) ni la compliance (4)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs juxta-capillaires (J) ?",
+        "options": ["Détecter l'étirement des bronches", "Détecter l'œdème interstitiel", "Commander les muscles scalènes", "Réguler la température du sang", "Augmenter la ventilation superficielle"],
+        "correct": [1],
+        "explanation": "Les récepteurs J (p. 73) sont sensibles à l'œdème et déclenchent des réponses comme la dyspnée en cas d'insuffisance cardiaque."
+    },
+    {
+        "question": "Quelle est la principale cause d'hypoxémie due à un déséquilibre VA/Q ?",
+        "options": [
+            "Une zone mal ventilée mais bien perfusée (shunt)",
+            "Une zone mal perfusée mais bien ventilée (espace mort)",
+            "Une membrane alvéolo-capillaire épaisse",
+            "Une diminution de l'affinité de l'hémoglobine pour l'O2",
+            "Une augmentation de la résistance bronchique"
+        ],
+        "correct": [0],
+        "explanation": "Le shunt correspond à une zone mal ventilée mais bien perfusée (VA/Q < 1), où le sang ne s'oxygène pas (p. 87). Les autres options concernent d'autres mécanismes (espace mort, diffusion, transport)."
+    },
+    {
+        "question": "Quelle est la fonction principale des récepteurs J (juxta-capillaires) ?",
+        "options": ["Détecter l'étirement des bronches", "Détecter l'œdème interstitiel", "Commander les muscles scalènes", "Réguler la température du sang", "Augmenter le débit ventilatoire"],
+        "correct": [1],
+        "explanation": "Les récepteurs J sont sensibles à l'œdème interstitiel et déclenchent des réponses comme la dyspnée en cas d'insuffisance cardiaque (p. 73)."
+    },
+    {
+        "question": "Quel est le principal facteur déplaçant la courbe de dissociation de l'hémoglobine vers la droite ?",
+        "options": ["Baisse de la température", "Augmentation de la PCO2", "Diminution du 2,3-DPG", "Augmentation du pH", "Tous les éléments sauf la première option"],
+        "correct": [1, 4],
+        "explanation": "L'hypercapnie (PCO2 élevée) et l'acidose (pH bas) déplacent la courbe vers la droite, facilitant la libération d'O2. La température élevée et le 2,3-DPG ont aussi cet effet (p. 79)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction sévère ?",
+        "options": [
+            "Augmentation de la capacité vitale",
+            "Diminution du VEMS (Volume Expiratoire Maximal par Seconde)",
+            "Augmentation de la compliance pulmonaire",
+            "Réduction de la résistance des voies aériennes",
+            "Amélioration de la diffusion alvéolo-capillaire"
+        ],
+        "correct": [1],
+        "explanation": "La bronchoconstriction augmente la résistance des voies aériennes, réduisant le VEMS (p. 74). La capacité vitale diminue et la compliance pulmonaire baisse en cas de bronchospasme prolongé."
+    },
+    {
+        "question": "Quel est le siège principal des résistances ventilatoires ?",
+        "options": ["Bronches de petite dimension", "Trachée et grosses bronches", "Bronchioles terminales", "Épiglotte et voies supérieures", "Alvéoles"],
+        "correct": [0],
+        "explanation": "Les résistances sont surtout localisées dans les bronches de diamètre moyen (p. 69), contrairement aux idées reçues sur les bronchioles terminales."
+    },
+    {
+        "question": "Quelle est la valeur normale de la pression alvéolaire en CO2 (PACO2) au niveau de la mer ?",
+        "options": ["100 mm Hg", "40 mm Hg", "46 mm Hg", "35 mm Hg", "50 mm Hg"],
+        "correct": [1],
+        "explanation": "La PACO2 normale est de 40 mm Hg, tandis que la PvCO2 veineuse est de 46 mm Hg (p. 75)."
+    },
+    {
+        "question": "Quel est le rôle du centre pneumotaxique ?",
+        "options": ["Initier l'inspiration", "Inhiber l'expiration", "Réguler le rythme et l'amplitude", "Commander les muscles scalènes", "Générer le débit expiratoire"],
+        "correct": [2],
+        "explanation": "Le centre pneumotaxique contrôle le rythme et la profondeur de la respiration (p. 81). Les autres fonctions sont attribuées aux centres bulbaires et aux motoneurones."
+    },
+    {
+        "question": "Quelle est la conséquence d'une acidose métabolique sur la ventilation ?",
+        "options": ["Inhibition de la ventilation", "Hyperventilation compensatrice", "Aucun effet sur la ventilation", "Augmentation de la résistance des voies aériennes", "Réduction de la capacité vitale"],
+        "correct": [1],
+        "explanation": "L'acidose métabolique stimule la ventilation par les chémorécepteurs périphériques (p. 83)."
+    },
+    {
+        "question": "Quel est le siège de la diffusion des gaz respiratoires ?",
+        "options": ["Toute la surface des voies aériennes", "Seulement les alvéoles des 16e à 23e subdivisions bronchiques", "Les bronches de 3e à 10e ordre", "Les capillaires pulmonaires", "La membrane plérale"],
+        "correct": [1],
+        "explanation": "Les échanges gazeux se font à partir de la 17e subdivision bronchique (p. 64)."
+    },
+    {
+        "question": "Quelle est la fonction du surfactant en cas d'œdème pulmonaire ?",
+        "options": [
+            "Augmenter la pression superficielle alvéolaire",
+            "Prévenir l'effondrement alvéolaire sous pression négative",
+            "Stabiliser les alvéoles de tailles différentes",
+            "Maintenir les alvéoles sèches en réduisant l'attraction capillaire",
+            "Tous les éléments sauf la première option"
+        ],
+        "correct": [1, 2, 3, 4],
+        "explanation": "Le surfactant réduit la tension superficielle (inversant l'option 0), stabilise les alvéoles (2), prévient l'œdème (3 et 4) (p. 68)."
+    },
+
+    {
+        "question": "Quel est le principal rôle du surfactant pulmonaire selon le texte ?",
+        "options": [
+            "Stabiliser les alvéoles de tailles différentes",
+            "Augmenter la résistance des voies aériennes",
+            "Inhiber les muscles respiratoires",
+            "Augmenter la pression superficielle alvéolaire",
+            "Maintenir les alvéoles sèches en réduisant l'attraction capillaire"
+        ],
+        "correct": [0, 4],
+        "explanation": "Le surfactant réduit la tension superficielle alvéolaire (p. 68), stabilise les alvéoles et prévient l'œdème en limitant le flux de liquide capillaire. Les autres options ne sont pas des fonctions décrites."
+    },
+    {
+        "question": "Quelle est la valeur normale de la pression alvéolaire en O2 (PAO2) à la mer ?",
+        "options": ["100 mm Hg", "40 mm Hg", "46 mm Hg", "35 mm Hg", "50 mm Hg"],
+        "correct": [0],
+        "explanation": "La PAO2 normale est de 100 mm Hg, tandis que la PvO2 veineuse est de 40 mm Hg (p. 75)."
+    },
+    {
+        "question": "Quel facteur déplace la courbe de dissociation de l'hémoglobine vers la droite ?",
+        "options": ["Baisse de la température", "Augmentation de la PCO2", "Diminution du 2,3-DPG", "Augmentation du pH", "Tous les éléments sauf la première option"],
+        "correct": [1, 4],
+        "explanation": "L'hypercapnie (PCO2 élevée) et l'acidose (pH bas) déplacent la courbe vers la droite, favorisant la libération d'O2. La température élevée et le 2,3-DPG ont aussi cet effet (p. 79)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction sévère ?",
+        "options": [
+            "Augmentation de la capacité vitale",
+            "Diminution du VEMS (Volume Expiratoire Maximal par Seconde)",
+            "Augmentation de la compliance pulmonaire",
+            "Réduction de la résistance des voies aériennes",
+            "Amélioration de la diffusion alvéolo-capillaire"
+        ],
+        "correct": [1],
+        "explanation": "La bronchoconstriction augmente la résistance des voies aériennes, réduisant le VEMS (p. 74). La capacité vitale diminue et la compliance pulmonaire baisse en cas de bronchospasme prolongé."
+    },
+    {
+        "question": "Quelle est la principale cause d'hypoxémie due à un déséquilibre VA/Q ?",
+        "options": [
+            "Une zone mal ventilée mais bien perfusée (shunt)",
+            "Une zone mal perfusée mais bien ventilée (espace mort)",
+            "Une membrane alvéolo-capillaire épaisse",
+            "Une diminution de l'affinité de l'hémoglobine pour l'O2",
+            "Une augmentation de la résistance bronchique"
+        ],
+        "correct": [0],
+        "explanation": "Le shunt correspond à une zone mal ventilée mais bien perfusée (VA/Q < 1), où le sang ne s'oxygène pas (p. 87). Les autres options concernent d'autres mécanismes (espace mort, diffusion, transport)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs J (juxta-capillaires) ?",
+        "options": ["Bronches de petite dimension", "Trachée et grosses bronches", "Paroi des alvéoles", "Épiglotte et voies supérieures", "Membres du système nerveux"],
+        "correct": [2],
+        "explanation": "Les récepteurs J détectent l'œdème interstitiel à la surface des capillaires pulmonaires (p. 73)."
+    },
+    {
+        "question": "Quelle est la fonction du centre pneumotaxique ?",
+        "options": ["Initier l'inspiration", "Inhiber l'expiration", "Réguler le rythme et l'amplitude", "Commander les muscles scalènes", "Générer le débit expiratoire"],
+        "correct": [2],
+        "explanation": "Le centre pneumotaxique contrôle le rythme et la profondeur de la respiration (p. 81). Les autres fonctions sont attribuées aux centres bulbaires et aux motoneurones."
+    },
+    {
+        "question": "Quel est le principal mécanisme de diffusion du CO₂ par rapport à l'O₂ ?",
+        "options": ["Diffusion passive par gradient de pression", "Transport actif via la hémoglobine", "Plus grande solubilité dans le plasma", "Dépendance de la pression intrapleurale", "Tous les éléments sauf la 2e option"],
+        "correct": [0, 2],
+        "explanation": "Le CO₂ diffuse plus facilement grâce à sa solubilité (option 2) et par diffusion passive (option 0). Il n'y a pas de transport actif (option 1 fausse)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une acidose métabolique sur la ventilation ?",
+        "options": ["Inhibition de la ventilation", "Hyperventilation compensatrice", "Aucun effet sur la ventilation", "Augmentation de la résistance des voies aériennes", "Réduction de la capacité vitale"],
+        "correct": [1],
+        "explanation": "L'acidose métabolique stimule la ventilation par les chémorécepteurs périphériques (p. 83)."
+    },
+    {
+        "question": "Quel est le siège principal des résistances ventilatoires ?",
+        "options": ["Bronches de petite dimension", "Trachée et grosses bronches", "Bronchioles terminales", "Épiglotte et voies supérieures", "Alvéoles"],
+        "correct": [0],
+        "explanation": "Les résistances sont surtout localisées dans les bronches de diamètre moyen (p. 69), contrairement aux idées reçues sur les bronchioles terminales."
+    },
+    {
+        "question": "Quelle est la valeur normale de la pression alvéolaire en CO₂ (PACO₂) à la mer ?",
+        "options": ["100 mm Hg", "40 mm Hg", "46 mm Hg", "35 mm Hg", "50 mm Hg"],
+        "correct": [1],
+        "explanation": "La PACO₂ normale est de 40 mm Hg, tandis que la PvCO₂ veineuse est de 46 mm Hg (p. 75)."
+    },
+    {
+        "question": "Quel est le rôle du centre apneustique ?",
+        "options": ["Inhiber l'inspiration", "Prolonger l'inspiration", "Contrôler la fréquence cardiaque", "Réguler le pH du LCR", "Inhiber le centre pneumotaxique"],
+        "correct": [1],
+        "explanation": "Le centre apneustique stimule l'inspiration, mais est inhibé par le centre pneumotaxique (p. 81)."
+    },
+    {
+        "question": "Quelle est la fonction du volume résiduel (VR) ?",
+        "options": ["Mesuré par spirométrie", "Partie des poumons toujours ventilée", "Volume non expirable après expiration forcée", "Partie des poumons toujours oxygénée", "Volume mobilisé pendant l'effort"],
+        "correct": [2],
+        "explanation": "Le VR est le volume non expirable et mesuré par dilution gazeuse ou pléthysmographie (p. 66)."
+    },
+    {
+        "question": "Quel est le siège de la diffusion des gaz respiratoires ?",
+        "options": ["Toute la surface des voies aériennes", "Seulement les alvéoles des 16e à 23e subdivisions bronchiques", "Les bronches de 3e à 10e ordre", "Les capillaires pulmonaires", "La membrane plérale"],
+        "correct": [1],
+        "explanation": "Les échanges gazeux se font à partir de la 17e subdivision bronchique (p. 64)."
+    },
+    {
+        "question": "Quel est le facteur le plus important dans le transport du CO₂ dans le sang ?",
+        "options": ["Forme dissoute", "Combinaison avec l'hémoglobine", "Forme de bicarbonate", "Transport cellulaire", "Diffusion directe"],
+        "correct": [2],
+        "explanation": "67% du CO₂ est transporté sous forme de bicarbonate (p. 79)."
+    },
+    {
+        "question": "Quel est le rôle de la phospholipase A₂ dans l'asthme ?",
+        "options": ["Synthétiser le surfactant", "Hydrater les voies aériennes", "Libérer des médiateurs bronchoconstricteurs", "Augmenter la compliance pulmonaire", "Stabiliser les muscles intercostaux"],
+        "correct": [2],
+        "explanation": "Elle produit des leucotriènes et du thromboxane, aggravant la bronchoconstriction (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur le système nerveux central ?",
+        "options": ["Inhibition des chémorécepteurs centraux", "Stimulation des chémorécepteurs centraux via l'acidose du LCR", "Diminution du pH sanguin", "Augmentation de la résistance des voies aériennes", "Réduction de la ventilation"],
+        "correct": [1],
+        "explanation": "L'hypercapnie induit une acidose du LCR, activant les chémorécepteurs centraux (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des chémorécepteurs périphériques ?",
+        "options": ["Tronc cérébral", "Ganglions carotidiens et aorte", "Alvéoles", "Membres", "Diaphragme"],
+        "correct": [1],
+        "explanation": "Les glomus carotidiens et la crosse aortique détectent l'hypoxie (p. 83)."
+    },
+    {
+        "question": "Quelle est la principale cause d'hyperpnée en altitude ?",
+        "options": ["Augmentation de la PCO₂", "Diminution de la PO₂ ambiante", "Stimulation des récepteurs proprioceptifs", "Effet des catécholamines", "Réduction de la compliance pulmonaire"],
+        "correct": [1],
+        "explanation": "L'hypoxie stimule les chémorécepteurs périphériques (p. 87)."
+    },
+    {
+        "question": "Quel est le principal mécanisme de la diffusion de l'O₂ dans les capillaires pulmonaires ?",
+        "options": ["Transport actif", "Diffusion passive via gradient de pression", "Pompage musculaire", "Transport par la hémoglobine uniquement", "Échange avec le CO₂"],
+        "correct": [1],
+        "explanation": "La diffusion dépend des gradients de pression partielles (p. 75)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un embolisme pulmonaire sur le VA/Q ?",
+        "options": ["VA/Q = 1", "VA/Q > 1", "VA/Q < 1", "VA/Q = 0", "VA/Q non mesurable"],
+        "correct": [1],
+        "explanation": "L'embolisme réduit la perfusion (Q), augmentant le VA/Q (p. 87)."
+    },
+    {
+        "question": "Quelle est la fonction de l'effet Bohr ?",
+        "options": [
+            "Augmenter l'affinité de l'hémoglobine pour l'O₂ dans les poumons",
+            "Diminuer l'affinité de l'hémoglobine pour l'O₂ dans les tissus",
+            "Stabiliser la courbe de dissociation",
+            "Augmenter la diffusion du CO₂",
+            "Réguler la pression intrapleurale"
+        ],
+        "correct": [1],
+        "explanation": "L'acidose tissulaire déplace la courbe vers la droite, facilitant la libération d'O₂ (p. 79)."
+    },
+    {
+        "question": "Quel est le rôle de la pression intrapleurale négative ?",
+        "options": ["Maintenir la distension des alvéoles", "Augmenter la résistance ventilatoire", "Stabiliser les muscles intercostaux", "Permettre la solidarité entre poumons et cage thoracique", "Réguler la fréquence cardiaque"],
+        "correct": [3],
+        "explanation": "La pression intrapleurale négative assure la solidarité pulmonaire-thoracique (p. 64)."
+    },
+    {
+        "question": "Quelle est la valeur normale de la capacité vitale (CV) ?",
+        "options": ["1 à 1,5 L", "3 à 4 L", "4 à 5 L", "2 à 2,5 L", "5 à 6 L"],
+        "correct": [1],
+        "explanation": "La CV est la somme du VT, VRI et VRE (p. 66)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs mécaniques des voies aériennes ?",
+        "options": ["Épithélium des alvéoles", "Muscles lisses bronchiques", "Paroi de la trachée et grosses bronches", "Capillaires pulmonaires", "Diaphragme"],
+        "correct": [2],
+        "explanation": "Les mécanorécepteurs détectent l'étirement des parois bronchiques (p. 73)."
+    },
+    {
+        "question": "Quelle est la fonction principale de la compliance pulmonaire ?",
+        "options": ["Mesurer la résistance des voies aériennes", "Indiquer la distensibilité des poumons", "Calculer la pression intrapleurale", "Réguler le pH sanguin", "Stabiliser la fréquence cardiaque"],
+        "correct": [1],
+        "explanation": "La compliance est la variation de volume par unité de pression (p. 68)."
+    },
+    {
+        "question": "Quel est le rôle du centre inspiratoire tardif (TI) ?",
+        "options": ["Initier l'inspiration", "Maintenir l'inspiration", "Stopper l'inspiration", "Contrôler l'expiration", "Réguler la fréquence"],
+        "correct": [2],
+        "explanation": "Le TI arrête l'inspiration en inhibant les neurones inspiratoires (p. 81)."
+    },
+    {
+        "question": "Quelle est la principale cause de dyspnée dans l'insuffisance cardiaque ?",
+        "options": ["Shunt pulmonaire", "Hypoventilation globale", "Œdème interstitiel activant les récepteurs J", "Baisse de la PCO₂", "Augmentation de la compliance"],
+        "correct": [2],
+        "explanation": "L'œdème interstitiel stimule les récepteurs J (p. 73)."
+    },
+    {
+        "question": "Quel est le siège de l'innervation adrénergique des voies aériennes ?",
+        "options": ["Muscles lisses bronchiques", "Glandes bronchiques", "Vasculature pulmonaire", "Membres", "Diaphragme"],
+        "correct": [1],
+        "explanation": "Les fibres sympathiques agissent sur les glandes et les vaisseaux, pas directement sur les muscles bronchiques (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur l'hémoglobine ?",
+        "options": ["Augmentation de l'affinité pour l'O₂", "Diminution de l'affinité pour l'O₂", "Stabilisation de la courbe de dissociation", "Augmentation de la solubilité du CO₂", "Réduction de la capacité de transport"],
+        "correct": [1],
+        "explanation": "L'hypercapnie déplace la courbe vers la gauche via l'acidose (p. 79)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs polymodaux des voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Paroi de la trachée", "Épithélium des bronchioles", "Diaphragme", "Membres"],
+        "correct": [2],
+        "explanation": "Les récepteurs C et B détectent des stimuli chimiques et mécaniques (p. 73)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypothermie sur la courbe de dissociation de l'hémoglobine ?",
+        "options": ["Déplacement vers la droite", "Déplacement vers la gauche", "Stabilisation de la courbe", "Augmentation de la solubilité de l'O₂", "Réduction de la capacité de transport"],
+        "correct": [1],
+        "explanation": "La température basse déplace la courbe vers la gauche (p. 79)."
+    },
+    {
+        "question": "Quel est le mécanisme principal de l'hyperventilation lors de la fièvre ?",
+        "options": [
+            "Stimulation des chémorécepteurs centraux par l'augmentation du pH du LCR",
+            "Stimulation des chémorécepteurs périphériques par l'hypoxie",
+            "Réponse proprioceptive aux muscles",
+            "Effet des catécholamines",
+            "Réduction de la compliance"
+        ],
+        "correct": [0],
+        "explanation": "La fièvre augmente la température du LCR, activant les chémorécepteurs (p. 83)."
+    },
+    {
+        "question": "Quelle est la principale cause d'une hypoxémie avec normocapnie ?",
+        "options": ["Hypoventilation globale", "Shunt anatomique", "Déséquilibre VA/Q", "Diffusion déficiente", "Anémie"],
+        "correct": [1],
+        "explanation": "Le shunt mélange du sang non oxygéné (p. 87)."
+    },
+    {
+        "question": "Quel est le rôle des fibres VIP dans la bronchomotricité ?",
+        "options": ["Causer la bronchoconstriction", "Induire la bronchodilatation", "Augmenter la sécrétion mucus", "Stimuler les chémorécepteurs", "Réguler le pH sanguin"],
+        "correct": [1],
+        "explanation": "Le VIP est un puissant bronchodilatateur (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une obstruction des petites bronches sur le VA/Q ?",
+        "options": ["VA/Q = 1", "VA/Q > 1", "VA/Q < 1", "VA/Q = 0", "VA/Q non mesurable"],
+        "correct": [2],
+        "explanation": "L'obstruction réduit la ventilation (VA), abaissant VA/Q (p. 87)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de type B dans les voies aériennes ?",
+        "options": ["Épithélium alvéolaire", "Paroi des grosses bronches", "Épithélium des bronchioles", "Membres", "Diaphragme"],
+        "correct": [2],
+        "explanation": "Les récepteurs B détectent l'irritation chimique ou thermique (p. 73)."
+    },
+    {
+        "question": "Quelle est la fonction du volume d'espace mort anatomique ?",
+        "options": ["Participer aux échanges gazeux", "Rester dans les voies aériennes pendant la ventilation", "Augmenter la diffusion dans les alvéoles", "Réguler la pression intrapleurale", "Stabiliser la courbe de dissociation"],
+        "correct": [1],
+        "explanation": "L'espace mort anatomique n'est pas ventilé (p. 70)."
+    },
+    {
+        "question": "Quel est le mécanisme principal de l'hyperventilation lors d'une crise d'asthme ?",
+        "options": ["Stimulation des chémorécepteurs par l'hypoxie", "Réponse à l'hypercapnie", "Réflexe de toux", "Effet des anti-inflammatoires", "Compensation métabolique"],
+        "correct": [0],
+        "explanation": "L'hypoxie active les chémorécepteurs périphériques (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une fibrose pulmonaire sur la compliance ?",
+        "options": ["Aucun effet", "Baisse de la compliance", "Augmentation de la compliance", "Stabilisation de la compliance", "Augmentation de la résistance"],
+        "correct": [1],
+        "explanation": "La fibrose diminue la distensibilité (p. 68)."
+    },
+    {
+        "question": "Quel est le rôle des cellules de type II des alvéoles ?",
+        "options": ["Synthétiser le surfactant", "Générer les mouvements respiratoires", "Transporter l'O₂ vers le sang", "Stabiliser la pression intrapleurale", "Réguler le pH sanguin"],
+        "correct": [0],
+        "explanation": "Les pneumocytes de type II produisent le surfactant (p. 68)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur la pression intrapleurale ?",
+        "options": ["Augmentation de la pression négative", "Baisse de la pression négative", "Pression positive", "Stabilisation de la pression", "Aucun effet"],
+        "correct": [1],
+        "explanation": "L'hypercapnie induit une hyperventilation, réduisant la pression négative (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de type C dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "Les récepteurs C détectent les irritants et l'œdème (p. 73)."
+    },
+    {
+        "question": "Quel est le rôle des mastocytes dans l'asthme ?",
+        "options": ["Libérer des médiateurs bronchodilatateurs", "Libérer des médiateurs bronchoconstricteurs", "Synthétiser le surfactant", "Réguler la pression intrapleurale", "Stabiliser la courbe de dissociation"],
+        "correct": [1],
+        "explanation": "Les mastocytes libèrent de l'histamine et des leucotriènes (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un emphysème sur la compliance pulmonaire ?",
+        "options": ["Aucun effet", "Baisse de la compliance", "Augmentation de la compliance", "Stabilisation de la compliance", "Réduction de la résistance"],
+        "correct": [2],
+        "explanation": "L'emphysème dilate les alvéoles, augmentant la distensibilité (p. 68)."
+    },
+    {
+        "question": "Quel est le mécanisme principal de l'hyperventilation lors de l'effort ?",
+        "options": ["Stimulation des chémorécepteurs par l'hypoxie", "Réponse à l'hypercapnie", "Réflexe proprioceptif des muscles", "Effet des catécholamines", "Compensation métabolique"],
+        "correct": [2],
+        "explanation": "Les récepteurs musculaires stimulent la ventilation (p. 85)."
+    },
+    {
+        "question": "Quelle est la fonction du volume expiratoire maximal par seconde (VEMS) ?",
+        "options": ["Mesurer la capacité vitale", "Évaluer la gravité d'une obstruction bronchique", "Calculer la pression intrapleurale", "Stabiliser la courbe de dissociation", "Réguler le pH sanguin"],
+        "correct": [1],
+        "explanation": "Le VEMS est un indicateur d'obstruction (p. 66)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de type ACh dans les voies aériennes ?",
+        "options": ["Muscles lisses bronchiques", "Glandes bronchiques", "Vasculature pulmonaire", "Diaphragme", "Membres"],
+        "correct": [0],
+        "explanation": "L'acétylcholine agit sur les muscles bronchiques (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur la pression alvéolaire en CO₂ (PACO₂) ?",
+        "options": ["Augmentation", "Baisse", "Stabilisation", "Aucun effet", "Dépend de la pression atmosphérique"],
+        "correct": [0],
+        "explanation": "L'hypercapnie correspond à une PACO₂ élevée (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs proprioceptifs des voies aériennes ?",
+        "options": ["Épithélium des alvéoles", "Paroi des grosses bronches", "Diaphragme", "Membres", "Capillaires"],
+        "correct": [1],
+        "explanation": "Les mécanorécepteurs détectent l'étirement des bronches (p. 73)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchodilatation sur la résistance des voies aériennes ?",
+        "options": ["Aucun effet", "Augmentation de la résistance", "Baisse de la résistance", "Stabilisation de la résistance", "Augmentation de la compliance"],
+        "correct": [2],
+        "explanation": "La dilatation réduit la résistance (p. 69)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la substance P ?",
+        "options": ["Épithélium des grosses bronches", "Système nerveux central", "Épithélium des petites bronchioles", "Diaphragme", "Membres"],
+        "correct": [2],
+        "explanation": "La substance P agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un œdème alvéolaire sur la diffusion ?",
+        "options": ["Aucun effet", "Baisse de la diffusion", "Augmentation de la diffusion", "Stabilisation de la diffusion", "Augmentation de la résistance"],
+        "correct": [1],
+        "explanation": "L'œdème augmente l'épaisseur de la membrane alvéolo-capillaire (p. 64)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de l'adrénaline dans les voies aériennes ?",
+        "options": ["Récepteurs alpha", "Récepteurs beta", "Récepteurs muscariniques", "Récepteurs nicotiniques", "Récepteurs de type C"],
+        "correct": [1],
+        "explanation": "L'adrénaline agit sur les récepteurs β des muscles bronchiques (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une diminution de la pression intrapleurale négative ?",
+        "options": ["Aucun effet", "Baisse de la ventilation", "Augmentation de la diffusion", "Stabilisation de la ventilation", "Décollement des alvéoles (collapsus)"],
+        "correct": [4],
+        "explanation": "La pression négative maintient l'adhérence pulmonaire (p. 64)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la vasopressine ?",
+        "options": ["Vasculature pulmonaire", "Muscles lisses bronchiques", "Glandes bronchiques", "Diaphragme", "Membres"],
+        "correct": [0],
+        "explanation": "La vasopressine agit sur les vaisseaux (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction sur le débit ventilatoire ?",
+        "options": ["Aucun effet", "Augmentation du débit", "Baisse du débit", "Stabilisation du débit", "Augmentation de la diffusion"],
+        "correct": [2],
+        "explanation": "La résistance élevée réduit le débit (p. 69)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de l'histamine dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "L'histamine agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur la pression intrapleurale ?",
+        "options": ["Augmentation de la pression négative", "Baisse de la pression négative", "Pression positive", "Stabilisation de la pression", "Aucun effet"],
+        "correct": [1],
+        "explanation": "L'hyperventilation induit par l'hypercapnie réduit la pression négative (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la noradrénaline dans les voies aériennes ?",
+        "options": ["Récepteurs alpha", "Récepteurs beta", "Récepteurs muscariniques", "Récepteurs nicotiniques", "Récepteurs de type C"],
+        "correct": [0],
+        "explanation": "La noradrénaline agit sur les récepteurs alpha des vaisseaux (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une diminution de la pression intrapleurale négative ?",
+        "options": ["Aucun effet", "Baisse de la ventilation", "Augmentation de la diffusion", "Stabilisation de la ventilation", "Décollement des alvéoles (collapsus)"],
+        "correct": [4],
+        "explanation": "La pression négative maintient l'adhérence pulmonaire (p. 64)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de l'histamine dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "L'histamine agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quel est le principal rôle du surfactant pulmonaire ?",
+        "options": [
+            "Augmenter la pression superficielle alvéolaire",
+            "Stabiliser les alvéoles de tailles différentes",
+            "Inhiber les muscles respiratoires",
+            "Augmenter la résistance des voies aériennes",
+            "Maintenir les alvéoles sèches en réduisant l'attraction capillaire"
+        ],
+        "correct": [1, 4],
+        "explanation": "Le surfactant réduit la tension superficielle alvéolaire (p. 68), stabilise les alvéoles et prévient l'œdème en limitant le flux de liquide capillaire. Les autres options ne sont pas des fonctions décrites."
+    },
+    {
+        "question": "Quelle est la valeur normale de la pression alvéolaire en O₂ (PAO₂) à la mer ?",
+        "options": ["100 mm Hg", "40 mm Hg", "46 mm Hg", "35 mm Hg", "50 mm Hg"],
+        "correct": [0],
+        "explanation": "La PAO₂ normale est de 100 mm Hg, tandis que la PvO₂ veineuse est de 40 mm Hg (p. 75)."
+    },
+    {
+        "question": "Quel facteur déplace la courbe de dissociation de l'hémoglobine vers la droite ?",
+        "options": ["Baisse de la température", "Augmentation de la PCO₂", "Diminution du 2,3-DPG", "Augmentation du pH", "Tous les éléments sauf la première option"],
+        "correct": [1, 4],
+        "explanation": "L'hypercapnie (PCO₂ élevée) et l'acidose (pH bas) déplacent la courbe vers la droite, favorisant la libération d'O₂. La température élevée et le 2,3-DPG ont aussi cet effet (p. 79)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction sévère ?",
+        "options": [
+            "Augmentation de la capacité vitale",
+            "Diminution du VEMS (Volume Expiratoire Maximal par Seconde)",
+            "Augmentation de la compliance pulmonaire",
+            "Réduction de la résistance des voies aériennes",
+            "Amélioration de la diffusion alvéolo-capillaire"
+        ],
+        "correct": [1],
+        "explanation": "La bronchoconstriction augmente la résistance des voies aériennes, réduisant le VEMS (p. 74). La capacité vitale diminue et la compliance pulmonaire baisse en cas de bronchospasme prolongé."
+    },
+    {
+        "question": "Quelle est la principale cause d'hypoxémie due à un déséquilibre VA/Q ?",
+        "options": [
+            "Une zone mal ventilée mais bien perfusée (shunt)",
+            "Une zone mal perfusée mais bien ventilée (espace mort)",
+            "Une membrane alvéolo-capillaire épaisse",
+            "Une diminution de l'affinité de l'hémoglobine pour l'O₂",
+            "Une augmentation de la résistance bronchique"
+        ],
+        "correct": [0],
+        "explanation": "Le shunt correspond à une zone mal ventilée mais bien perfusée (VA/Q < 1), où le sang ne s'oxygène pas (p. 87). Les autres options concernent d'autres mécanismes (espace mort, diffusion, transport)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs J (juxta-capillaires) ?",
+        "options": ["Bronches de petite dimension", "Trachée et grosses bronches", "Paroi des alvéoles", "Épiglotte et voies supérieures", "Membres du système nerveux"],
+        "correct": [2],
+        "explanation": "Les récepteurs J détectent l'œdème interstitiel à la surface des capillaires pulmonaires (p. 73)."
+    },
+    {
+        "question": "Quelle est la fonction du centre pneumotaxique ?",
+        "options": ["Initier l'inspiration", "Inhiber l'expiration", "Réguler le rythme et l'amplitude", "Commander les muscles scalènes", "Générer le débit expiratoire"],
+        "correct": [2],
+        "explanation": "Le centre pneumotaxique contrôle le rythme et la profondeur de la respiration (p. 81). Les autres fonctions sont attribuées aux centres bulbaires et aux motoneurones."
+    },
+    {
+        "question": "Quel est le principal mécanisme de diffusion du CO₂ par rapport à l'O₂ ?",
+        "options": ["Diffusion passive par gradient de pression", "Transport actif via la hémoglobine", "Plus grande solubilité dans le plasma", "Dépendance de la pression intrapleurale", "Tous les éléments sauf la 2e option"],
+        "correct": [0, 2],
+        "explanation": "Le CO₂ diffuse plus facilement grâce à sa solubilité (option 2) et par diffusion passive (option 0). Il n'y a pas de transport actif (option 1 fausse)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une acidose métabolique sur la ventilation ?",
+        "options": ["Inhibition de la ventilation", "Hyperventilation compensatrice", "Aucun effet sur la ventilation", "Augmentation de la résistance des voies aériennes", "Réduction de la capacité vitale"],
+        "correct": [1],
+        "explanation": "L'acidose métabolique stimule la ventilation par les chémorécepteurs périphériques (p. 83)."
+    },
+    {
+        "question": "Quel est le siège principal des résistances ventilatoires ?",
+        "options": ["Bronches de petite dimension", "Trachée et grosses bronches", "Bronchioles terminales", "Épiglotte et voies supérieures", "Alvéoles"],
+        "correct": [0],
+        "explanation": "Les résistances sont surtout localisées dans les bronches de diamètre moyen (p. 69), contrairement aux idées reçues sur les bronchioles terminales."
+    },
+    {
+        "question": "Quelle est la valeur normale de la pression alvéolaire en CO₂ (PACO₂) à la mer ?",
+        "options": ["100 mm Hg", "40 mm Hg", "46 mm Hg", "35 mm Hg", "50 mm Hg"],
+        "correct": [1],
+        "explanation": "La PACO₂ normale est de 40 mm Hg, tandis que la PvCO₂ veineuse est de 46 mm Hg (p. 75)."
+    },
+    {
+        "question": "Quel est le rôle du centre apneustique ?",
+        "options": ["Inhiber l'inspiration", "Prolonger l'inspiration", "Contrôler la fréquence cardiaque", "Réguler le pH du LCR", "Inhiber le centre pneumotaxique"],
+        "correct": [1],
+        "explanation": "Le centre apneustique stimule l'inspiration, mais est inhibé par le centre pneumotaxique (p. 81)."
+    },
+    {
+        "question": "Quelle est la fonction du volume résiduel (VR) ?",
+        "options": ["Mesuré par spirométrie", "Partie des poumons toujours ventilée", "Volume non expirable après expiration forcée", "Partie des poumons toujours oxygénée", "Volume mobilisé pendant l'effort"],
+        "correct": [2],
+        "explanation": "Le VR est le volume non expirable et mesuré par dilution gazeuse ou pléthysmographie (p. 66)."
+    },
+    {
+        "question": "Quel est le siège de la diffusion des gaz respiratoires ?",
+        "options": ["Toute la surface des voies aériennes", "Seulement les alvéoles des 16e à 23e subdivisions bronchiques", "Les bronches de 3e à 10e ordre", "Les capillaires pulmonaires", "La membrane plérale"],
+        "correct": [1],
+        "explanation": "Les échanges gazeux se font à partir de la 17e subdivision bronchique (p. 64)."
+    },
+    {
+        "question": "Quel est le facteur le plus important dans le transport du CO₂ dans le sang ?",
+        "options": ["Forme dissoute", "Combinaison avec l'hémoglobine", "Forme de bicarbonate", "Transport cellulaire", "Diffusion directe"],
+        "correct": [2],
+        "explanation": "67% du CO₂ est transporté sous forme de bicarbonate (p. 79)."
+    },
+    {
+        "question": "Quel est le rôle de la phospholipase A₂ dans l'asthme ?",
+        "options": ["Synthétiser le surfactant", "Hydrater les voies aériennes", "Libérer des médiateurs bronchoconstricteurs", "Augmenter la compliance pulmonaire", "Stabiliser les muscles intercostaux"],
+        "correct": [2],
+        "explanation": "Elle produit des leucotriènes et du thromboxane, aggravant la bronchoconstriction (p. 74)."
+    },
+    {
+        "question": "Quel est le siège des chémorécepteurs périphériques ?",
+        "options": ["Tronc cérébral", "Ganglions carotidiens et aorte", "Alvéoles", "Membres", "Diaphragme"],
+        "correct": [1],
+        "explanation": "Les glomus carotidiens et la crosse aortique détectent l'hypoxie (p. 83)."
+    },
+    {
+        "question": "Quelle est la principale cause d'hyperpnée en altitude ?",
+        "options": ["Augmentation de la PCO₂", "Diminution de la PO₂ ambiante", "Stimulation des récepteurs proprioceptifs", "Effet des catécholamines", "Réduction de la compliance pulmonaire"],
+        "correct": [1],
+        "explanation": "L'hypoxie stimule les chémorécepteurs périphériques (p. 87)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs mécaniques des voies aériennes ?",
+        "options": ["Épithélium des alvéoles", "Muscles lisses bronchiques", "Paroi de la trachée et grosses bronches", "Capillaires pulmonaires", "Diaphragme"],
+        "correct": [2],
+        "explanation": "Les mécanorécepteurs détectent l'étirement des parois bronchiques (p. 73)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un embolisme pulmonaire sur le VA/Q ?",
+        "options": ["VA/Q = 1", "VA/Q > 1", "VA/Q < 1", "VA/Q = 0", "VA/Q non mesurable"],
+        "correct": [1],
+        "explanation": "L'embolisme réduit la perfusion (Q), augmentant le VA/Q (p. 87)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs polymodaux des voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Paroi de la trachée", "Épithélium des bronchioles", "Diaphragme", "Membres"],
+        "correct": [2],
+        "explanation": "Les récepteurs C et B détectent des stimuli chimiques et mécaniques (p. 73)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypothermie sur la courbe de dissociation de l'hémoglobine ?",
+        "options": ["Déplacement vers la droite", "Déplacement vers la gauche", "Stabilisation de la courbe", "Augmentation de la solubilité de l'O₂", "Réduction de la capacité de transport"],
+        "correct": [1],
+        "explanation": "La température basse déplace la courbe vers la gauche (p. 79)."
+    },
+    {
+        "question": "Quelle est la fonction de l'effet Bohr ?",
+        "options": [
+            "Augmenter l'affinité de l'hémoglobine pour l'O₂ dans les poumons",
+            "Diminuer l'affinité de l'hémoglobine pour l'O₂ dans les tissus",
+            "Stabiliser la courbe de dissociation",
+            "Augmenter la diffusion du CO₂",
+            "Réguler la pression intrapleurale"
+        ],
+        "correct": [1],
+        "explanation": "L'acidose tissulaire déplace la courbe vers la droite, facilitant la libération d'O₂ (p. 79)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de type B dans les voies aériennes ?",
+        "options": ["Épithélium alvéolaire", "Paroi des grosses bronches", "Épithélium des bronchioles", "Membres", "Diaphragme"],
+        "correct": [2],
+        "explanation": "Les récepteurs B détectent l'irritation chimique ou thermique (p. 73)."
+    },
+    {
+        "question": "Quelle est la fonction du volume d'espace mort anatomique ?",
+        "options": ["Participer aux échanges gazeux", "Rester dans les voies aériennes pendant la ventilation", "Augmenter la diffusion dans les alvéoles", "Réguler la pression intrapleurale", "Stabiliser la courbe de dissociation"],
+        "correct": [1],
+        "explanation": "L'espace mort anatomique n'est pas ventilé (p. 70)."
+    },
+    {
+        "question": "Quel est le mécanisme principal de l'hyperventilation lors d'une crise d'asthme ?",
+        "options": ["Stimulation des chémorécepteurs par l'hypoxie", "Réponse à l'hypercapnie", "Réflexe de toux", "Effet des anti-inflammatoires", "Compensation métabolique"],
+        "correct": [0],
+        "explanation": "L'hypoxie active les chémorécepteurs périphériques (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une fibrose pulmonaire sur la compliance ?",
+        "options": ["Aucun effet", "Baisse de la compliance", "Augmentation de la compliance", "Stabilisation de la compliance", "Augmentation de la résistance"],
+        "correct": [1],
+        "explanation": "La fibrose diminue la distensibilité (p. 68)."
+    },
+    {
+        "question": "Quel est le rôle des cellules de type II des alvéoles ?",
+        "options": ["Synthétiser le surfactant", "Générer les mouvements respiratoires", "Transporter l'O₂ vers le sang", "Stabiliser la pression intrapleurale", "Réguler le pH sanguin"],
+        "correct": [0],
+        "explanation": "Les pneumocytes de type II produisent le surfactant (p. 68)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur la pression intrapleurale ?",
+        "options": ["Augmentation de la pression négative", "Baisse de la pression négative", "Pression positive", "Stabilisation de la pression", "Aucun effet"],
+        "correct": [1],
+        "explanation": "L'hypercapnie induit une hyperventilation, réduisant la pression négative (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de type C dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "Les récepteurs C détectent les irritants et l'œdème (p. 73)."
+    },
+    {
+        "question": "Quel est le rôle des mastocytes dans l'asthme ?",
+        "options": ["Libérer des médiateurs bronchodilatateurs", "Libérer des médiateurs bronchoconstricteurs", "Synthétiser le surfactant", "Réguler la pression intrapleurale", "Stabiliser la courbe de dissociation"],
+        "correct": [1],
+        "explanation": "Les mastocytes libèrent de l'histamine et des leucotriènes (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un emphysème sur la compliance pulmonaire ?",
+        "options": ["Aucun effet", "Baisse de la compliance", "Augmentation de la compliance", "Stabilisation de la compliance", "Réduction de la résistance"],
+        "correct": [2],
+        "explanation": "L'emphysème dilate les alvéoles, augmentant la distensibilité (p. 68)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de type ACh dans les voies aériennes ?",
+        "options": ["Muscles lisses bronchiques", "Glandes bronchiques", "Vasculature pulmonaire", "Diaphragme", "Membres"],
+        "correct": [0],
+        "explanation": "L'acétylcholine agit sur les muscles bronchiques (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchodilatation sur la résistance des voies aériennes ?",
+        "options": ["Aucun effet", "Augmentation de la résistance", "Baisse de la résistance", "Stabilisation de la résistance", "Augmentation de la compliance"],
+        "correct": [2],
+        "explanation": "La dilatation réduit la résistance (p. 69)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la substance P ?",
+        "options": ["Épithélium des grosses bronches", "Système nerveux central", "Épithélium des petites bronchioles", "Diaphragme", "Membres"],
+        "correct": [2],
+        "explanation": "La substance P agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un œdème alvéolaire sur la diffusion ?",
+        "options": ["Aucun effet", "Baisse de la diffusion", "Augmentation de la diffusion", "Stabilisation de la diffusion", "Augmentation de la résistance"],
+        "correct": [1],
+        "explanation": "L'œdème augmente l'épaisseur de la membrane alvéolo-capillaire (p. 64)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de l'adrénaline dans les voies aériennes ?",
+        "options": ["Récepteurs alpha", "Récepteurs beta", "Récepteurs muscariniques", "Récepteurs nicotiniques", "Récepteurs de type C"],
+        "correct": [1],
+        "explanation": "L'adrénaline agit sur les récepteurs β des muscles bronchiques (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une diminution de la pression intrapleurale négative ?",
+        "options": ["Aucun effet", "Baisse de la ventilation", "Augmentation de la diffusion", "Stabilisation de la ventilation", "Décollement des alvéoles (collapsus)"],
+        "correct": [4],
+        "explanation": "La pression négative maintient l'adhérence pulmonaire (p. 64)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la vasopressine ?",
+        "options": ["Vasculature pulmonaire", "Muscles lisses bronchiques", "Glandes bronchiques", "Diaphragme", "Membres"],
+        "correct": [0],
+        "explanation": "La vasopressine agit sur les vaisseaux (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction sur le débit ventilatoire ?",
+        "options": ["Aucun effet", "Augmentation du débit", "Baisse du débit", "Stabilisation du débit", "Augmentation de la diffusion"],
+        "correct": [2],
+        "explanation": "La résistance élevée réduit le débit (p. 69)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de l'histamine dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "L'histamine agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur la pression alvéolaire en CO₂ (PACO₂) ?",
+        "options": ["Augmentation", "Baisse", "Stabilisation", "Aucun effet", "Dépend de la pression atmosphérique"],
+        "correct": [0],
+        "explanation": "L'hypercapnie correspond à une PACO₂ élevée (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs proprioceptifs des voies aériennes ?",
+        "options": ["Épithélium des alvéoles", "Paroi des grosses bronches", "Diaphragme", "Membres", "Capillaires"],
+        "correct": [1],
+        "explanation": "Les mécanorécepteurs détectent l'étirement des bronches (p. 73)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un œdème interstitiel sur la ventilation ?",
+        "options": ["Aucun effet", "Stimulation des récepteurs J", "Diminution de la résistance", "Augmentation de la compliance", "Réduction de la diffusion"],
+        "correct": [1],
+        "explanation": "L'œdème interstitiel active les récepteurs J (p. 73)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la noradrénaline dans les voies aériennes ?",
+        "options": ["Récepteurs alpha", "Récepteurs beta", "Récepteurs muscariniques", "Récepteurs nicotiniques", "Récepteurs de type C"],
+        "correct": [0],
+        "explanation": "La noradrénaline agit sur les récepteurs alpha des vaisseaux (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une diminution de la pression intrapleurale négative ?",
+        "options": ["Aucun effet", "Baisse de la ventilation", "Augmentation de la diffusion", "Stabilisation de la ventilation", "Décollement des alvéoles (collapsus)"],
+        "correct": [4],
+        "explanation": "La pression négative maintient l'adhérence pulmonaire (p. 64)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la substance P ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "La substance P agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction sur le débit ventilatoire ?",
+        "options": ["Aucun effet", "Augmentation du débit", "Baisse du débit", "Stabilisation du débit", "Augmentation de la diffusion"],
+        "correct": [2],
+        "explanation": "La résistance élevée réduit le débit (p. 69)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de l'histamine dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "L'histamine agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur la pression intrapleurale ?",
+        "options": ["Augmentation de la pression négative", "Baisse de la pression négative", "Pression positive", "Stabilisation de la pression", "Aucun effet"],
+        "correct": [1],
+        "explanation": "L'hyperventilation induite par l'hypercapnie réduit la pression négative (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la vasopressine ?",
+        "options": ["Vasculature pulmonaire", "Muscles lisses bronchiques", "Glandes bronchiques", "Diaphragme", "Membres"],
+        "correct": [0],
+        "explanation": "La vasopressine agit sur les vaisseaux (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un emphysème sur la compliance pulmonaire ?",
+        "options": ["Aucun effet", "Baisse de la compliance", "Augmentation de la compliance", "Stabilisation de la compliance", "Réduction de la résistance"],
+        "correct": [2],
+        "explanation": "L'emphysème dilate les alvéoles, augmentant la distensibilité (p. 68)."
+    },
+    {
+        "question": "Quel est le mécanisme principal de l'hyperventilation lors de l'effort ?",
+        "options": ["Stimulation des chémorécepteurs par l'hypoxie", "Réponse à l'hypercapnie", "Réflexe proprioceptif des muscles", "Effet des catécholamines", "Compensation métabolique"],
+        "correct": [2],
+        "explanation": "Les récepteurs musculaires stimulent la ventilation (p. 85)."
+    },
+    {
+        "question": "Quelle est la fonction du volume expiratoire maximal par seconde (VEMS) ?",
+        "options": ["Mesurer la capacité vitale", "Évaluer la gravité d'une obstruction bronchique", "Calculer la pression intrapleurale", "Stabiliser la courbe de dissociation", "Réguler le pH sanguin"],
+        "correct": [1],
+        "explanation": "Le VEMS est un indicateur d'obstruction (p. 66)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la substance P ?",
+        "options": ["Épithélium des grosses bronches", "Système nerveux central", "Épithélium des petites bronchioles", "Diaphragme", "Membres"],
+        "correct": [2],
+        "explanation": "La substance P agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchodilatation sur la résistance des voies aériennes ?",
+        "options": ["Aucun effet", "Augmentation de la résistance", "Baisse de la résistance", "Stabilisation de la résistance", "Augmentation de la compliance"],
+        "correct": [2],
+        "explanation": "La dilatation réduit la résistance (p. 69)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de type B dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Système nerveux central", "Épithélium des petites bronchioles", "Diaphragme", "Membres"],
+        "correct": [2],
+        "explanation": "Les récepteurs B détectent des stimuli chimiques et mécaniques (p. 73)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un collapsus alvéolaire ?",
+        "options": ["Augmentation de la ventilation", "Diminution de la diffusion", "Augmentation de la résistance", "Stabilisation de la ventilation", "Décollement des alvéoles"],
+        "correct": [4],
+        "explanation": "Le collapsus se produit sans pression intrapleurale négative (p. 64)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de la noradrénaline dans les voies aériennes ?",
+        "options": ["Récepteurs alpha", "Récepteurs beta", "Récepteurs muscariniques", "Récepteurs nicotiniques", "Récepteurs de type C"],
+        "correct": [0],
+        "explanation": "La noradrénaline agit sur les récepteurs alpha des vaisseaux (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une bronchoconstriction sur le débit ventilatoire ?",
+        "options": ["Aucun effet", "Augmentation du débit", "Baisse du débit", "Stabilisation du débit", "Augmentation de la diffusion"],
+        "correct": [2],
+        "explanation": "La résistance élevée réduit le débit (p. 69)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs de l'histamine dans les voies aériennes ?",
+        "options": ["Épithélium des grosses bronches", "Épithélium des petites bronchioles", "Capillaires pulmonaires", "Diaphragme", "Membres"],
+        "correct": [1],
+        "explanation": "L'histamine agit sur les bronches distales (p. 74)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypercapnie sur la pression alvéolaire en CO₂ (PACO₂) ?",
+        "options": ["Augmentation", "Baisse", "Stabilisation", "Aucun effet", "Dépend de la pression atmosphérique"],
+        "correct": [0],
+        "explanation": "L'hypercapnie correspond à une PACO₂ élevée (p. 83)."
+    },
+    {
+        "question": "Quel est le siège des récepteurs proprioceptifs des voies aériennes ?",
+        "options": ["Épithélium des alvéoles", "Paroi des grosses bronches", "Diaphragme", "Membres", "Capillaires"],
+        "correct": [1],
+        "explanation": "Les mécanorécepteurs détectent l'étirement des bronches (p. 73)."
+    }
+]

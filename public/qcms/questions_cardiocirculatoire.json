@@ -1,0 +1,818 @@
+[
+    {
+        "question": "Quel est le volume sanguin moyen chez un adulte de 70 kg selon le document ?",
+        "options": ["3-4 litres", "5 litres", "7 litres", "10 litres", "8 litres"],
+        "correct": [1],
+        "explanation": "Le document indique un volume sanguin moyen de 5 litres pour un adulte de 70 kg (page 39)."
+    },
+    {
+        "question": "Quelle est la fonction principale des valves cardiaques ?",
+        "options": ["Maintenir une pression élevée dans les veines", "Permettre le retour du sang vers les oreillettes", "Orienter le flux sanguin vers les artères", "Augmenter la vitesse du sang", "Réguler la pression artérielle"],
+        "correct": [2],
+        "explanation": "Les valves assurent le sens unidirectionnel du flux sanguin, évitant les reflux (page 41)."
+    },
+    {
+        "question": "Quel système nerveux principal régule la fréquence cardiaque ?",
+        "options": ["Système parasympathique (SP)", "Système orthosympathique (OS)", "Système somatique", "Système entérique", "Les deux A et B"],
+        "correct": [4],
+        "explanation": "Le SP et l'OS régulent la FC : le SP freine (tonus basal), l'OS accélère (page 44)."
+    },
+    {
+        "question": "Quelle est la pression moyenne artérielle systémique selon le tableau de page 50 ?",
+        "options": ["90-100 mmHg", "120-140 mmHg", "70-80 mmHg", "2-8 mmHg", "13-18 mmHg"],
+        "correct": [0],
+        "explanation": "La pression moyenne aortique est de 90-100 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quel substrat énergétique principal utilise le myocarde selon le document ?",
+        "options": ["Glucose", "Acides gras", "Lactate", "Pyruvate", "Corps cétoniques"],
+        "correct": [1],
+        "explanation": "Les acides gras sont la source majeure d'énergie pour le myocarde (page 42)."
+    },
+    {
+        "question": "Quel mécanisme explique la vasodilatation musculaire lors de l'exercice ?",
+        "options": ["Réduction du CO₂ local", "Accumulation de lactate et H+", "Stimulation du système parasympathique", "Activité des barorécepteurs", "Augmentation de la noradrénaline"],
+        "correct": [1],
+        "explanation": "Les ions H+ et le lactate agissent localement pour dilater les artérioles musculaires (page 57)."
+    },
+    {
+        "question": "Quelle est la durée typique de la période réfractaire absolue du myocarde ?",
+        "options": ["250 ms", "100 ms", "500 ms", "120 ms", "300 ms"],
+        "correct": [0],
+        "explanation": "La période réfractaire absolue dure environ 250 ms (page 44)."
+    },
+    {
+        "question": "Quelle est la fonction principale du tissu nodal AV ?",
+        "options": ["Initier le rythme cardiaque", "Créer le potentiel d'action", "Ralentir la conduction AV", "Maintenir la contraction ventriculaire", "Ouvrir les valves aortiques"],
+        "correct": [2],
+        "explanation": "Le nœud AV introduit un retard pour séparer systole auriculaire/ventriculaire (page 43)."
+    },
+    {
+        "question": "Quel paramètre permet de calculer le débit cardiaque (Qc) ?",
+        "options": ["FC × Volume systolique éjecté (VES)", "Pression artérielle × Résistance", "Volume diastolique × FC", "Volume veineux × Résistance", "Volume capillaire × Fréquence"],
+        "correct": [0],
+        "explanation": "Qc = FC × VES (page 52)."
+    },
+    {
+        "question": "Quel est le principal site des échanges gazeux selon le document ?",
+        "options": ["Capillaires pulmonaires", "Veines pulmonaires", "Artères coronaires", "Oreillette droite", "Ventricule gauche"],
+        "correct": [0],
+        "explanation": "Les capillaires pulmonaires assurent l'hématose (échanges gazeux) (page 39)."
+    },
+    {
+        "question": "Quelle est la pression veineuse centrale (PVC) normale ?",
+        "options": ["0-4 mmHg", "70-80 mmHg", "120-140 mmHg", "2-8 mmHg", "13-18 mmHg"],
+        "correct": [0],
+        "explanation": "La PVC (pression OD diastolique) est de 0-4 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est l'axe électrique normal du cœur ?",
+        "options": ["Droit vers la gauche", "Gauche vers la droite", "Direction aléatoire", "Parallèle à la dérivation DII", "Perpendiculaire au plan frontal"],
+        "correct": [3],
+        "explanation": "L'axe est parallèle à DII (page 46)."
+    },
+    {
+        "question": "Quel facteur augmente la conductivité ventriculaire ?",
+        "options": ["Hypocalcémie", "Hyperkaliémie", "Stimulation orthosympathique", "Baisse de température", "Bloqueurs calciques"],
+        "correct": [2],
+        "explanation": "L'OS accélère la conduction AV via la noradrénaline (page 44)."
+    },
+    {
+        "question": "Quelle est la fonction des sphincters pré-capillaires ?",
+        "options": ["Augmenter la pression capillaire", "Contrôler le flux vers les capillaires", "Maintenir les valves ouvertes", "Transporter les hormones", "Réduire les échanges gazeux"],
+        "correct": [1],
+        "explanation": "Les sphincters régulent le passage sanguin dans les capillaires (page 55)."
+    },
+    {
+        "question": "Quelle est la principale cause de l'hypertrophie ventriculaire gauche ?",
+        "options": ["Sténose mitrale", "Baisse de résistance périphérique", "Hypertension artérielle", "Ralentissement de la FC", "Diminution du VES"],
+        "correct": [2],
+        "explanation": "L'hypertension augmente la post-charge, entraînant une hypertrophie (page 56)."
+    },
+    {
+        "question": "Quelle phase du cycle cardiaque correspond à l'onde T sur l'ECG ?",
+        "options": ["Dépolarisation auriculaire", "Dépolarisation ventriculaire", "Répolarisation ventriculaire", "Phase systolique isovolumétrique", "Conduction auriculo-ventriculaire"],
+        "correct": [2],
+        "explanation": "L'onde T reflète la répolarisation ventriculaire (page 46)."
+    },
+    {
+        "question": "Quel mécanisme principal contrôle le débit capillaire ?",
+        "options": ["Pression artérielle centrale", "Tonique des sphincters pré-capillaires", "Volume veineux", "Activité parasympathique", "Contraction myocardique"],
+        "correct": [1],
+        "explanation": "Les sphincters pré-capillaires régulent le flux capillaire (page 55)."
+    },
+    {
+        "question": "Quelle est la principale source de l'adrénaline dans le système cardiovasculaire ?",
+        "options": ["Cœur", "Ganglions parasympathiques", "Aorte", "Surrénale médullaire", "Veines"],
+        "correct": [3],
+        "explanation": "L'adrénaline est sécrétée par la surrénale médullaire (page 55)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans le ventricule droit ?",
+        "options": ["20-25 mmHg", "120-140 mmHg", "70-80 mmHg", "0-4 mmHg", "8-12 mmHg"],
+        "correct": [0],
+        "explanation": "La pression systolique VD est de 20-25 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quelle est la fonction des récepteurs baro-nerveux ?",
+        "options": ["Mesurer la température corporelle", "Détecter les variations de pression artérielle", "Réguler la glycémie", "Contrôler la respiration", "Surveiller les ions K+"],
+        "correct": [1],
+        "explanation": "Les barorécepteurs ajustent la PA via les réflexes (page 55)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie myocardique ?",
+        "options": ["Loi de Starling", "Inotropisme négatif", "Augmentation de la précharge", "Ralentissement de la FC", "Baisse du VES"],
+        "correct": [0, 2],
+        "explanation": "La loi de Starling (étirement) et la précharge augmentent la force contractile (page 52)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypocalcémie sur le cœur ?",
+        "options": ["Diminution de la FC", "Augmentation de la FC", "Baisse du VES", "Bloque AV", "Ralentissement de la conduction"],
+        "correct": [1],
+        "explanation": "L'hypocalcémie réduit la perméabilité à K+, augmentant la FC (page 44)."
+    },
+    {
+        "question": "Quel est le rôle de l'aldostérone dans la régulation de la PA ?",
+        "options": ["Augmenter la rétention de K+", "Diminuer la rétention de Na+", "Augmenter la rétention de Na+", "Baisser le volume sanguin", "Stimuler la diurèse"],
+        "correct": [2],
+        "explanation": "L'aldostérone favorise la rétention de Na+/eau (page 55)."
+    },
+    {
+        "question": "Quel est le volume sanguin dans le système capacitif ?",
+        "options": ["80% du volume total", "20%", "5%", "50%", "75%"],
+        "correct": [0],
+        "explanation": "80% du sang est dans les veines (système capacitif) (page 39)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un souffle systolique aortique ?",
+        "options": ["Sténose mitrale", "Insuffisance aortique", "Sténose pulmonaire", "Sténose aortique", "Insuffisance tricuspide"],
+        "correct": [3],
+        "explanation": "La sténose aortique entraîne un souffle systolique (tableau II, page 51)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation cutanée en cas de chaleur ?",
+        "options": ["Stimulation orthosympathique", "Réduction du flux sanguin cutané", "Accumulation locale de CO2", "Augmentation de la noradrénaline", "Réponse aux barorécepteurs"],
+        "correct": [2],
+        "explanation": "Le CO2 et les ions H+ dilatent les artérioles cutanées (page 60)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hémorragie massive sur la PVC ?",
+        "options": ["Augmentation", "Diminution", "Aucun changement", "Oscillations rapides", "Stabilisation à 10 mmHg"],
+        "correct": [1],
+        "explanation": "Une hypovolémie réduit la PVC (page 50)."
+    },
+    {
+        "question": "Quel est le principal facteur régulateur de la pression capillaire ?",
+        "options": ["Pression artériolaire", "Gradient oncotique", "Résistance veineuse", "Volume sanguin total", "Activité parasympathique"],
+        "correct": [0],
+        "explanation": "La pression artériolaire domine le gradient hydrostatique (page 55)."
+    },
+    {
+        "question": "Quel est le rôle de la phase diastole ventriculaire ?",
+        "options": ["Éjection du sang vers l'aorte", "Remplissage du ventricule", "Fermeture des valves mitrales", "Contractions auriculaires", "Augmentation de la pression ventriculaire"],
+        "correct": [1],
+        "explanation": "La diastole permet le remplissage ventriculaire (page 49)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertension pulmonaire chronique ?",
+        "options": ["Vasodilatation pulmonaire", "Vasoconstriction pulmonaire", "Diminution de la résistance", "Augmentation du VES", "Baisse du Qc"],
+        "correct": [1],
+        "explanation": "L'anoxie pulmonaire entraîne une vasoconstriction (page 59)."
+    },
+    {
+        "question": "Quel est le principal substrat énergétique des cellules nodales ?",
+        "options": ["Glucose", "Acides gras", "Lactate", "Glycogène", "Acides aminés"],
+        "correct": [0],
+        "explanation": "Les cellules nodales dépendent du glucose (page 42)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs chémiques ?",
+        "options": ["Mesurer la pression", "Détecter les variations CO₂ et H+", "Contrôler la température", "Réguler le volume sanguin", "Mesurer la fréquence cardiaque"],
+        "correct": [1],
+        "explanation": "Les chémorécepteurs détectent les changements chimiques (page 55)."
+    },
+    {
+        "question": "Quelle est la principale cause de la tachycardie en état de choc ?",
+        "options": ["Stimulation parasympathique", "Hypotension artérielle", "Hypoxie", "Surcharge veineuse", "Baisse de la résistance"],
+        "correct": [1],
+        "explanation": "La baisse de PA active le tonus sympathique (page 57)."
+    },
+    {
+        "question": "Quel est le gradient de pression dans la circulation coronaire ?",
+        "options": ["Faible", "Élevé", "Égal à la PA systolique", "Négatif", "Variable selon la FC"],
+        "correct": [1],
+        "explanation": "La circulation coronaire nécessite un gradient élevé (page 59)."
+    },
+    {
+        "question": "Quel est le rôle des valves sigmoïdes ?",
+        "options": ["Permettre le flux vers les oreillettes", "Empêcher le reflux vers les ventricules", "Ouvrir sous pression veineuse", "Fermer pendant la diastole", "Éviter le reflux artériel"],
+        "correct": [4],
+        "explanation": "Les valves aortiques empêchent le reflux vers les ventricules (page 41)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un bloc AV complet ?",
+        "options": ["Aucun impact sur la FC", "Arrêt cardiaque", "Dépendance du rythme ventriculaire", "Augmentation du VES", "Stabilisation de la PA"],
+        "correct": [2],
+        "explanation": "Les ventricules dépendent du rythme idio-ventriculaire (page 43)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans les capillaires ?",
+        "options": ["30 mmHg", "15 mmHg", "10 mmHg", "20 mmHg", "25 mmHg"],
+        "correct": [0],
+        "explanation": "Le pôle artériolaire atteint 30 mmHg (page 55)."
+    },
+    {
+        "question": "Quel est le principal facteur régulateur du Qc pendant l'exercice ?",
+        "options": ["Augmentation du VES", "Diminution de la FC", "Stimulation parasympathique", "Baisse de la résistance périphérique", "Accroissement du volume sanguin"],
+        "correct": [0, 3],
+        "explanation": "Le VES et la FC augmentent, tandis que les résistances baissent (page 61)."
+    },
+    {
+        "question": "Quel est l'axe électrique normal du cœur selon le schéma d'Einthoven ?",
+        "options": ["De la droite vers la gauche", "Du haut vers le bas", "De l'avant vers l'arrière", "Parallèle à la dérivation DII", "Perpendiculaire au plan frontal"],
+        "correct": [0, 3],
+        "explanation": "L'axe est dirigé vers la gauche (page 46)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc hypovolémique ?",
+        "options": ["Insuffisance cardiaque", "Hémorragie", "Infection", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [1],
+        "explanation": "La perte de volume sanguin (hémorragie) cause un choc hypovolémique (page 57)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie ventriculaire ?",
+        "options": ["Réponse à la pression élevée", "Diminution de la résistance", "Augmentation du volume diastolique", "Baisse du tonus sympathique", "Accroissement de la précharge"],
+        "correct": [0, 2, 4],
+        "explanation": "L'hypertrophie résulte d'une pression élevée (post-charge) ou d'expansion (précharge) (page 52)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypoxie myocardique ?",
+        "options": ["Vasoconstriction coronarienne", "Vasodilatation coronarienne", "Augmentation de la résistance", "Baisse du Qc", "Stabilisation de l'irrigation"],
+        "correct": [1],
+        "explanation": "L'hypoxie active des mécanismes de vasodilatation (page 59)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs juxtaglomérulaires ?",
+        "options": ["Sécréter la rénine", "Mesurer la pression rénale", "Réguler le pH sanguin", "Contrôler la diurèse", "Activer l'aldostérone"],
+        "correct": [0, 1],
+        "explanation": "Les récepteurs juxtaglomérulaires détectent la pression et sécrètent la rénine (page 55)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un bruit diastolique mitral ?",
+        "options": ["Sténose mitrale", "Insuffisance aortique", "Sténose aortique", "Insuffisance mitrale", "Hypertrophie ventriculaire"],
+        "correct": [0],
+        "explanation": "La sténose mitrale entraîne un roulement diastolique (tableau II, page 51)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasoconstriction cutanée en cas de froid ?",
+        "options": ["Stimulation parasympathique", "Activité des barorécepteurs", "Stimulation orthosympathique", "Accumulation locale de CO₂", "Réponse aux chémorécepteurs"],
+        "correct": [2],
+        "explanation": "Le système sympathique réduit la perte de chaleur (page 60)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans les capillaires pulmonaires ?",
+        "options": ["20-25 mmHg", "120-140 mmHg", "8-12 mmHg", "0-4 mmHg", "70-80 mmHg"],
+        "correct": [0],
+        "explanation": "La pression pulmonaire est basse (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de la médullaire ?",
+        "options": ["Détecter les variations de pH", "Mesurer la pression veineuse", "Contrôler la FC", "Réguler le volume sanguin", "Activer la sécrétion rénine"],
+        "correct": [0, 3],
+        "explanation": "Les récepteurs médullaires détectent la pression et le volume (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une section du nerf vague ?",
+        "options": ["Ralentissement de la FC", "Augmentation de la FC", "Diminution du Qc", "Baisse de la pression artérielle", "Stabilisation des paramètres"],
+        "correct": [1],
+        "explanation": "Le SP freine la FC : sa suppression accélère le rythme (page 44)."
+    },
+    {
+        "question": "Quel est le principal substrat énergétique des cellules nodales ?",
+        "options": ["Acides gras", "Glucose", "Lactate", "Glycogène", "Acides aminés"],
+        "correct": [1],
+        "explanation": "Les cellules nodales dépendent du glucose (page 42)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une insuffisance cardiaque droite ?",
+        "options": ["Augmentation de la pression veineuse centrale", "Baisse du Qc pulmonaire", "Diminution de la résistance périphérique", "Stabilisation de la pression capillaire", "Accroissement de la PVC"],
+        "correct": [0, 4],
+        "explanation": "L'insuffisance droite entraîne une surcharge veineuse (page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie ventriculaire gauche ?",
+        "options": ["Réponse à la pression aortique élevée", "Diminution de la résistance systémique", "Baisse du volume sanguin", "Stimulation parasympathique", "Augmentation de la précharge"],
+        "correct": [0, 4],
+        "explanation": "La pression élevée (post-charge) ou la précharge (volume) provoquent l'hypertrophie (page 52)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc septique ?",
+        "options": ["Hémorragie", "Infection", "Insuffisance cardiaque", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [1],
+        "explanation": "Les infections sévères (septicémie) causent un choc septique (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de la carotide ?",
+        "options": ["Mesurer la pression artérielle", "Contrôler la température", "Détecter la glycémie", "Réguler le pH sanguin", "Activer la diurèse"],
+        "correct": [0],
+        "explanation": "Les barorécepteurs carotidiens ajustent la PA (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une stimulation orthosympathique sur le myocarde ?",
+        "options": ["Diminution de la FC", "Augmentation de la FC", "Baisse du VES", "Diminution de la résistance", "Stabilisation du Qc"],
+        "correct": [1],
+        "explanation": "L'OS accélère la FC et augmente le VES (page 44)."
+    },
+    {
+        "question": "Quel est le gradient de pression dans la circulation pulmonaire ?",
+        "options": ["Élevé", "Faible", "Égal à la PA systémique", "Négatif", "Variable selon la FC"],
+        "correct": [1],
+        "explanation": "La pression pulmonaire est basse (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation musculaire pendant l'exercice ?",
+        "options": ["Accumulation locale d'H+ et de lactate", "Stimulation parasympathique", "Diminution de la pression capillaire", "Activité des barorécepteurs", "Réduction du Qc"],
+        "correct": [0],
+        "explanation": "Les ions H+ et le lactate dilatent localement (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de l'aorte ?",
+        "options": ["Détecter les variations de pression", "Mesurer la température", "Contrôler le pH", "Réguler la glycémie", "Activer la rénine"],
+        "correct": [0],
+        "explanation": "Les barorécepteurs aortiques ajustent la PA (page 55)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans le ventricule droit ?",
+        "options": ["20-25 mmHg", "120-140 mmHg", "70-80 mmHg", "0-4 mmHg", "8-12 mmHg"],
+        "correct": [0],
+        "explanation": "La pression systolique VD est de 20-25 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation cérébrale en cas d'hypercapnie ?",
+        "options": ["Stimulation parasympathique", "Accumulation locale de CO₂", "Diminution de la pression artérielle", "Activité des barorécepteurs", "Réponse aux chémorécepteurs"],
+        "correct": [1],
+        "explanation": "Le CO₂ dilate les vaisseaux cérébraux (page 59)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc cardiogénique ?",
+        "options": ["Insuffisance cardiaque", "Hémorragie", "Infection", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [0],
+        "explanation": "Une défaillance cardiaque entraîne un choc cardiogénique (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs médullaires du rein ?",
+        "options": ["Détecter la pression rénale", "Contrôler la glycémie", "Mesurer le pH", "Activer la rénine", "Réguler la température"],
+        "correct": [0, 3],
+        "explanation": "Ils détectent la pression et sécrètent la rénine (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypokaliémie sur le cœur ?",
+        "options": ["Augmentation de la FC", "Diminution de la FC", "Stabilisation du rythme", "Accroissement de la résistance", "Baisse du VES"],
+        "correct": [0],
+        "explanation": "L'hypokaliémie entraîne une hyperexcitabilité myocardique (page 44)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie ventriculaire gauche ?",
+        "options": ["Réponse à la pression aortique élevée", "Diminution de la résistance systémique", "Baisse du volume sanguin", "Stimulation parasympathique", "Augmentation de la précharge"],
+        "correct": [0, 4],
+        "explanation": "La pression élevée ou la précharge augmentent la charge de travail (page 52)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc septique ?",
+        "options": ["Hémorragie", "Infection", "Insuffisance cardiaque", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [1],
+        "explanation": "Les infections sévères (septicémie) causent un choc septique (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de la carotide ?",
+        "options": ["Mesurer la pression artérielle", "Contrôler la température", "Détecter la glycémie", "Réguler le pH sanguin", "Activer la diurèse"],
+        "correct": [0],
+        "explanation": "Les barorécepteurs carotidiens ajustent la PA (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une stimulation orthosympathique sur le myocarde ?",
+        "options": ["Diminution de la FC", "Augmentation de la FC", "Baisse du VES", "Diminution de la résistance", "Stabilisation du Qc"],
+        "correct": [1],
+        "explanation": "L'OS accélère la FC et augmente le VES (page 44)."
+    },
+    {
+        "question": "Quel est le gradient de pression dans la circulation pulmonaire ?",
+        "options": ["Élevé", "Faible", "Égal à la PA systémique", "Négatif", "Variable selon la FC"],
+        "correct": [1],
+        "explanation": "La pression pulmonaire est basse (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation musculaire pendant l'exercice ?",
+        "options": ["Accumulation locale d'H+ et de lactate", "Stimulation parasympathique", "Diminution de la pression capillaire", "Activité des barorécepteurs", "Réduction du Qc"],
+        "correct": [0],
+        "explanation": "Les ions H+ et le lactate dilatent localement (page 57)."
+    },
+    {
+        "question": "Quel est le volume sanguin moyen chez un adulte de 70 kg selon le document ?",
+        "options": ["3-4 litres", "5 litres", "7 litres", "10 litres", "8 litres"],
+        "correct": [1],
+        "explanation": "Le document indique un volume sanguin moyen de 5 L pour un adulte de 70 kg (page 39)."
+    },
+    {
+        "question": "Quelle est la fonction principale des valves cardiaques ?",
+        "options": ["Maintenir une pression élevée dans les veines", "Permettre le retour du sang vers les oreillettes", "Orienter le flux sanguin vers les artères", "Augmenter la vitesse du sang", "Réguler la pression artérielle"],
+        "correct": [2],
+        "explanation": "Les valves assurent le sens unidirectionnel du flux sanguin, évitant les reflux (page 41)."
+    },
+    {
+        "question": "Quel système nerveux principal régule la fréquence cardiaque ?",
+        "options": ["Système parasympathique (SP)", "Système orthosympathique (OS)", "Système somatique", "Système entérique", "Les deux A et B"],
+        "correct": [4],
+        "explanation": "Le SP et l'OS régulent la FC : le SP freine (tonus basal), l'OS accélère (page 44)."
+    },
+    {
+        "question": "Quelle est la pression moyenne artérielle systémique selon le tableau de page 50 ?",
+        "options": ["90-100 mmHg", "120-140 mmHg", "70-80 mmHg", "2-8 mmHg", "13-18 mmHg"],
+        "correct": [0],
+        "explanation": "La pression moyenne aortique est de 90-100 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quel substrat énergétique principal utilise le myocarde selon le document ?",
+        "options": ["Glucose", "Acides gras", "Lactate", "Pyruvate", "Corps cétoniques"],
+        "correct": [1],
+        "explanation": "Les acides gras sont la source majeure d'énergie pour le myocarde (page 42)."
+    },
+    {
+        "question": "Quel mécanisme explique la vasodilatation musculaire lors de l'exercice ?",
+        "options": ["Réduction du CO₂ local", "Accumulation de lactate et H+", "Stimulation du système parasympathique", "Activité des barorécepteurs", "Augmentation de la noradrénaline"],
+        "correct": [1],
+        "explanation": "Les ions H+ et le lactate agissent localement pour dilater les artérioles musculaires (page 57)."
+    },
+    {
+        "question": "Quelle est la durée typique de la période réfractaire absolue du myocarde ?",
+        "options": ["250 ms", "100 ms", "500 ms", "120 ms", "300 ms"],
+        "correct": [0],
+        "explanation": "La période réfractaire absolue dure environ 250 ms (page 44)."
+    },
+    {
+        "question": "Quelle est la fonction principale du tissu nodal AV ?",
+        "options": ["Initier le rythme cardiaque", "Créer le potentiel d'action", "Ralentir la conduction AV", "Maintenir la contraction ventriculaire", "Ouvrir les valves aortiques"],
+        "correct": [2],
+        "explanation": "Le nœud AV introduit un retard pour séparer systole auriculaire/ventriculaire (page 43)."
+    },
+    {
+        "question": "Quel paramètre permet de calculer le débit cardiaque (Qc) ?",
+        "options": ["FC × Volume systolique éjecté (VES)", "Pression artérielle × Résistance", "Volume diastolique × FC", "Volume veineux × Résistance", "Volume capillaire × Fréquence"],
+        "correct": [0],
+        "explanation": "Qc = FC × VES (page 52)."
+    },
+    {
+        "question": "Quel est le principal site des échanges gazeux selon le document ?",
+        "options": ["Capillaires pulmonaires", "Veines pulmonaires", "Artères coronaires", "Oreillette droite", "Ventricule gauche"],
+        "correct": [0],
+        "explanation": "Les capillaires pulmonaires assurent l'hématose (échanges gazeux) (page 39)."
+    },
+    {
+        "question": "Quelle est la pression veineuse centrale (PVC) normale ?",
+        "options": ["0-4 mmHg", "70-80 mmHg", "120-140 mmHg", "2-8 mmHg", "13-18 mmHg"],
+        "correct": [0],
+        "explanation": "La PVC (pression OD diastolique) est de 0-4 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est l'axe électrique normal du cœur ?",
+        "options": ["Droit vers la gauche", "Gauche vers la droite", "Direction aléatoire", "Parallèle à la dérivation DII", "Perpendiculaire au plan frontal"],
+        "correct": [3],
+        "explanation": "L'axe est parallèle à DII (page 46)."
+    },
+    {
+        "question": "Quel facteur augmente la conductivité ventriculaire ?",
+        "options": ["Hypocalcémie", "Hyperkaliémie", "Stimulation orthosympathique", "Baisse de température", "Bloqueurs calciques"],
+        "correct": [2],
+        "explanation": "L'OS accélère la conduction AV via la noradrénaline (page 44)."
+    },
+    {
+        "question": "Quelle est la fonction des sphincters pré-capillaires ?",
+        "options": ["Augmenter la pression capillaire", "Contrôler le flux vers les capillaires", "Maintenir les valves ouvertes", "Transporter les hormones", "Réduire les échanges gazeux"],
+        "correct": [1],
+        "explanation": "Les sphincters régulent le passage sanguin dans les capillaires (page 55)."
+    },
+    {
+        "question": "Quelle est la principale cause de l'hypertrophie ventriculaire gauche ?",
+        "options": ["Sténose mitrale", "Baisse de résistance périphérique", "Hypertension artérielle", "Ralentissement de la FC", "Diminution du VES"],
+        "correct": [2],
+        "explanation": "L'hypertension augmente la post-charge, entraînant une hypertrophie (page 56)."
+    },
+    {
+        "question": "Quelle phase du cycle cardiaque correspond à l'onde T sur l'ECG ?",
+        "options": ["Dépolarisation auriculaire", "Dépolarisation ventriculaire", "Répolarisation ventriculaire", "Phase systolique isovolumétrique", "Conduction auriculo-ventriculaire"],
+        "correct": [2],
+        "explanation": "L'onde T reflète la répolarisation ventriculaire (page 46)."
+    },
+    {
+        "question": "Quel mécanisme principal contrôle le débit capillaire ?",
+        "options": ["Pression artérielle centrale", "Tonique des sphincters pré-capillaires", "Volume veineux", "Activité parasympathique", "Contraction myocardique"],
+        "correct": [1],
+        "explanation": "Les sphincters pré-capillaires régulent le flux capillaire (page 55)."
+    },
+    {
+        "question": "Quelle est la principale source de l'adrénaline dans le système cardiovasculaire ?",
+        "options": ["Cœur", "Ganglions parasympathiques", "Aorte", "Surrénale médullaire", "Veines"],
+        "correct": [3],
+        "explanation": "L'adrénaline est sécrétée par la surrénale médullaire (page 55)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans le ventricule droit ?",
+        "options": ["20-25 mmHg", "120-140 mmHg", "70-80 mmHg", "0-4 mmHg", "8-12 mmHg"],
+        "correct": [0],
+        "explanation": "La pression systolique VD est de 20-25 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quelle est la fonction des récepteurs baro-nerveux ?",
+        "options": ["Mesurer la température corporelle", "Détecter les variations de pression artérielle", "Réguler la glycémie", "Contrôler la respiration", "Surveiller les ions K+"],
+        "correct": [1],
+        "explanation": "Les barorécepteurs ajustent la PA via les réflexes (page 55)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie myocardique ?",
+        "options": ["Loi de Starling", "Inotropisme négatif", "Augmentation de la précharge", "Ralentissement de la FC", "Baisse du VES"],
+        "correct": [0, 2],
+        "explanation": "La loi de Starling (étirement) et la précharge augmentent la force contractile (page 52)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypocalcémie sur le cœur ?",
+        "options": ["Diminution de la FC", "Augmentation de la FC", "Baisse du VES", "Bloque AV", "Ralentissement de la conduction"],
+        "correct": [1],
+        "explanation": "L'hypocalcémie réduit la perméabilité à K+, augmentant la FC (page 44)."
+    },
+    {
+        "question": "Quel est le rôle de l'aldostérone dans la régulation de la PA ?",
+        "options": ["Augmenter la rétention de K+", "Diminuer la rétention de Na+", "Augmenter la rétention de Na+", "Baisser le volume sanguin", "Stimuler la diurèse"],
+        "correct": [2],
+        "explanation": "L'aldostérone favorise la rétention de Na+/eau (page 55)."
+    },
+    {
+        "question": "Quel est le volume sanguin dans le système capacitif ?",
+        "options": ["80% du volume total", "20%", "5%", "50%", "75%"],
+        "correct": [0],
+        "explanation": "80% du sang est dans les veines (système capacitif) (page 39)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un souffle systolique aortique ?",
+        "options": ["Sténose mitrale", "Insuffisance aortique", "Sténose pulmonaire", "Sténose aortique", "Insuffisance tricuspide"],
+        "correct": [3],
+        "explanation": "La sténose aortique entraîne un souffle systolique (tableau II, page 51)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation cutanée en cas de chaleur ?",
+        "options": ["Stimulation orthosympathique", "Réduction du flux sanguin cutané", "Accumulation locale de CO2", "Augmentation de la noradrénaline", "Réponse aux barorécepteurs"],
+        "correct": [2],
+        "explanation": "Le CO2 et les ions H+ dilatent les artérioles cutanées (page 60)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hémorragie massive sur la PVC ?",
+        "options": ["Augmentation", "Diminution", "Aucun changement", "Oscillations rapides", "Stabilisation à 10 mmHg"],
+        "correct": [1],
+        "explanation": "Une hypovolémie réduit la PVC (page 50)."
+    },
+    {
+        "question": "Quel est le principal facteur régulateur de la pression capillaire ?",
+        "options": ["Pression artériolaire", "Gradient oncotique", "Résistance veineuse", "Volume sanguin total", "Activité parasympathique"],
+        "correct": [0],
+        "explanation": "La pression artériolaire domine le gradient hydrostatique (page 55)."
+    },
+    {
+        "question": "Quelle est la fonction de la phase diastole ventriculaire ?",
+        "options": ["Éjection du sang vers l'aorte", "Remplissage du ventricule", "Fermeture des valves mitrales", "Contractions auriculaires", "Augmentation de la pression ventriculaire"],
+        "correct": [1],
+        "explanation": "La diastole permet le remplissage ventriculaire (page 49)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertension pulmonaire chronique ?",
+        "options": ["Vasodilatation pulmonaire", "Vasoconstriction pulmonaire", "Diminution de la résistance", "Augmentation du VES", "Baisse du Qc"],
+        "correct": [1],
+        "explanation": "L'anoxie pulmonaire entraîne une vasoconstriction (page 59)."
+    },
+    {
+        "question": "Quel est le substrat énergétique des cellules nodales ?",
+        "options": ["Glucose", "Acides gras", "Lactate", "Glycogène", "Acides aminés"],
+        "correct": [0],
+        "explanation": "Les cellules nodales dépendent du glucose (page 42)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs chémiques ?",
+        "options": ["Mesurer la pression", "Détecter les variations CO₂ et H+", "Contrôler la température", "Réguler le volume sanguin", "Mesurer la fréquence cardiaque"],
+        "correct": [1],
+        "explanation": "Les chémorécepteurs détectent les changements chimiques (page 55)."
+    },
+    {
+        "question": "Quelle est la principale cause de la tachycardie en état de choc ?",
+        "options": ["Stimulation parasympathique", "Hypotension artérielle", "Hypoxie", "Surcharge veineuse", "Baisse de la résistance"],
+        "correct": [1],
+        "explanation": "La baisse de PA active le tonus sympathique (page 57)."
+    },
+    {
+        "question": "Quel est le gradient de pression dans la circulation coronaire ?",
+        "options": ["Faible", "Élevé", "Égal à la PA systolique", "Négatif", "Variable selon la FC"],
+        "correct": [1],
+        "explanation": "La circulation coronaire nécessite un gradient élevé (page 59)."
+    },
+    {
+        "question": "Quel est le rôle des valves sigmoïdes ?",
+        "options": ["Permettre le flux vers les oreillettes", "Empêcher le reflux vers les ventricules", "Ouvrir sous pression veineuse", "Fermer pendant la diastole", "Éviter le reflux artériel"],
+        "correct": [4],
+        "explanation": "Les valves aortiques empêchent le reflux vers les ventricules (page 41)."
+    },
+    {
+        "question": "Quelle est la conséquence d'un bloc AV complet ?",
+        "options": ["Aucun impact sur la FC", "Arrêt cardiaque", "Dépendance du rythme ventriculaire", "Augmentation du VES", "Stabilisation de la PA"],
+        "correct": [2],
+        "explanation": "Les ventricules dépendent du rythme idio-ventriculaire (page 43)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans les capillaires ?",
+        "options": ["30 mmHg", "15 mmHg", "10 mmHg", "20 mmHg", "25 mmHg"],
+        "correct": [0],
+        "explanation": "Le pôle artériolaire atteint 30 mmHg (page 55)."
+    },
+    {
+        "question": "Quel est le principal facteur régulateur du Qc pendant l'exercice ?",
+        "options": ["Augmentation du VES", "Diminution de la FC", "Stimulation parasympathique", "Baisse de la résistance périphérique", "Accroissement du volume sanguin"],
+        "correct": [0, 3],
+        "explanation": "Le VES et la FC augmentent, tandis que les résistances baissent (page 61)."
+    },
+    {
+        "question": "Quel est l'axe électrique normal du cœur selon le schéma d'Einthoven ?",
+        "options": ["De la droite vers la gauche", "Du haut vers le bas", "De l'avant vers l'arrière", "Parallèle à la dérivation DII", "Perpendiculaire au plan frontal"],
+        "correct": [0, 3],
+        "explanation": "L'axe est dirigé vers la gauche (page 46)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc hypovolémique ?",
+        "options": ["Insuffisance cardiaque", "Hémorragie", "Infection", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [1],
+        "explanation": "La perte de volume sanguin (hémorragie) cause un choc hypovolémique (page 57)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie ventriculaire ?",
+        "options": ["Réponse à la pression élevée", "Diminution de la résistance", "Augmentation du volume diastolique", "Baisse du tonus sympathique", "Accroissement de la précharge"],
+        "correct": [0, 2, 4],
+        "explanation": "L'hypertrophie résulte d'une pression élevée (post-charge) ou d'expansion (précharge) (page 52)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypoxie myocardique ?",
+        "options": ["Vasoconstriction coronarienne", "Vasodilatation coronarienne", "Augmentation de la résistance", "Baisse du Qc", "Stabilisation de l'irrigation"],
+        "correct": [1],
+        "explanation": "L'hypoxie active des mécanismes de vasodilatation (page 59)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs juxtaglomérulaires ?",
+        "options": ["Sécréter la rénine", "Mesurer la pression rénale", "Réguler le pH sanguin", "Contrôler la diurèse", "Activer l'aldostérone"],
+        "correct": [0, 1],
+        "explanation": "Les récepteurs juxtaglomérulaires détectent la pression et sécrètent la rénine (page 55)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un bruit diastolique mitral ?",
+        "options": ["Sténose mitrale", "Insuffisance aortique", "Sténose aortique", "Insuffisance mitrale", "Hypertrophie ventriculaire"],
+        "correct": [0],
+        "explanation": "La sténose mitrale entraîne un roulement diastolique (tableau II, page 51)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasoconstriction cutanée en cas de froid ?",
+        "options": ["Stimulation parasympathique", "Activité des barorécepteurs", "Stimulation orthosympathique", "Accumulation locale de CO₂", "Réponse aux chémorécepteurs"],
+        "correct": [2],
+        "explanation": "Le système sympathique réduit la perte de chaleur (page 60)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans les capillaires pulmonaires ?",
+        "options": ["20-25 mmHg", "120-140 mmHg", "8-12 mmHg", "0-4 mmHg", "70-80 mmHg"],
+        "correct": [0],
+        "explanation": "La pression pulmonaire est basse (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de la médullaire ?",
+        "options": ["Détecter les variations de pH", "Mesurer la pression veineuse", "Contrôler la FC", "Réguler le volume sanguin", "Activer la sécrétion rénine"],
+        "correct": [0, 3],
+        "explanation": "Les récepteurs médullaires détectent la pression et le volume (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une section du nerf vague ?",
+        "options": ["Ralentissement de la FC", "Augmentation de la FC", "Diminution du Qc", "Baisse de la pression artérielle", "Stabilisation des paramètres"],
+        "correct": [1],
+        "explanation": "Le SP freine la FC : sa suppression accélère le rythme (page 44)."
+    },
+    {
+        "question": "Quel est le substrat énergétique des cellules nodales ?",
+        "options": ["Acides gras", "Glucose", "Lactate", "Glycogène", "Acides aminés"],
+        "correct": [1],
+        "explanation": "Les cellules nodales dépendent du glucose (page 42)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une insuffisance cardiaque droite ?",
+        "options": ["Augmentation de la pression veineuse centrale", "Baisse du Qc pulmonaire", "Diminution de la résistance périphérique", "Stabilisation de la pression capillaire", "Accroissement de la PVC"],
+        "correct": [0, 4],
+        "explanation": "L'insuffisance droite entraîne une surcharge veineuse (page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie ventriculaire gauche ?",
+        "options": ["Réponse à la pression aortique élevée", "Diminution de la résistance systémique", "Baisse du volume sanguin", "Stimulation parasympathique", "Augmentation de la précharge"],
+        "correct": [0, 4],
+        "explanation": "La pression élevée (post-charge) ou la précharge (volume) provoquent l'hypertrophie (page 52)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc septique ?",
+        "options": ["Hémorragie", "Infection", "Insuffisance cardiaque", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [1],
+        "explanation": "Les infections sévères (septicémie) causent un choc septique (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de la carotide ?",
+        "options": ["Mesurer la pression artérielle", "Contrôler la température", "Détecter la glycémie", "Réguler le pH sanguin", "Activer la diurèse"],
+        "correct": [0],
+        "explanation": "Les barorécepteurs carotidiens ajustent la PA (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une stimulation orthosympathique sur le myocarde ?",
+        "options": ["Diminution de la FC", "Augmentation de la FC", "Baisse du VES", "Diminution de la résistance", "Stabilisation du Qc"],
+        "correct": [1],
+        "explanation": "L'OS accélère la FC et augmente le VES (page 44)."
+    },
+    {
+        "question": "Quel est le gradient de pression dans la circulation pulmonaire ?",
+        "options": ["Élevé", "Faible", "Égal à la PA systémique", "Négatif", "Variable selon la FC"],
+        "correct": [1],
+        "explanation": "La pression pulmonaire est basse (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation musculaire pendant l'exercice ?",
+        "options": ["Accumulation locale d'H+ et de lactate", "Stimulation parasympathique", "Diminution de la pression capillaire", "Activité des barorécepteurs", "Réduction du Qc"],
+        "correct": [0],
+        "explanation": "Les ions H+ et le lactate dilatent localement (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de l'aorte ?",
+        "options": ["Détecter les variations de pression", "Mesurer la température", "Contrôler le pH", "Réguler la glycémie", "Activer la rénine"],
+        "correct": [0],
+        "explanation": "Les barorécepteurs aortiques ajustent la PA (page 55)."
+    },
+    {
+        "question": "Quelle est la pression maximale dans le ventricule droit ?",
+        "options": ["20-25 mmHg", "120-140 mmHg", "70-80 mmHg", "0-4 mmHg", "8-12 mmHg"],
+        "correct": [0],
+        "explanation": "La pression systolique VD est de 20-25 mmHg (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation cérébrale en cas d'hypercapnie ?",
+        "options": ["Stimulation parasympathique", "Accumulation locale de CO₂", "Diminution de la pression artérielle", "Activité des barorécepteurs", "Réponse aux chémorécepteurs"],
+        "correct": [1],
+        "explanation": "Le CO₂ dilate les vaisseaux cérébraux (page 59)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc cardiogénique ?",
+        "options": ["Insuffisance cardiaque", "Hémorragie", "Infection", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [0],
+        "explanation": "Une défaillance cardiaque entraîne un choc cardiogénique (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs médullaires du rein ?",
+        "options": ["Détecter la pression rénale", "Contrôler la glycémie", "Mesurer le pH", "Activer la rénine", "Réguler la température"],
+        "correct": [0, 3],
+        "explanation": "Ils détectent la pression et sécrètent la rénine (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une hypokaliémie sur le cœur ?",
+        "options": ["Augmentation de la FC", "Diminution de la FC", "Stabilisation du rythme", "Accroissement de la résistance", "Baisse du VES"],
+        "correct": [0],
+        "explanation": "L'hypokaliémie entraîne une hyperexcitabilité myocardique (page 44)."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypertrophie ventriculaire gauche ?",
+        "options": ["Réponse à la pression aortique élevée", "Diminution de la résistance systémique", "Baisse du volume sanguin", "Stimulation parasympathique", "Augmentation de la précharge"],
+        "correct": [0, 4],
+        "explanation": "La pression élevée ou la précharge augmentent la charge de travail (page 52)."
+    },
+    {
+        "question": "Quelle est la principale cause d'un état de choc septique ?",
+        "options": ["Hémorragie", "Infection", "Insuffisance cardiaque", "Hypothyroïdie", "Surdose médicamenteuse"],
+        "correct": [1],
+        "explanation": "Les infections sévères (septicémie) causent un choc septique (page 57)."
+    },
+    {
+        "question": "Quel est le rôle des récepteurs de la carotide ?",
+        "options": ["Mesurer la pression artérielle", "Contrôler la température", "Détecter la glycémie", "Réguler le pH sanguin", "Activer la diurèse"],
+        "correct": [0],
+        "explanation": "Les barorécepteurs carotidiens ajustent la PA (page 55)."
+    },
+    {
+        "question": "Quelle est la conséquence d'une stimulation orthosympathique sur le myocarde ?",
+        "options": ["Diminution de la FC", "Augmentation de la FC", "Baisse du VES", "Diminution de la résistance", "Stabilisation du Qc"],
+        "correct": [1],
+        "explanation": "L'OS accélère la FC et augmente le VES (page 44)."
+    },
+    {
+        "question": "Quel est le gradient de pression dans la circulation pulmonaire ?",
+        "options": ["Élevé", "Faible", "Égal à la PA systémique", "Négatif", "Variable selon la FC"],
+        "correct": [1],
+        "explanation": "La pression pulmonaire est basse (tableau I, page 50)."
+    },
+    {
+        "question": "Quel est le mécanisme de la vasodilatation musculaire pendant l'exercice ?",
+        "options": ["Accumulation locale d'H+ et de lactate", "Stimulation parasympathique", "Diminution de la pression capillaire", "Activité des barorécepteurs", "Réduction du Qc"],
+        "correct": [0],
+        "explanation": "Les ions H+ et le lactate dilatent localement (page 57)."
+    }
+]

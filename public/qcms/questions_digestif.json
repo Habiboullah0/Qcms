@@ -1,0 +1,1125 @@
+[
+    {
+        "question": "Quelles couches composent la paroi du tube digestif de l'intérieur vers l'extérieur?",
+        "options": [
+            "Musculeuse, sous-muqueuse, muqueuse, séreuse",
+            "Muqueuse, sous-muqueuse, musculeuse, séreuse",
+            "Séreuse, musculeuse, sous-muqueuse, muqueuse",
+            "Musculeuse, muqueuse, sous-muqueuse, séreuse",
+            "Sous-muqueuse, muqueuse, musculeuse, séreuse"
+        ],
+        "correct": [1],
+        "explanation": "La paroi digestive se compose de la muqueuse (premier couche), suivie de la sous-muqueuse, de la musculeuse et enfin de la séreuse comme couche externe."
+    },
+    {
+        "question": "Quelles sont les fonctions principales des cellules interstitielles de Cajal (CIC)?",
+        "options": ["Générer les ondes lentes", "Produire les enzymes digestives", "Constituer le plexus myentérique", "Connecter les neurones aux muscles lisses", "Contrôler la vidange gastrique"],
+        "correct": [0, 3],
+        "explanation": "Les CIC sont des pacemakers générant les ondes lentes et forment des connexions avec les cellules musculaires lisses via des jonctions serrées."
+    },
+    {
+        "question": "Quels sont les types de mouvements de la paroi digestive?",
+        "options": ["Segmentation et peristaltisme", "Péristaltisme et vasoconstriction", "Segmentation et dilatation", "Péristaltisme et régurgitation", "Dilatation et contraction tonique"],
+        "correct": [0],
+        "explanation": "Les mouvements principaux sont la segmentation (mélange) et le péristaltisme (propulsion)."
+    },
+    {
+        "question": "Quelle est la principale hormone stimulant la sécrétion acide gastrique?",
+        "options": ["Gastrine", "Insuline", "Somatostatine", "Cholécystokinine", "Sécrétine"],
+        "correct": [0],
+        "explanation": "La gastrine, libérée par les cellules G de l'estomac, stimule les cellules pariétales à sécréter de l'acide chlorhydrique."
+    },
+    {
+        "question": "Quel est le rôle des sels biliaires?",
+        "options": ["Hydrater les aliments", "Activer les enzymes pancréatiques", "Émulsionner les lipides", "Absorber les acides aminés", "Neutraliser l'acide gastrique"],
+        "correct": [2],
+        "explanation": "Les sels biliaires émulsionnent les lipides pour faciliter leur digestion et forment des micelles avec les produits lipidiques."
+    },
+    {
+        "question": "Quelles enzymes sont sécrétées par le pancréas sous forme inactive?",
+        "options": ["Trypsinogène", "Chymotrypsinogène", "Lipase pancréatique", "Pepsinogène", "Carboxypeptidase"],
+        "correct": [0, 1, 4],
+        "explanation": "Les protéases pancréatiques (trypsine, chymotrypsine, carboxypeptidases) sont sécrétées sous forme inactive (proenzymes) et activées dans l'intestin."
+    },
+    {
+        "question": "Quel est le médiateur principal de la relaxation du sphincter pylorique?",
+        "options": ["Acétylcholine", "VIP", "NO", "CCK", "Glucagon"],
+        "correct": [1, 2, 3],
+        "explanation": "La CCK et le VIP, ainsi que le monoxyde d'azote (NO), stimulent la relaxation du sphincter pylorique pour permettre la vidange gastrique."
+    },
+    {
+        "question": "Quel est le rôle de la phase céphalique dans la digestion?",
+        "options": ["Stimuler la salivation par les réflexes conditionnés", "Inhiber la sécrétion pancréatique", "Neutraliser l'acide gastrique", "Absorber les nutriments", "Déclencher le péristaltisme intestinal"],
+        "correct": [0],
+        "explanation": "La phase céphalique active la salivation et la sécrétion gastrique par des stimuli visuels ou olfactifs, via le système nerveux vagal."
+    },
+    {
+        "question": "Quelles sont les causes principales de l'ulcère gastroduodénal?",
+        "options": ["Surproduction de sécrétion pancréatique", "Infection par Helicobacter pylori", "Déficit du mucus gastrique", "Usage prolongé d'anti-inflammatoires", "Déficit de la lipase pancréatique"],
+        "correct": [1, 2, 3],
+        "explanation": "L'ulcère résulte d'un déséquilibre entre agressions (acide, Hp) et défenses (mucus, bicarbonate). Les AINS aggravent ce déséquilibre."
+    },
+    {
+        "question": "Quel est le principal mécanisme d'absorption du glucose dans l'intestin grêle?",
+        "options": ["Diffusion passive", "Cotransport Na+/glucose", "Endocytose active", "Diffusion facilitée via GLUT5", "Transport par les micelles"],
+        "correct": [1],
+        "explanation": "Le glucose est absorbé via un cotransport Na+/glucose (SGLUT1) actif secondaire à la membrane apicale des entérocytes."
+    },
+    {
+        "question": "Quelle est la fonction du complexe moteur migrant (CMM)?",
+        "options": ["Propager le contenu gastrique vers l'intestin", "Nettoyer l'intestin grêle entre les repas", "Activer la motricité colique", "Stocker les matières fécales", "Absorber les nutriments"],
+        "correct": [1],
+        "explanation": "Le CMM élimine les résidus alimentaires et prévient la prolifération bactérienne entre les repas."
+    },
+    {
+        "question": "Quels sont les composants de la salive?",
+        "options": ["Amylase salivaire", "Hémoglobine", "Mucines", "Acide chlorhydrique", "Immunoglobulines"],
+        "correct": [0, 2, 4],
+        "explanation": "La salive contient des enzymes (amylase), des mucines (viscosité) et des IgA pour la défense."
+    },
+    {
+        "question": "Quelle est la principale cause de diarrhée osmotique?",
+        "options": ["Surproduction de sels biliaires", "Malabsorption des glucides", "Infection bactérienne", "Surproduction d'acide gastrique", "Usage d'antibiotiques"],
+        "correct": [1],
+        "explanation": "La malabsorption (ex: lactose) laisse des solutés non absorbés dans l'intestin, attirant l'eau et causant une diarrhée osmotique."
+    },
+    {
+        "question": "Quel est le rôle des acides biliaires dans la digestion des lipides?",
+        "options": ["Activer la lipase pancréatique", "Emulsionner les triglycérides", "Former les micelles", "Absorber les acides gras libres", "Désactiver les enzymes gastriques"],
+        "correct": [1, 2],
+        "explanation": "Les sels biliaires émulsionnent les lipides et forment des micelles pour faciliter leur digestion et absorption."
+    },
+    {
+        "question": "Quels sont les facteurs inhibiteurs de la sécrétion acide gastrique?",
+        "options": ["Gastrine", "Somatostatine", "CCK", "Acidité élevée dans le duodénum", "Sécrétine"],
+        "correct": [1, 3, 4],
+        "explanation": "La somatostatine, l'acidité duodénale et la sécrétine inhibent la sécrétion acide via des réflexes locaux."
+    },
+    {
+        "question": "Quelle est la principale enzyme responsable de la digestion des protéines dans l'intestin grêle?",
+        "options": ["Trypsine", "Pepsine", "Lipase pancréatique", "Amylase pancréatique", "Chymotrypsine"],
+        "correct": [0, 4],
+        "explanation": "La trypsine et la chymotrypsine (pancréatiques) hydrolysent les protéines en acides aminés et peptides."
+    },
+    {
+        "question": "Quel est le mécanisme principal d'absorption de la vitamine D?",
+        "options": ["Absorption passive dans l'iléon", "Transport actif via des protéines", "Formation de micelles", "Absorption via les micelles lipidiques", "Métabolisation hépatique"],
+        "correct": [2, 3],
+        "explanation": "Les vitamines liposolubles (incluant la D) sont absorbées via les micelles formées avec les sels biliaires."
+    },
+    {
+        "question": "Quelle est la fonction du facteur intrinsèque?",
+        "options": ["Activer la pepsine", "Protéger la muqueuse gastrique", "Fixer la vitamine B12", "Stimuler la sécrétion pancréatique", "Absorber le calcium"],
+        "correct": [2],
+        "explanation": "Le facteur intrinsèque (secrété par les cellules pariétales) est nécessaire pour l'absorption de la vitamine B12 dans l'iléon."
+    },
+    {
+        "question": "Quel est le principal organe responsable de la production de la bilirubine?",
+        "options": ["Foie", "Rate", "Moelle osseuse", "Intestin grêle", "Pancréas"],
+        "correct": [2],
+        "explanation": "La bilirubine est formée à partir de l'hémoglobine dégradée dans la rate et la moelle osseuse."
+    },
+    {
+        "question": "Quel est le rôle des acides gras libres dans la digestion?",
+        "options": ["Activer la lipase pancréatique", "Former des micelles avec les sels biliaires", "Neutraliser l'acide gastrique", "Absorber les vitamines solubles en eau", "Hydrater la muqueuse intestinale"],
+        "correct": [1],
+        "explanation": "Les acides gras et monoglycérides forment des micelles avec les sels biliaires pour faciliter leur absorption."
+    },
+    {
+        "question": "Quelle est la principale source de bicarbonate dans le suc pancréatique?",
+        "options": ["Cellules acinaires pancréatiques", "Sécrétion duodénale", "Cellules pariétales gastriques", "Vésicule biliaire", "Colon"],
+        "correct": [0],
+        "explanation": "Le suc pancréatique contient du HCO3- pour neutraliser l'acidité gastrique."
+    },
+    {
+        "question": "Quels sont les effets de la CCK sur le système digestif?",
+        "options": ["Inhiber la sécrétion acide gastrique", "Stimuler la contraction de la vésicule biliaire", "Relâcher le sphincter d'Oddi", "Augmenter le débit sanguin pancréatique", "Activer la lipase salivaire"],
+        "correct": [0, 1, 2, 3],
+        "explanation": "La CCK stimule la sécrétion pancréatique, la contraction vésiculaire et le relâchement du sphincter d'Oddi, tout en inhibant l'acidité gastrique."
+    },
+    {
+        "question": "Quel est le mécanisme de l'achalasie de l'œsophage?",
+        "options": ["Hypercontraction du sphincter pylorique", "Défaut de relaxation du sphincter œsophagien inférieur", "Surproduction de sécrétine", "Atrophie des cellules de Cajal", "Infection par Helicobacter pylori"],
+        "correct": [1, 3],
+        "explanation": "L'achalasie résulte d'une dégénérescence des plexus nerveux myentériques et d'un défaut de relaxation du sphincter œsophagien inférieur."
+    },
+    {
+        "question": "Quelle est la fonction principale des cryptes intestinales?",
+        "options": ["Absorber les nutriments", "Produire des enzymes digestives", "Protéger la muqueuse par un mucus", "Stocker les matières fécales", "Neutraliser l'acide gastrique"],
+        "correct": [1, 2],
+        "explanation": "Les cryptes contiennent des cellules sécrétoires (enzymes, mucus) et des cellules endocrines."
+    },
+    {
+        "question": "Quel est le rôle du nerf vague dans le système digestif?",
+        "options": ["Inhiber la sécrétion pancréatique", "Stimuler la motricité gastrique", "Relâcher le sphincter pylorique", "Augmenter la production de bile", "Activer la contraction du colon"],
+        "correct": [1, 2, 3, 4],
+        "explanation": "Le vague stimule la sécrétion gastrique/pancréatique, la motricité et la relaxation des sphincters."
+    },
+    {
+        "question": "Quels sont les symptômes d'une diarrhée sécrétoire?",
+        "options": ["Sels liquides et volumineux", "Présence de sang dans les selles", "Fréquence élevée malgré le jeûne", "Douleur abdominale", "Déshydratation osmotique"],
+        "correct": [0, 2],
+        "explanation": "La diarrhée sécrétoire persiste en jeûne et produit des selles liquides volumineuses (ex: choléra)."
+    },
+    {
+        "question": "Quelle est la principale enzyme hydrolysant l'amidon dans la bouche?",
+        "options": ["Amylase salivaire", "Pepsine", "Trypsine", "Sucrase", "Lipase pancréatique"],
+        "correct": [0],
+        "explanation": "L'amylase salivaire (α-amylase) dégrade l'amidon en maltose et dextrines."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des acides aminés?",
+        "options": ["Diffusion passive via GLUT2", "Cotransport avec Na+", "Endocytose active", "Absorption via les micelles", "Diffusion facilitée par les dipeptides"],
+        "correct": [1, 4],
+        "explanation": "Les acides aminés sont absorbés par des systèmes de cotransport Na+/aminoacide ou via des transporteurs spécifiques pour les di/tripeptides."
+    },
+    {
+        "question": "Quel est le rôle de la phase intestinale dans la régulation de la digestion?",
+        "options": ["Stimuler la salivation", "Inhiber la sécrétion gastrique", "Activer la motricité œsophagienne", "Augmenter la production de gastrine", "Absorber les nutriments"],
+        "correct": [1],
+        "explanation": "La phase intestinale inhibe la sécrétion acide gastrique via des hormones comme la CCK et la sécrétine."
+    },
+    {
+        "question": "Quel est le principal facteur de régulation de la vidange gastrique?",
+        "options": ["Présence de glucose dans l'intestin", "Présence de lipides dans le duodénum", "Volume de l'estomac", "Activité vagale", "Niveau de potassium"],
+        "correct": [1],
+        "explanation": "Les lipides et acides aminés dans le duodénum stimulent la CCK, qui inhibe la vidange gastrique."
+    },
+    {
+        "question": "Quel est le mécanisme de la constipation par inertie colique?",
+        "options": ["Hyperactivité du colon", "Hypertrophie du sphincter anal", "Réduction de la motricité colique", "Surproduction de sécrétine", "Malabsorption des lipides"],
+        "correct": [2],
+        "explanation": "L'inertie colique ralentit le transit, entraînant une constipation."
+    },
+    {
+        "question": "Quel est le rôle des oligosaccharidases dans l'intestin grêle?",
+        "options": ["Hydrolyser les polysaccharides", "Convertir le lactose en galactose et glucose", "Activer les enzymes pancréatiques", "Formuler les micelles", "Absorber les acides gras"],
+        "correct": [0, 1],
+        "explanation": "Les oligosaccharidases (ex: sucrase, lactase) dégradent les disaccharides en monosaccharides."
+    },
+    {
+        "question": "Quel est le médiateur principal des contractions musculaires lisses?",
+        "options": ["Calcium intracellulaire", "Potassium extracellulaire", "Glucose intracellulaire", "Acide lactique", "Acétylcholine"],
+        "correct": [0, 4],
+        "explanation": "Les contractions musculaires dépendent du calcium et des neurotransmetteurs comme l'acétylcholine."
+    },
+    {
+        "question": "Quelle est la fonction du plexus myentérique?",
+        "options": ["Contrôler la motricité digestive", "Produire le mucus gastrique", "Stimuler la sécrétion biliaire", "Absorber les nutriments", "Réguler la température corporelle"],
+        "correct": [0],
+        "explanation": "Le plexus myentérique (de Auerbach) contrôle la motricité via des neurones intrinsèques."
+    },
+    {
+        "question": "Quel est le résultat de l'activation de la voie parasympathique dans l'intestin?",
+        "options": ["Augmenter l'absorption des nutriments", "Inhiber la motricité", "Stimuler la sécrétion des glandes", "Réduire la production de bicarbonate", "Augmenter la sécrétion pancréatique"],
+        "correct": [2, 4],
+        "explanation": "La voie parasympathique stimule la motricité et la sécrétion digestive."
+    },
+    {
+        "question": "Quel est le principal substrat pour la production des sels biliaires?",
+        "options": ["Cholestérol hépatique", "Glycérine", "Acides gras essentiels", "Glycogène", "Protéines"],
+        "correct": [0],
+        "explanation": "Les sels biliaires sont synthétisés à partir du cholestérol dans le foie."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypercalcémie due à une maladie des glandes parathyroïdes?",
+        "options": ["Inhibition de l'absorption intestinale", "Stimulation de la résorption osseuse", "Surproduction de calcitonine", "Augmentation de la fixation du calcium dans l'urine", "Activation de la vitamine D"],
+        "correct": [1, 4],
+        "explanation": "La PTH stimule la résorption osseuse et l'activation de la vitamine D pour augmenter l'absorption intestinale."
+    },
+    {
+        "question": "Quel est le rôle du sphincter pylorique?",
+        "options": ["Empêcher le reflux gastrique", "Stocker les matières fécales", "Neutraliser l'acide gastrique", "Absorber les nutriments", "Propulser le chyme vers l'intestin"],
+        "correct": [0, 4],
+        "explanation": "Le sphincter pylorique contrôle la vidange gastrique en restant fermé sauf lors de la délivrance du chyme."
+    },
+    {
+        "question": "Quelle est la principale cause de diarrhée infectieuse?",
+        "options": ["Déshydratation", "Toxines bactériennes", "Maux de tête", "Surproduction d'acide gastrique", "Malabsorption des lipides"],
+        "correct": [1],
+        "explanation": "Les infections (ex: choléra, salmonellose) produisent des toxines stimulant la sécrétion intestinale."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des vitamines liposolubles?",
+        "options": ["Absorption passive dans l'iléon", "Formation de micelles avec les sels biliaires", "Transport actif via les entérocytes", "Absorption via les villis", "Diffusion facilitée par les micelles"],
+        "correct": [1, 3, 4],
+        "explanation": "Les vitamines liposolubles sont emportées par les micelles et absorbées par diffusion dans l'iléon."
+    },
+    {
+        "question": "Quel est le rôle des cellules de lisséphèges dans la paroi digestive?",
+        "options": ["Produire des enzymes digestives", "Assurer la perméabilité des villosités", "Stimuler la motricité", "Protéger la muqueuse par un mucus", "Absorber les nutriments"],
+        "correct": [3],
+        "explanation": "Les cellules myoépithéliales (lisséphèges) contractent les glandes pour aider l'écoulement de la salive ou d'autres sécrétions."
+    },
+    {
+        "question": "Quel est le principal effet de l'histamine sur la sécrétion gastrique?",
+        "options": ["Inhiber la sécrétion d'acide chlorhydrique", "Stimuler les cellules pariétales à produire de l'HCl", "Augmenter la production de mucus", "Réduire la motricité gastrique", "Stimuler la libération de gastrine"],
+        "correct": [1, 4],
+        "explanation": "L'histamine stimule directement les cellules pariétales pour augmenter la production d'acide."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des acides gras?",
+        "options": ["Absorption directe dans l'estomac", "Formation de chylomicrons dans les entérocytes", "Transport via les micelles dans l'iléon", "Absorption passive par diffusion", "Stocker dans le foie"],
+        "correct": [1, 2],
+        "explanation": "Les acides gras sont absorbés via les micelles, reformés en chylomicrons et transportés par la lymphe."
+    },
+    {
+        "question": "Quel est le rôle des cellules G de l'estomac?",
+        "options": ["Libérer de la gastrine", "Produire du facteur intrinsèque", "Absorber les nutriments", "Protéger la muqueuse", "Activer la lipase pancréatique"],
+        "correct": [0],
+        "explanation": "Les cellules G sécrètent la gastrine en réponse à la présence de protéines dans l'estomac."
+    },
+    {
+        "question": "Quel est le principal substrat pour la formation de la bilirubine?",
+        "options": ["Hémoglobine", "Myoglobine", "Plasminogène", "Ferritine", "Collagène"],
+        "correct": [0],
+        "explanation": "La bilirubine est formée à partir de l'hémoglobine dégradée dans la rate."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hyperglycémie postprandiale?",
+        "options": ["Absorption rapide des glucides simples", "Inhibition de l'insuline", "Stimulation de la glucagon", "Réduction de la motricité intestinale", "Augmentation de la sécrétion pancréatique"],
+        "correct": [0],
+        "explanation": "Les glucides simples sont rapidement absorbés, entraînant une hausse du glucose sanguin."
+    },
+    {
+        "question": "Quel est le rôle des cellules de Langerhans dans le pancréas?",
+        "options": ["Produire les enzymes digestives", "Reguler le glucose sanguin", "Stocker la bile", "Absorber les nutriments", "Stimuler la motricité"],
+        "correct": [1],
+        "explanation": "Les cellules de Langerhans (exocrine) produisent des hormones comme l'insuline et le glucagon."
+    },
+    {
+        "question": "Quel est le principal effet de la somatostatine sur la digestion?",
+        "options": ["Stimuler la sécrétion pancréatique", "Inhiber la gastrine et l'histamine", "Augmenter la vidange gastrique", "Stimuler la contraction du sphincter pylorique", "Activer la lipase"],
+        "correct": [1, 3],
+        "explanation": "La somatostatine inhibe la sécrétion gastrique et pancréatique, et stimule le sphincter pylorique."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hyperamylasémie?",
+        "options": ["Surproduction de salive", "Infection pancréatique", "Malabsorption des glucides", "Surproduction de CCK", "Inhibition de la sécrétine"],
+        "correct": [1],
+        "explanation": "Une inflammation pancréatique (pancréatite) libère l'amylase dans le sang."
+    },
+    {
+        "question": "Quel est le rôle des cellules de la couche musculaire oblique de l'estomac?",
+        "options": ["Générer les ondes lentes", "Contrôler la vidange gastrique", "Assurer la contraction segmentaire", "Protéger la muqueuse", "Aucun rôle moteur"],
+        "correct": [2],
+        "explanation": "La couche oblique participe aux mouvements de segmentation dans l'estomac proximal."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption de la vitamine B12?",
+        "options": ["Absorption passive dans l'estomac", "Fixation au facteur intrinsèque dans l'iléon", "Formation de micelles avec les sels biliaires", "Transport via les entérocytes sans médiateur", "Absorption active via les villis"],
+        "correct": [1],
+        "explanation": "La vitamine B12 combine au facteur intrinsèque pour être absorbée dans l'iléon."
+    },
+    {
+        "question": "Quel est le principal effet de l'acide gastrique sur les enzymes digestives?",
+        "options": ["Activer la lipase pancréatique", "Inhiber la pepsine", "Activer la pepsine", "Neutraliser la bile", "Hydrater les aliments"],
+        "correct": [2],
+        "explanation": "L'acide gastrique active la pepsine (de pepsinogène) et crée un environnement acide optimal pour les enzymes."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hématémèse?",
+        "options": ["Hémorragie gastrique", "Hémorragie rectale", "Inflammation de la vésicule biliaire", "Ulcère duodénal", "Hypertension artérielle"],
+        "correct": [0, 3],
+        "explanation": "L'hématémèse (vomissements de sang) peut résulter d'un ulcère gastrique ou duodénal avec saignement."
+    },
+    {
+        "question": "Quel est le rôle des cellules de la sous-muqueuse dans le tube digestif?",
+        "options": ["Produire les enzymes digestives", "Contenir le plexus sous-muqueux", "Absorber les nutriments", "Protéger la muqueuse", "Contrôler la motricité"],
+        "correct": [1],
+        "explanation": "La sous-muqueuse abrite le plexus sous-muqueux (de Meissner), qui régule les fonctions locales."
+    },
+    {
+        "question": "Quel est le principal effet des antiacides sur l'ulcère gastrique?",
+        "options": ["Inhiber la sécrétion d'histamine", "Neutraliser l'acide gastrique", "Augmenter la production de mucus", "Stimuler la guérison tissulaire", "Inhiber les enzymes pancréatiques"],
+        "correct": [1],
+        "explanation": "Les antiacides neutralisent temporairement l'acide gastrique pour réduire l'agression de la muqueuse."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des ions calcium dans l'intestin grêle?",
+        "options": ["Absorption passive via les micelles", "Transport actif avec vitamine D", "Diffusion facilitée par des canaux", "Absorption passive en cas de faible concentration", "Transport par les cellules de Cajal"],
+        "correct": [1, 3],
+        "explanation": "Le calcium est absorbé par diffusion passive ou transport actif dépendant de la vitamine D."
+    },
+    {
+        "question": "Quel est le rôle des cellules D de l'estomac?",
+        "options": ["Libérer de la gastrine", "Produire de la somatostatine", "Activer la lipase", "Absorber le glucose", "Stimuler la sécrétion pancréatique"],
+        "correct": [1],
+        "explanation": "Les cellules D sécrètent de la somatostatine, inhibant la gastrine et l'histamine."
+    },
+    {
+        "question": "Quel est le principal mécanisme de régulation de la sécrétion pancréatique?",
+        "options": ["Stimulus vagal et libération de CCK", "Action directe de l'acide gastrique", "Réponse aux acides aminés dans l'estomac", "Stimulation par la gastrine seule", "Inhibition par la sécrétine"],
+        "correct": [0],
+        "explanation": "La CCK et le vague stimulent la sécrétion pancréatique en réponse aux nutriments duodénaux."
+    },
+    {
+        "question": "Quel est le résultat d'une carence en lactase?",
+        "options": ["Intolérance au lactose", "Diarrhée osmotique", "Maux de ventre après le lait", "Constipation", "Surcharge en calcium"],
+        "correct": [0, 1, 2],
+        "explanation": "La lactose non digest (carence en lactase) reste dans l'intestin, causant une diarrhée osmotique et des symptômes digestifs."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des dipeptides dans l'intestin grêle?",
+        "options": ["Transport actif via des canaux spécifiques", "Diffusion passive", "Absorption par les micelles", "Cotransport avec H+", "Transport par les cellules de Cajal"],
+        "correct": [3],
+        "explanation": "Les dipeptides sont absorbés via des transporteurs dépendant du H+."
+    },
+    {
+        "question": "Quel est le rôle des cellules ECL dans le tube digestif?",
+        "options": ["Libérer de l'histamine", "Produire le facteur intrinsèque", "Absorber les nutriments", "Stimuler la sécrétion pancréatique", "Inhiber la gastrine"],
+        "correct": [0],
+        "explanation": "Les cellules ECL sécrètent de l'histamine, stimulant les cellules pariétales à produire de l'acide."
+    },
+
+    {
+        "question": "Quelles sont les couches de la paroi digestive en ordre de l'intérieur vers l'extérieur?",
+        "options": [
+            "Musculeuse, sous-muqueuse, muqueuse, séreuse",
+            "Muqueuse, sous-muqueuse, musculeuse, séreuse",
+            "Séreuse, musculeuse, sous-muqueuse, muqueuse",
+            "Musculeuse, muqueuse, sous-muqueuse, séreuse",
+            "Sous-muqueuse, muqueuse, musculeuse, séreuse"
+        ],
+        "correct": [1],
+        "explanation": "La paroi digestive se compose de la muqueuse (premier couche), suivie de la sous-muqueuse, de la musculeuse et enfin de la séreuse comme couche externe."
+    },
+    {
+        "question": "Quelles sont les fonctions des cellules interstitielles de Cajal (CIC)?",
+        "options": ["Générer les ondes lentes", "Produire les enzymes digestives", "Constituer le plexus myentérique", "Connecter les neurones aux muscles lisses", "Contrôler la vidange gastrique"],
+        "correct": [0, 3],
+        "explanation": "Les CIC sont des pacemakers générant les ondes lentes et forment des connexions avec les cellules musculaires lisses via des jonctions serrées."
+    },
+    {
+        "question": "Quels sont les types de mouvements de la paroi digestive?",
+        "options": ["Segmentation et peristaltisme", "Péristaltisme et vasoconstriction", "Segmentation et dilatation", "Péristaltisme et régurgitation", "Dilatation et contraction tonique"],
+        "correct": [0],
+        "explanation": "Les mouvements principaux sont la segmentation (mélange) et le péristaltisme (propulsion)."
+    },
+    {
+        "question": "Quelle est la principale hormone stimulant la sécrétion acide gastrique?",
+        "options": ["Gastrine", "Insuline", "Somatostatine", "Cholécystokinine", "Sécrétine"],
+        "correct": [0],
+        "explanation": "La gastrine, libérée par les cellules G de l'estomac, stimule les cellules pariétales à produire de l'acide chlorhydrique."
+    },
+    {
+        "question": "Quel est le rôle des sels biliaires?",
+        "options": ["Hydrater les aliments", "Activer les enzymes pancréatiques", "Émulsionner les lipides", "Absorber les acides aminés", "Neutraliser l'acide gastrique"],
+        "correct": [2],
+        "explanation": "Les sels biliaires émulsionnent les lipides pour faciliter leur digestion et forment des micelles avec les produits lipidiques."
+    },
+    {
+        "question": "Quelles enzymes sont sécrétées par le pancréas sous forme inactive?",
+        "options": ["Trypsinogène", "Chymotrypsinogène", "Lipase pancréatique", "Pepsinogène", "Carboxypeptidase"],
+        "correct": [0, 1, 4],
+        "explanation": "Les protéases pancréatiques (trypsine, chymotrypsine, carboxypeptidases) sont sécrétées sous forme inactive (proenzymes) et activées dans l'intestin."
+    },
+    {
+        "question": "Quel est le médiateur principal de la relaxation du sphincter pylorique?",
+        "options": ["Acétylcholine", "VIP", "NO", "CCK", "Glucagon"],
+        "correct": [1, 2, 3],
+        "explanation": "La CCK et le VIP, ainsi que le monoxyde d'azote (NO), stimulent la relaxation du sphincter pylorique pour permettre la vidange gastrique."
+    },
+    {
+        "question": "Quel est le rôle de la phase céphalique dans la digestion?",
+        "options": ["Stimuler la salivation par les réflexes conditionnés", "Inhiber la sécrétion pancréatique", "Neutraliser l'acide gastrique", "Absorber les nutriments", "Déclencher le péristaltisme intestinal"],
+        "correct": [0],
+        "explanation": "La phase céphalique active la salivation et la sécrétion gastrique via des stimuli visuels ou olfactifs, via le système nerveux vagal."
+    },
+    {
+        "question": "Quelles sont les causes principales de l'ulcère gastroduodénal?",
+        "options": ["Surproduction de sécrétion pancréatique", "Infection par Helicobacter pylori", "Déficit du mucus gastrique", "Usage prolongé d'anti-inflammatoires", "Déficit de la lipase pancréatique"],
+        "correct": [1, 2, 3],
+        "explanation": "L'ulcère résulte d'un déséquilibre entre agressions (acide, Hp) et défenses (mucus, bicarbonate). Les AINS aggravent ce déséquilibre."
+    },
+    {
+        "question": "Quel est le principal mécanisme d'absorption du glucose dans l'intestin grêle?",
+        "options": ["Diffusion passive via GLUT2", "Cotransport Na+/glucose", "Endocytose active", "Diffusion facilitée via GLUT5", "Transport par les micelles"],
+        "correct": [1],
+        "explanation": "Le glucose est absorbé via un cotransport Na+/glucose (SGLUT1) actif secondaire à la membrane apicale des entérocytes."
+    },
+    {
+        "question": "Quel est le rôle du complexe moteur migrant (CMM)?",
+        "options": ["Propager le contenu gastrique vers l'intestin", "Nettoyer l'intestin grêle entre les repas", "Activer la motricité colique", "Stocker les matières fécales", "Absorber les nutriments"],
+        "correct": [1],
+        "explanation": "Le CMM élimine les résidus alimentaires et prévient la prolifération bactérienne entre les repas."
+    },
+    {
+        "question": "Quels sont les composants de la salive?",
+        "options": ["Amylase salivaire", "Hémoglobine", "Mucines", "Acide chlorhydrique", "Immunoglobulines"],
+        "correct": [0, 2, 4],
+        "explanation": "La salive contient des enzymes (amylase), des mucines (viscosité) et des IgA pour la défense."
+    },
+    {
+        "question": "Quelle est la principale cause de diarrhée osmotique?",
+        "options": ["Surproduction de sels biliaires", "Malabsorption des glucides", "Infection bactérienne", "Surproduction d'acide gastrique", "Usage d'antibiotiques"],
+        "correct": [1],
+        "explanation": "La malabsorption (ex: lactose) laisse des solutés non absorbés dans l'intestin, attirant l'eau et causant une diarrhée osmotique."
+    },
+    {
+        "question": "Quel est le rôle des acides biliaires dans la digestion des lipides?",
+        "options": ["Activer la lipase pancréatique", "Emulsionner les triglycérides", "Former les micelles", "Absorber les acides gras libres", "Désactiver les enzymes gastriques"],
+        "correct": [1, 2],
+        "explanation": "Les sels biliaires émulsionnent les lipides et forment des micelles pour faciliter leur digestion et absorption."
+    },
+    {
+        "question": "Quels sont les facteurs inhibiteurs de la sécrétion acide gastrique?",
+        "options": ["Gastrine", "Somatostatine", "CCK", "Acidité élevée dans le duodénum", "Sécrétine"],
+        "correct": [1, 3, 4],
+        "explanation": "La somatostatine, l'acidité duodénale et la sécrétine inhibent la sécrétion acide via des réflexes locaux."
+    },
+    {
+        "question": "Quelles enzymes sont responsables de la digestion des protéines dans l'intestin grêle?",
+        "options": ["Trypsine", "Pepsine", "Lipase pancréatique", "Amylase pancréatique", "Chymotrypsine"],
+        "correct": [0, 4],
+        "explanation": "La trypsine et la chymotrypsine (pancréatiques) hydrolysent les protéines en acides aminés et peptides."
+    },
+    {
+        "question": "Quelle est la fonction du complexe moteur migrant (CMM)?",
+        "options": ["Propager le contenu gastrique vers l'intestin", "Nettoyer l'intestin grêle entre les repas", "Activer la motricité colique", "Stocker les matières fécales", "Absorber les nutriments"],
+        "correct": [1],
+        "explanation": "Le CMM élimine les résidus alimentaires et prévient la prolifération bactérienne entre les repas."
+    },
+    {
+        "question": "Quels sont les composants de la salive?",
+        "options": ["Amylase salivaire", "Hémoglobine", "Mucines", "Acide chlorhydrique", "Immunoglobulines"],
+        "correct": [0, 2, 4],
+        "explanation": "La salive contient des enzymes (amylase), des mucines (viscosité) et des IgA pour la défense."
+    },
+    {
+        "question": "Quelle est la principale cause de diarrhée osmotique?",
+        "options": ["Surproduction de sels biliaires", "Malabsorption des glucides", "Infection bactérienne", "Surproduction d'acide gastrique", "Usage d'antibiotiques"],
+        "correct": [1],
+        "explanation": "La malabsorption (ex: lactose) laisse des solutés non absorbés dans l'intestin, attirant l'eau et causant une diarrhée osmotique."
+    },
+    {
+        "question": "Quel est le rôle des acides biliaires dans la digestion des lipides?",
+        "options": ["Activer la lipase pancréatique", "Emulsionner les triglycérides", "Former les micelles", "Absorber les acides gras libres", "Désactiver les enzymes gastriques"],
+        "correct": [1, 2],
+        "explanation": "Les sels biliaires émulsionnent les lipides et forment des micelles pour faciliter leur digestion et absorption."
+    },
+    {
+        "question": "Quels sont les facteurs inhibiteurs de la sécrétion acide gastrique?",
+        "options": ["Gastrine", "Somatostatine", "CCK", "Acidité élevée dans le duodénum", "Sécrétine"],
+        "correct": [1, 3, 4],
+        "explanation": "La somatostatine, l'acidité duodénale et la sécrétine inhibent la sécrétion acide via des réflexes locaux."
+    },
+    {
+        "question": "Quelles enzymes sont responsables de la digestion des protéines dans l'intestin grêle?",
+        "options": ["Trypsine", "Pepsine", "Lipase pancréatique", "Amylase pancréatique", "Chymotrypsine"],
+        "correct": [0, 4],
+        "explanation": "La trypsine et la chymotrypsine (pancréatiques) hydrolysent les protéines en acides aminés et peptides."
+    },
+    {
+        "question": "Quelle est la principale enzyme responsable de la digestion des protéines dans l'intestin grêle?",
+        "options": ["Trypsine", "Pepsine", "Lipase pancréatique", "Amylase pancréatique", "Chymotrypsine"],
+        "correct": [0, 4],
+        "explanation": "La trypsine et la chymotrypsine (pancréatiques) hydrolysent les protéines en acides aminés et peptides."
+    },
+    {
+        "question": "Quel est le mécanisme principal d'absorption de la vitamine D?",
+        "options": ["Absorption passive dans l'iléon", "Transport actif via des protéines", "Formation de micelles", "Absorption via les micelles lipidiques", "Métabolisation hépatique"],
+        "correct": [2, 3],
+        "explanation": "Les vitamines liposolubles (incluant la D) sont absorbées via les micelles formées avec les sels biliaires."
+    },
+    {
+        "question": "Quel est le rôle du facteur intrinsèque?",
+        "options": ["Activer la pepsine", "Protéger la muqueuse gastrique", "Fixer la vitamine B12", "Stimuler la sécrétion pancréatique", "Absorber le calcium"],
+        "correct": [2],
+        "explanation": "Le facteur intrinsèque (secrété par les cellules pariétales) est nécessaire pour l'absorption de la vitamine B12 dans l'iléon."
+    },
+    {
+        "question": "Quelle est la principale source de bicarbonate dans le suc pancréatique?",
+        "options": ["Cellules acinaires pancréatiques", "Sécrétion duodénale", "Cellules pariétales gastriques", "Vésicule biliaire", "Colon"],
+        "correct": [0],
+        "explanation": "Le suc pancréatique contient du HCO3- pour neutraliser l'acidité gastrique."
+    },
+    {
+        "question": "Quels sont les effets de la CCK sur le système digestif?",
+        "options": ["Inhiber la sécrétion acide gastrique", "Stimuler la contraction de la vésicule biliaire", "Relâcher le sphincter d'Oddi", "Augmenter le débit sanguin pancréatique", "Activer la lipase salivaire"],
+        "correct": [0, 1, 2, 3],
+        "explanation": "La CCK stimule la sécrétion pancréatique, la contraction vésiculaire et le relâchement du sphincter d'Oddi, tout en inhibant l'acidité gastrique."
+    },
+    {
+        "question": "Quel est le mécanisme de l'achalasie de l'œsophage?",
+        "options": ["Hypercontraction du sphincter pylorique", "Défaut de relaxation du sphincter œsophagien inférieur", "Surproduction de sécrétine", "Atrophie des cellules de Cajal", "Infection par Helicobacter pylori"],
+        "correct": [1, 3],
+        "explanation": "L'achalasie résulte d'une dégénérescence des plexus nerveux myentériques et d'un défaut de relaxation du sphincter œsophagien inférieur."
+    },
+    {
+        "question": "Quelle est la fonction des cryptes intestinales?",
+        "options": ["Absorber les nutriments", "Produire des enzymes digestives", "Protéger la muqueuse par un mucus", "Stocker les matières fécales", "Neutraliser l'acide gastrique"],
+        "correct": [1, 2],
+        "explanation": "Les cryptes contiennent des cellules sécrétoires (enzymes, mucus) et des cellules endocrines."
+    },
+    {
+        "question": "Quel est le rôle du nerf vague dans le système digestif?",
+        "options": ["Inhiber la sécrétion pancréatique", "Stimuler la motricité gastrique", "Relâcher le sphincter pylorique", "Augmenter la production de bile", "Activer la contraction du colon"],
+        "correct": [1, 2, 3, 4],
+        "explanation": "Le vague stimule la sécrétion gastrique/pancréatique, la motricité et la relaxation des sphincters."
+    },
+    {
+        "question": "Quelles sont les causes de la diarrhée sécrétoire?",
+        "options": ["Sels liquides et volumineux", "Présence de sang dans les selles", "Fréquence élevée malgré le jeûne", "Douleur abdominale", "Déshydratation osmotique"],
+        "correct": [0, 2],
+        "explanation": "La diarrhée sécrétoire persiste en jeûne et produit des selles liquides volumineuses (ex: choléra)."
+    },
+    {
+        "question": "Quelle est la principale enzyme hydrolysant l'amidon dans la bouche?",
+        "options": ["Amylase salivaire", "Pepsine", "Trypsine", "Sucrase", "Lipase pancréatique"],
+        "correct": [0],
+        "explanation": "L'amylase salivaire (α-amylase) dégrade l'amidon en maltose et dextrines."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des acides aminés?",
+        "options": ["Diffusion passive via GLUT2", "Cotransport avec Na+", "Endocytose active", "Absorption via les micelles", "Diffusion facilitée par les dipeptides"],
+        "correct": [1, 4],
+        "explanation": "Les acides aminés sont absorbés par des systèmes de cotransport Na+/aminoacide ou via des transporteurs spécifiques pour les di/tripeptides."
+    },
+    {
+        "question": "Quel est le rôle de la phase intestinale dans la régulation de la digestion?",
+        "options": ["Stimuler la salivation", "Inhiber la sécrétion pancréatique", "Neutraliser l'acide gastrique", "Absorber les nutriments", "Déclencher le péristaltisme intestinal"],
+        "correct": [1],
+        "explanation": "La phase intestinale inhibe la sécrétion acide gastrique via des hormones comme la CCK et la sécrétine."
+    },
+    {
+        "question": "Quel est le principal facteur de régulation de la vidange gastrique?",
+        "options": ["Présence de glucose dans l'intestin", "Présence de lipides dans le duodénum", "Volume de l'estomac", "Activité vagale", "Niveau de potassium"],
+        "correct": [1],
+        "explanation": "Les lipides et acides aminés dans le duodénum stimulent la CCK, qui inhibe la vidange gastrique."
+    },
+    {
+        "question": "Quel est le mécanisme de la constipation par inertie colique?",
+        "options": ["Hyperactivité du colon", "Hypertrophie du sphincter anal", "Réduction de la motricité colique", "Surproduction de sécrétine", "Malabsorption des lipides"],
+        "correct": [2],
+        "explanation": "L'inertie colique ralentit le transit, entraînant une constipation."
+    },
+    {
+        "question": "Quel est le rôle des oligosaccharidases dans l'intestin grêle?",
+        "options": ["Hydrolyser les polysaccharides", "Convertir le lactose en galactose et glucose", "Activer les enzymes pancréatiques", "Formuler les micelles", "Absorber les acides gras"],
+        "correct": [0, 1],
+        "explanation": "Les oligosaccharidases (ex: sucrase, lactase) dégradent les disaccharides en monosaccharides."
+    },
+    {
+        "question": "Quel est le médiateur principal des contractions musculaires lisses?",
+        "options": ["Calcium intracellulaire", "Potassium extracellulaire", "Glucose intracellulaire", "Acide lactique", "Acétylcholine"],
+        "correct": [0, 4],
+        "explanation": "Les contractions musculaires dépendent du calcium et des neurotransmetteurs comme l'acétylcholine."
+    },
+    {
+        "question": "Quel est le rôle du plexus myentérique?",
+        "options": ["Contrôler la motricité digestive", "Produire le mucus gastrique", "Stimuler la sécrétion biliaire", "Absorber les nutriments", "Réguler la température corporelle"],
+        "correct": [0],
+        "explanation": "Le plexus myentérique (de Auerbach) contrôle la motricité via des neurones intrinsèques."
+    },
+    {
+        "question": "Quel est le médiateur principal des contractions musculaires lisses?",
+        "options": ["Calcium intracellulaire", "Potassium extracellulaire", "Glucose intracellulaire", "Acide lactique", "Acétylcholine"],
+        "correct": [0, 4],
+        "explanation": "Les contractions musculaires dépendent du calcium et des neurotransmetteurs comme l'acétylcholine."
+    },
+    {
+        "question": "Quel est le principal substrat pour la production des sels biliaires?",
+        "options": ["Cholestérol hépatique", "Glycérine", "Acides gras essentiels", "Glycogène", "Protéines"],
+        "correct": [0],
+        "explanation": "Les sels biliaires sont synthétisés à partir du cholestérol dans le foie."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hématémèse?",
+        "options": ["Hémorragie gastrique", "Hémorragie rectale", "Inflammation de la vésicule biliaire", "Ulcère duodénal", "Hypertension artérielle"],
+        "correct": [0, 3],
+        "explanation": "L'hématémèse (vomissements de sang) peut résulter d'un ulcère gastrique ou duodénal avec saignement."
+    },
+    {
+        "question": "Quel est le rôle des cellules D de l'estomac?",
+        "options": ["Libérer de la gastrine", "Produire de la somatostatine", "Activer la lipase", "Absorber le glucose", "Stimuler la sécrétion pancréatique"],
+        "correct": [1],
+        "explanation": "Les cellules D sécrètent de la somatostatine, inhibant la gastrine et l'histamine."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypercalcémie due à une maladie des glandes parathyroïdes?",
+        "options": ["Inhibition de l'absorption intestinale", "Stimulation de la résorption osseuse", "Surproduction de calcitonine", "Augmentation de la fixation du calcium dans l'urine", "Activation de la vitamine D"],
+        "correct": [1, 4],
+        "explanation": "La PTH stimule la résorption osseuse et l'activation de la vitamine D pour augmenter l'absorption intestinale."
+    },
+    {
+        "question": "Quel est le principal effet des antiacides sur l'ulcère gastrique?",
+        "options": ["Inhiber la sécrétion d'histamine", "Neutraliser l'acide gastrique", "Augmenter la production de mucus", "Stimuler la guérison tissulaire", "Inhiber les enzymes pancréatiques"],
+        "correct": [1],
+        "explanation": "Les antiacides neutralisent temporairement l'acide gastrique pour réduire l'agression de la muqueuse."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des ions calcium dans l'intestin grêle?",
+        "options": ["Absorption passive via les micelles", "Transport actif avec vitamine D", "Diffusion facilitée par des canaux", "Absorption passive en cas de faible concentration", "Transport par les cellules de Cajal"],
+        "correct": [1, 3],
+        "explanation": "Le calcium est absorbé par diffusion passive ou transport actif dépendant de la vitamine D."
+    },
+    {
+        "question": "Quel est le rôle des cellules ECL dans le tube digestif?",
+        "options": ["Libérer de l'histamine", "Produire le facteur intrinsèque", "Absorber les nutriments", "Stimuler la sécrétion pancréatique", "Inhiber la gastrine"],
+        "correct": [0],
+        "explanation": "Les cellules ECL sécrètent de l'histamine, stimulant les cellules pariétales à produire de l'acide."
+    },
+    {
+        "question": "Quel est le principal effet des anti-inflammatoires non stéroïdiens sur l'estomac?",
+        "options": ["Inhiber la sécrétion d'acide chlorhydrique", "Aggraver la muqueuse gastrique", "Stimuler la motricité", "Absorber le calcium", "Activer la lipase"],
+        "correct": [1],
+        "explanation": "Les anti-inflammatoires non stéroïdiens (AINS) altèrent la muqueuse gastrique et augmentent le risque d'ulcères."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des acides gras?",
+        "options": ["Absorption directe dans l'estomac", "Formation de chylomicrons dans les entérocytes", "Transport via les micelles dans l'iléon", "Absorption passive par diffusion", "Stocker dans le foie"],
+        "correct": [1, 2],
+        "explanation": "Les acides gras sont absorbés via les micelles, reformés en chylomicrons et transportés par la lymphe."
+    },
+    {
+        "question": "Quel est le rôle des cellules de lisséphèges dans la paroi digestive?",
+        "options": ["Produire des enzymes digestives", "Assurer la perméabilité des villosités", "Stimuler la motricité", "Protéger la muqueuse par un mucus", "Absorber les nutriments"],
+        "correct": [3],
+        "explanation": "Les cellules myoépithéliales (lisséphèges) contractent les glandes pour aider l'écoulement de la salive ou d'autres sécrétions."
+    },
+    {
+        "question": "Quel est le principal effet de l'histamine sur la sécrétion gastrique?",
+        "options": ["Inhiber la sécrétion d'acide chlorhydrique", "Stimuler les cellules pariétales à produire de l'HCl", "Augmenter la production de mucus", "Réduire la motricité gastrique", "Stimuler la libération de gastrine"],
+        "correct": [1, 4],
+        "explanation": "L'histamine stimule directement les cellules pariétales pour augmenter la production d'acide."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des vitamines liposolubles?",
+        "options": ["Absorption passive dans l'iléon", "Formation de micelles avec les sels biliaires", "Transport actif via les entérocytes", "Absorption via les villis", "Diffusion facilitée par les micelles"],
+        "correct": [1, 2, 4],
+        "explanation": "Les vitamines liposolubles sont emportées par les micelles et absorbées par diffusion dans l'iléon."
+    },
+    {
+        "question": "Quel est le rôle des cellules de Langerhans dans le pancréas?",
+        "options": ["Produire les enzymes digestives", "Reguler le glucose sanguin", "Stocker la bile", "Absorber les nutriments", "Stimuler la motricité"],
+        "correct": [1],
+        "explanation": "Les cellules de Langerhans (exocrine) produisent des hormones comme l'insuline et le glucagon."
+    },
+    {
+        "question": "Quel est le principal effet de la somatostatine sur la digestion?",
+        "options": ["Stimuler la sécrétion pancréatique", "Inhiber la gastrine et l'histamine", "Augmenter la vidange gastrique", "Stimuler la contraction du sphincter pylorique", "Activer la lipase"],
+        "correct": [1, 3],
+        "explanation": "La somatostatine inhibe la sécrétion gastrique et pancréatique, et stimule le sphincter pylorique."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hyperglycémie postprandiale?",
+        "options": ["Absorption rapide des glucides simples", "Inhibition de l'insuline", "Stimulation de la glucagon", "Réduction de la motricité intestinale", "Augmentation de la sécrétion pancréatique"],
+        "correct": [0],
+        "explanation": "Les glucides simples sont rapidement absorbés, entraînant une hausse du glucose sanguin."
+    },
+    {
+        "question": "Quel est le principal substrat pour la formation de la bilirubine?",
+        "options": ["Hémoglobine", "Myoglobine", "Plasminogène", "Ferritine", "Collagène"],
+        "correct": [0],
+        "explanation": "La bilirubine est formée à partir de l'hémoglobine dégradée dans la rate."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hyperamylasémie?",
+        "options": ["Surproduction de salive", "Infection pancréatique", "Malabsorption des glucides", "Surproduction de CCK", "Inhibition de la sécrétine"],
+        "correct": [1],
+        "explanation": "Une inflammation pancréatique (pancréatite) libère l'amylase dans le sang."
+    },
+    {
+        "question": "Quel est le rôle des cellules de la couche musculaire oblique de l'estomac?",
+        "options": ["Générer les ondes lentes", "Contrôler la vidange gastrique", "Assurer la contraction segmentaire", "Protéger la muqueuse", "Aucun rôle moteur"],
+        "correct": [2],
+        "explanation": "La couche oblique participe aux mouvements de segmentation dans l'estomac proximal."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption de la vitamine B12?",
+        "options": ["Absorption passive dans l'estomac", "Fixation au facteur intrinsèque dans l'iléon", "Formation de micelles avec les sels biliaires", "Transport via les entérocytes sans médiateur", "Absorption active via les villis"],
+        "correct": [1],
+        "explanation": "La vitamine B12 combine au facteur intrinsèque pour être absorbée dans l'iléon."
+    },
+    {
+        "question": "Quel est le principal effet de l'acide gastrique sur les enzymes digestives?",
+        "options": ["Activer la lipase pancréatique", "Inhiber la pepsine", "Activer la pepsine", "Neutraliser la bile", "Hydrater les aliments"],
+        "correct": [2],
+        "explanation": "L'acide gastrique active la pepsine (de pepsinogène) et crée un environnement acide optimal pour les enzymes."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hématémèse?",
+        "options": ["Hémorragie gastrique", "Hémorragie rectale", "Inflammation de la vésicule biliaire", "Ulcère duodénal", "Hypertension artérielle"],
+        "correct": [0, 3],
+        "explanation": "L'hématémèse (vomissements de sang) peut résulter d'un ulcère gastrique ou duodénal avec saignement."
+    },
+    {
+        "question": "Quelles couches composent la paroi du tube digestif?",
+        "options": [
+            "Musculeuse, sous-muqueuse, muqueuse, séreuse",
+            "Muqueuse, sous-muqueuse, musculeuse, séreuse",
+            "Séreuse, musculeuse, sous-muqueuse, muqueuse",
+            "Musculeuse, muqueuse, sous-muqueuse, séreuse",
+            "Sous-muqueuse, muqueuse, musculeuse, séreuse"
+        ],
+        "correct": [1],
+        "explanation": "La paroi digestive se compose de la muqueuse (premier couche), sous-muqueuse, musculeuse et séreuse. L'ordre est muqueuse → sous-muqueuse → musculeuse → séreuse."
+    },
+    {
+        "question": "Quelles sont les fonctions des cellules interstitielles de Cajal (CIC)?",
+        "options": ["Générer les ondes lentes", "Produire les enzymes digestives", "Connecter les neurones aux muscles lisses", "Contrôler la vidange gastrique", "Activer la sécrétion pancréatique"],
+        "correct": [0, 2],
+        "explanation": "Les CIC sont des pacemakers générant les ondes lentes et forment des connexions avec les cellules musculaires via des jonctions serrées. Elles ne produisent pas d'enzymes."
+    },
+    {
+        "question": "Quel est le rôle des ondes lentes dans le MLD?",
+        "options": ["Déclencher des contractions mécaniques directes", "Créer des oscillations du potentiel membranaire", "Neutraliser l'acide gastrique", "Absorber les nutriments", "Activer la lipase pancréatique"],
+        "correct": [1],
+        "explanation": "Les ondes lentes sont des oscillations du potentiel membranaire, mais ne provoquent pas directement des contractions sans les pointes d'action."
+    },
+    {
+        "question": "Quels sont les types de mouvements de la paroi digestive?",
+        "options": ["Segmentation et peristaltisme", "Péristaltisme et vasoconstriction", "Segmentation et dilatation", "Péristaltisme et régurgitation", "Dilatation et contraction tonique"],
+        "correct": [0],
+        "explanation": "La segmentation mélange le contenu, et le péristaltisme propulse le chyme. Les autres options ne correspondent pas aux mouvements principaux."
+    },
+    {
+        "question": "Quelle hormone stimule principalement la sécrétion acide gastrique?",
+        "options": ["Gastrine", "Insuline", "Somatostatine", "Cholécystokinine", "Sécrétine"],
+        "correct": [0],
+        "explanation": "La gastrine, libérée par les cellules G, stimule les cellules pariétales à sécréter de l'HCl."
+    },
+    {
+        "question": "Quel est le rôle des sels biliaires dans la digestion des lipides?",
+        "options": ["Activer la lipase pancréatique", "Émulsionner les triglycérides", "Former des micelles avec les acides gras", "Absorber directement les acides gras", "Neutraliser l'acide gastrique"],
+        "correct": [1, 2],
+        "explanation": "Les sels biliaires émulsionnent les lipides et forment des micelles pour faciliter leur absorption."
+    },
+    {
+        "question": "Quelles enzymes sont sécrétées par le pancréas sous forme inactive?",
+        "options": ["Trypsine", "Chymotrypsine", "Lipase pancréatique", "Pepsinogène", "Carboxypeptidase"],
+        "correct": [0, 1, 4],
+        "explanation": "Les protéases pancréatiques (trypsine, chymotrypsine, carboxypeptidases) sont sécrétées sous forme inactive (proenzymes). La lipase est active dès la sécrétion."
+    },
+    {
+        "question": "Quel est le médiateur principal de la relaxation du sphincter pylorique?",
+        "options": ["Acétylcholine", "VIP", "NO", "CCK", "Glucagon"],
+        "correct": [1, 2, 3],
+        "explanation": "La CCK, le VIP, et le monoxyde d'azote (NO) stimulent la relaxation du sphincter pylorique pour permettre la vidange gastrique."
+    },
+    {
+        "question": "Quel est le but de la phase céphalique dans la digestion?",
+        "options": ["Stimuler la salivation par des stimuli visuels/olfactifs", "Inhiber la motricité gastrique", "Neutraliser l'acide gastrique", "Absorber les nutriments", "Déclencher le péristaltisme intestinal"],
+        "correct": [0],
+        "explanation": "La phase céphalique active la salivation et la sécrétion gastrique via des stimuli psychiques, comme la vue ou l'odeur des aliments."
+    },
+    {
+        "question": "Quelles sont les causes principales de l'ulcère gastroduodénal?",
+        "options": ["Surproduction de sécrétion pancréatique", "Infection par Helicobacter pylori", "Déficit du mucus gastrique", "Usage prolongé d'anti-inflammatoires", "Déficit de la lipase pancréatique"],
+        "correct": [1, 2, 3],
+        "explanation": "L'ulcère résulte d'un déséquilibre entre agressions (acide, Hp) et défenses (mucus, bicarbonate). Les AINS aggravent la muqueuse."
+    },
+    {
+        "question": "Quel est le mécanisme d'absorption du glucose dans l'intestin grêle?",
+        "options": ["Diffusion passive via GLUT2", "Cotransport Na+/glucose", "Absorption passive en milieu alcalin", "Formation de micelles avec les sels biliaires", "Transport via les cellules de Cajal"],
+        "correct": [1],
+        "explanation": "Le glucose est absorbé via un cotransport actif secondaire avec le Na+ (SGLUT1)."
+    },
+    {
+        "question": "Quel est le rôle du complexe moteur migrant (CMM)?",
+        "options": ["Propager le contenu gastrique vers l'intestin", "Nettoyer l'intestin grêle entre les repas", "Activer la motricité colique", "Stocker les matières fécales", "Absorber les nutriments"],
+        "correct": [1],
+        "explanation": "Le CMM élimine les résidus et prévient la prolifération bactérienne en dehors des repas."
+    },
+    {
+        "question": "Quels composants sont présents dans la salive?",
+        "options": ["Amylase salivaire", "Hémoglobine", "Mucines", "Acide chlorhydrique", "Immunoglobulines"],
+        "correct": [0, 2, 4],
+        "explanation": "La salive contient l'amylase, des mucines et des IgA pour la défense. L'acide chlorhydrique est gastrique."
+    },
+    {
+        "question": "Quelle est la principale cause de diarrhée osmotique?",
+        "options": ["Surproduction de sels biliaires", "Malabsorption des glucides (ex: lactose)", "Infection bactérienne", "Surproduction d'acide gastrique", "Usage d'antibiotiques"],
+        "correct": [1],
+        "explanation": "La malabsorption laisse des solutés non absorbés, attirant l'eau et causant une diarrhée osmotique."
+    },
+    {
+        "question": "Quel est le rôle des acides biliaires dans la digestion?",
+        "options": ["Activer la lipase pancréatique", "Émulsionner les graisses", "Former des micelles", "Absorber les acides gras libres", "Désactiver les enzymes gastriques"],
+        "correct": [1, 2],
+        "explanation": "Les sels biliaires émulsionnent les lipides et forment des micelles pour faciliter la digestion."
+    },
+    {
+        "question": "Quels facteurs inhibent la sécrétion acide gastrique?",
+        "options": ["Gastrine", "Somatostatine", "CCK", "Acidité élevée dans le duodénum", "Sécrétine"],
+        "correct": [1, 3, 4],
+        "explanation": "La somatostatine, l'acidité duodénale et la sécrétine inhibent la sécrétion acide via des réflexes locaux."
+    },
+    {
+        "question": "Quelles enzymes participent à la digestion des protéines dans l'intestin grêle?",
+        "options": ["Trypsine", "Pepsine", "Lipase pancréatique", "Amylase pancréatique", "Carboxypeptidase"],
+        "correct": [0, 4],
+        "explanation": "La trypsine et les carboxypeptidases (pancréatiques) hydrolysent les protéines. La pepsine est inactive dans l'intestin."
+    },
+    {
+        "question": "Quel est le rôle du facteur intrinsèque?",
+        "options": ["Activer la pepsine", "Protéger la muqueuse gastrique", "Fixer la vitamine B12", "Stimuler la sécrétion pancréatique", "Absorber le calcium"],
+        "correct": [2],
+        "explanation": "Le facteur intrinsèque fixe la vitamine B12 pour son absorption dans l'iléon."
+    },
+    {
+        "question": "Quelle est la principale source de bicarbonate dans le suc pancréatique?",
+        "options": ["Cellules acinaires pancréatiques", "Sécrétion duodénale", "Cellules pariétales gastriques", "Vésicule biliaire", "Colon"],
+        "correct": [0],
+        "explanation": "Le bicarbonate pancréatique est sécrété par les cellules acinaires pour neutraliser l'acidité gastrique."
+    },
+    {
+        "question": "Quels effets a la CCK sur le système digestif?",
+        "options": ["Inhiber la sécrétion acide gastrique", "Stimuler la contraction de la vésicule biliaire", "Relâcher le sphincter d'Oddi", "Augmenter le débit sanguin pancréatique", "Activer la lipase salivaire"],
+        "correct": [0, 1, 2, 3],
+        "explanation": "La CCK stimule la sécrétion pancréatique, la contraction vésiculaire, le relâchement du sphincter d'Oddi, et augmente le débit sanguin pancréatique."
+    },
+    {
+        "question": "Quel est le mécanisme de l'achalasie de l'œsophage?",
+        "options": ["Hypercontraction du sphincter pylorique", "Défaut de relaxation du sphincter œsophagien inférieur", "Atrophie des cellules de Cajal", "Surproduction de sécrétine", "Infection par Helicobacter pylori"],
+        "correct": [1, 2],
+        "explanation": "L'achalasie implique une dégénérescence des plexus nerveux et un défaut de relaxation du sphincter œsophagien."
+    },
+    {
+        "question": "Quel est le rôle des cryptes intestinales?",
+        "options": ["Absorber les nutriments", "Produire des enzymes digestives", "Protéger la muqueuse par un mucus", "Stocker les matières fécales", "Neutraliser l'acide gastrique"],
+        "correct": [1, 2],
+        "explanation": "Les cryptes contiennent des cellules sécrétoires (enzymes, mucus) et des cellules endocrines."
+    },
+    {
+        "question": "Quel est l'effet du nerf vague sur le système digestif?",
+        "options": ["Inhiber la sécrétion pancréatique", "Stimuler la motricité gastrique", "Relâcher le sphincter pylorique", "Augmenter la production de bile", "Activer la contraction du colon"],
+        "correct": [1, 2, 3, 4],
+        "explanation": "Le vague stimule la sécrétion gastrique/pancréatique, la motricité, et la relaxation des sphincters."
+    },
+    {
+        "question": "Quelle est la cause principale de diarrhée sécrétoire?",
+        "options": ["Sels liquides et volumineux", "Présence de sang dans les selles", "Fréquence élevée malgré le jeûne", "Déshydratation osmotique", "Malabsorption des lipides"],
+        "correct": [0, 2],
+        "explanation": "La diarrhée sécrétoire persiste en jeûne (ex: choléra) avec des selles liquides volumineuses."
+    },
+    {
+        "question": "Quelle enzyme dégrade l'amidon dans la bouche?",
+        "options": ["Amylase salivaire", "Pepsine", "Trypsine", "Sucrase", "Lipase pancréatique"],
+        "correct": [0],
+        "explanation": "L'amylase salivaire hydrolyse les liaisons α-1,4 de l'amidon en maltose et dextrines."
+    },
+    {
+        "question": "Comment les acides aminés sont-ils absorbés dans l'intestin?",
+        "options": ["Diffusion passive via GLUT2", "Cotransport avec Na+", "Endocytose active", "Absorption via les micelles", "Diffusion facilitée par les dipeptides"],
+        "correct": [1, 4],
+        "explanation": "Les acides aminés utilisent le cotransport Na+/aminoacide, et les di/tripeptides un système H+-dépendant."
+    },
+    {
+        "question": "Quel est le rôle de la phase intestinale dans la régulation?",
+        "options": ["Stimuler la salivation", "Inhiber la sécrétion pancréatique", "Neutraliser l'acidité gastrique", "Absorber les nutriments", "Déclencher le péristaltisme intestinal"],
+        "correct": [1],
+        "explanation": "La phase intestinale inhibe la sécrétion acide et stimule la sécrétion pancréatique/pancréatique."
+    },
+    {
+        "question": "Quel facteur régule la vidange gastrique?",
+        "options": ["Présence de glucose dans l'intestin", "Présence de lipides dans le duodénum", "Volume de l'estomac", "Activité vagale", "Niveau de potassium"],
+        "correct": [1],
+        "explanation": "Les lipides et acides aminés dans le duodénum stimulent la CCK, ralentissant la vidange."
+    },
+    {
+        "question": "Quel est le mécanisme de la constipation par inertie colique?",
+        "options": ["Hyperactivité du colon", "Hypertrophie du sphincter anal", "Réduction de la motricité colique", "Malabsorption des lipides", "Surproduction de sécrétine"],
+        "correct": [2],
+        "explanation": "L'inertie colique ralentit le transit, entraînant une accumulation de matières fécales."
+    },
+    {
+        "question": "Quel est le rôle des oligosaccharidases dans l'intestin?",
+        "options": ["Hydrolyser les polysaccharides", "Convertir le lactose en galactose/glucose", "Activer les enzymes pancréatiques", "Formuler les micelles", "Absorber les acides gras"],
+        "correct": [0, 1],
+        "explanation": "Les oligosaccharidases (sucrase, lactase) dégradent les disaccharides en monosaccharides."
+    },
+    {
+        "question": "Quel médiateur principal agit sur les contractions musculaires lisses?",
+        "options": ["Calcium intracellulaire", "Potassium extracellulaire", "Glucose intracellulaire", "Acétylcholine", "Prostaglandines"],
+        "correct": [0, 3],
+        "explanation": "Les contractions dépendent du calcium et de la stimulation cholinergique."
+    },
+    {
+        "question": "Quel est le rôle du plexus myentérique?",
+        "options": ["Contrôler la motricité digestive", "Produire le mucus gastrique", "Stimuler la sécrétion biliaire", "Absorber les nutriments", "Réguler la température"],
+        "correct": [0],
+        "explanation": "Le plexus myentérique (d'Auerbach) régule la motricité via des neurones intrinsèques."
+    },
+    {
+        "question": "Quel est le substrat principal pour la formation des sels biliaires?",
+        "options": ["Cholestérol hépatique", "Glycérine", "Acides gras essentiels", "Glycogène", "Protéines"],
+        "correct": [0],
+        "explanation": "Les sels biliaires sont synthétisés à partir du cholestérol dans le foie."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hématémèse (vomissements de sang)?",
+        "options": ["Hémorragie gastrique", "Hémorragie rectale", "Ulcère duodénal", "Inflammation de la vésicule biliaire", "Hypertension artérielle"],
+        "correct": [0, 2],
+        "explanation": "L'hématémèse résulte d'un ulcère gastrique ou duodénal avec saignement."
+    },
+    {
+        "question": "Quel est le rôle des cellules D de l'estomac?",
+        "options": ["Libérer de la gastrine", "Produire de la somatostatine", "Activer la lipase", "Absorber le glucose", "Stimuler la sécrétion pancréatique"],
+        "correct": [1],
+        "explanation": "Les cellules D sécrètent la somatostatine, inhibant la gastrine et l'histamine."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypercalcémie due à une hyperparathyroïdie?",
+        "options": ["Inhibition de l'absorption intestinale", "Stimulation de la résorption osseuse", "Surproduction de calcitonine", "Activation de la vitamine D", "Surproduction d'acide gastrique"],
+        "correct": [1, 3],
+        "explanation": "La PTH stimule la résorption osseuse et l'activation de la vitamine D pour augmenter l'absorption intestinale."
+    },
+    {
+        "question": "Quel est l'effet des antiacides sur l'ulcère gastrique?",
+        "options": ["Inhiber la sécrétion d'histamine", "Neutraliser l'acide gastrique", "Augmenter la production de mucus", "Stimuler la guérison tissulaire", "Inhiber les enzymes pancréatiques"],
+        "correct": [1],
+        "explanation": "Les antiacides neutralisent temporairement l'acide pour réduire l'agression de la muqueuse."
+    },
+    {
+        "question": "Quel est le mécanisme d'absorption du calcium dans l'intestin?",
+        "options": ["Absorption passive via les micelles", "Transport actif avec vitamine D", "Diffusion facilitée par des canaux", "Absorption passive en faible concentration", "Transport par les cellules de Cajal"],
+        "correct": [1, 3],
+        "explanation": "Le calcium est absorbé par diffusion passive ou transport actif dépendant de la vitamine D."
+    },
+    {
+        "question": "Quel est le rôle des cellules ECL dans le tube digestif?",
+        "options": ["Libérer de l'histamine", "Produire le facteur intrinsèque", "Absorber les nutriments", "Stimuler la contraction pancréatique", "Inhiber la gastrine"],
+        "correct": [0],
+        "explanation": "Les cellules ECL sécrètent de l'histamine, stimulant les cellules pariétales à produire de l'acide."
+    },
+    {
+        "question": "Quel est l'effet des anti-inflammatoires non stéroïdiens (AINS) sur l'estomac?",
+        "options": ["Inhiber la sécrétion d'acide", "Aggraver la muqueuse gastrique", "Stimuler la motricité", "Absorber le calcium", "Activer la lipase"],
+        "correct": [1],
+        "explanation": "Les AINS altèrent la muqueuse gastrique, augmentant le risque d'ulcères."
+    },
+    {
+        "question": "Comment les acides gras sont-ils absorbés?",
+        "options": ["Absorption directe dans l'estomac", "Formation de chylomicrons dans les entérocytes", "Transport via les micelles", "Diffusion passive", "Stockage dans le foie"],
+        "correct": [1, 2],
+        "explanation": "Les acides gras forment des micelles, sont restructurés en chylomicrons et transportés par la lymphe."
+    },
+    {
+        "question": "Quel est le rôle des cellules de lisséphèges (myoépithéliales)?",
+        "options": ["Produire des enzymes", "Aider l'écoulement des sécrétions", "Protéger la muqueuse", "Absorber les nutriments", "Générer les ondes lentes"],
+        "correct": [1],
+        "explanation": "Les cellules myoépithéliales contractent les glandes pour faciliter l'écoulement des sécrétions."
+    },
+    {
+        "question": "Quel est l'effet de l'histamine sur la sécrétion gastrique?",
+        "options": ["Inhiber l'acide chlorhydrique", "Activer la pepsine", "Stimuler les cellules pariétales", "Réduire la motricité gastrique", "Inhiber la gastrine"],
+        "correct": [2],
+        "explanation": "L'histamine stimule directement les cellules pariétales pour produire de l'HCl, activant ainsi la pepsine."
+    },
+    {
+        "question": "Comment les vitamines liposolubles sont-elles absorbées?",
+        "options": ["Absorption passive dans l'iléon", "Formation de micelles avec les sels biliaires", "Transport actif via des protéines", "Absorption via les villis", "Diffusion facilitée par les canaux"],
+        "correct": [0, 1, 3],
+        "explanation": "Les vitamines liposolubles (A, D, E, K) sont emportées par les micelles et absorbées par diffusion dans l'iléon."
+    },
+    {
+        "question": "Quel est le rôle des cellules de Langerhans dans le pancréas?",
+        "options": ["Produire des enzymes digestives", "Réguler le glucose sanguin", "Stocker la bile", "Absorber les nutriments", "Stimuler la motricité"],
+        "correct": [1],
+        "explanation": "Les cellules de Langerhans produisent des hormones comme l'insuline et le glucagon."
+    },
+    {
+        "question": "Quel est l'effet de la somatostatine sur la digestion?",
+        "options": ["Stimuler la sécrétion pancréatique", "Inhiber la gastrine et l'histamine", "Augmenter la vidange gastrique", "Relâcher le sphincter pylorique", "Activer la lipase"],
+        "correct": [1, 3],
+        "explanation": "La somatostatine inhibe la gastrine et la sécrétion pancréatique, et stimule le sphincter pylorique."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hyperglycémie postprandiale?",
+        "options": ["Absorption rapide des glucides simples", "Inhibition de l'insuline", "Stimulation de la glucagon", "Réduction de la motricité intestinale", "Augmentation de la sécrétion pancréatique"],
+        "correct": [0],
+        "explanation": "Les glucides simples (ex: sucre) sont rapidement absorbés, augmentant le glucose sanguin."
+    },
+    {
+        "question": "Quel est le substrat de la bilirubine?",
+        "options": ["Hémoglobine", "Myoglobine", "Plasminogène", "Ferritine", "Collagène"],
+        "correct": [0],
+        "explanation": "La bilirubine est formée à partir de l'hémoglobine dégradée dans la rate."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hyperamylasémie?",
+        "options": ["Surproduction de salive", "Infection pancréatique", "Malabsorption des glucides", "Surproduction de CCK", "Inhibition de la sécrétine"],
+        "correct": [1],
+        "explanation": "Une pancréatite libère l'amylase pancréatique dans le sang."
+    },
+    {
+        "question": "Quel est le rôle de la couche musculaire oblique de l'estomac?",
+        "options": ["Générer les ondes lentes", "Assurer la contraction segmentaire", "Protéger la muqueuse", "Stimuler la vidange gastrique", "Aucun rôle moteur"],
+        "correct": [1],
+        "explanation": "La couche oblique participe aux contractions segmentaires dans l'estomac proximal."
+    },
+    {
+        "question": "Quel est le mécanisme d'absorption de la vitamine B12?",
+        "options": ["Absorption passive dans l'estomac", "Fixation au facteur intrinsèque dans l'iléon", "Formation de micelles avec les sels biliaires", "Absorption via les entérocytes", "Transport par les villis"],
+        "correct": [1],
+        "explanation": "La vitamine B12 combine au facteur intrinsèque pour être absorbée dans l'iléon."
+    },
+    {
+        "question": "Quel est l'effet de l'acide gastrique sur les enzymes?",
+        "options": ["Activer la lipase pancréatique", "Activer la pepsine", "Inhiber la trypsine", "Neutraliser la bile", "Hydrater les aliments"],
+        "correct": [1],
+        "explanation": "L'acide gastrique active la pepsine (de pepsinogène) et crée un pH adapté aux enzymes."
+    },
+    {
+        "question": "Quel est le rôle des cellules de la sous-muqueuse?",
+        "options": ["Produire des enzymes", "Contenir le plexus sous-muqueux", "Absorber les nutriments", "Protéger la muqueuse", "Contrôler la motricité"],
+        "correct": [1],
+        "explanation": "La sous-muqueuse abrite le plexus sous-muqueux (de Meissner), régulant les fonctions locales."
+    },
+    {
+        "question": "Quel est le mécanisme de l'absorption des vitamines liposolubles?",
+        "options": ["Absorption passive dans l'iléon", "Formation de micelles avec les sels biliaires", "Transport actif via les entérocytes", "Absorption via les villis", "Diffusion facilitée par les micelles"],
+        "correct": [0, 1, 3],
+        "explanation": "Les vitamines liposolubles sont emportées par les micelles et absorbées par diffusion dans l'iléon."
+    },
+    {
+        "question": "Quel est le rôle des cellules de la paroi musculaire oblique de l'estomac?",
+        "options": ["Générer les ondes lentes", "Assurer la contraction segmentaire", "Protéger la muqueuse", "Absorber les nutriments", "Aucun rôle moteur"],
+        "correct": [1],
+        "explanation": "La couche oblique participe aux mouvements segmentaires dans l'estomac proximal."
+    },
+    {
+        "question": "Quel est le principal substrat de la bilirubine?",
+        "options": ["Hémoglobine", "Myoglobine", "Plasminogène", "Ferritine", "Collagène"],
+        "correct": [0],
+        "explanation": "La bilirubine est formée à partir de l'hémoglobine dégradée."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hématémèse?",
+        "options": ["Hémorragie gastrique", "Hémorragie rectale", "Ulcère duodénal", "Inflammation de la vésicule biliaire", "Hypertension artérielle"],
+        "correct": [0, 2],
+        "explanation": "L'hématémèse résulte d'une lésion gastrique ou duodénale."
+    },
+    {
+        "question": "Quel est le rôle des plexus nerveux dans la paroi digestive?",
+        "options": ["Contrôler la motricité", "Produire le mucus", "Absorber les nutriments", "Stocker les sels biliaires", "Réguler la température"],
+        "correct": [0],
+        "explanation": "Les plexus myentérique et sous-muqueux régulent la motricité et les sécrétions."
+    },
+    {
+        "question": "Quel est le mécanisme de l'hypercalcémie due à une hyperparathyroïdie?",
+        "options": ["Inhibition de l'absorption intestinale", "Stimulation de la résorption osseuse", "Surproduction de calcitonine", "Activation de la vitamine D", "Surproduction d'acide gastrique"],
+        "correct": [1, 3],
+        "explanation": "La PTH stimule la résorption osseuse et l'activation de la vitamine D pour augmenter l'absorption intestinale."
+    },
+    {
+        "question": "Quel est l'effet des anti-inflammatoires non stéroïdiens (AINS) sur l'estomac?",
+        "options": ["Inhiber la sécrétion d'acide", "Aggraver la muqueuse", "Stimuler la motricité", "Absorber le calcium", "Activer la lipase"],
+        "correct": [1],
+        "explanation": "Les AINS altèrent la muqueuse gastrique, augmentant le risque d'ulcères."
+    },
+    {
+        "question": "Quel est le mécanisme d'absorption des acides gras?",
+        "options": ["Formation de chylomicrons", "Transport via les micelles", "Diffusion passive", "Absorption active par les cellules pariétales", "Stockage dans le foie"],
+        "correct": [0, 1],
+        "explanation": "Les acides gras forment des micelles et sont restructurés en chylomicrons pour le transport lymphatique."
+    },
+    {
+        "question": "Quel est le rôle des cellules de la séreuse?",
+        "options": ["Produire des enzymes", "Protéger la paroi externe", "Contrôler la motricité", "Absorber les nutriments", "Sécréter du mucus"],
+        "correct": [1],
+        "explanation": "La séreuse est une couche protectrice externe de tissu conjonctif et cellules."
+    }
+]
